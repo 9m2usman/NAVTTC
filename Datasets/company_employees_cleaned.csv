@@ -1,0 +1,16 @@
+id,name,age,department,city,salary,experience,performance,performance_status,salary_level
+1,Ali,22.0,IT,Lahore,50000.0,1,78.0,Needs Improvement,Low
+2,Usman,25.0,IT,Islamabad,70000.0,3,91.0,Good,Medium
+3,Ahmed,28.0,HR,Lahore,60000.0,5,85.0,Good,Medium
+4,Sara,24.0,HR,Karachi,65000.0,2,88.0,Good,Medium
+5,Hina,30.0,Sales,Lahore,80000.0,6,95.0,Good,High
+6,Hamza,25.928571428571427,Sales,Islamabad,75000.0,4,72.0,Needs Improvement,Medium
+7,Ayesha,27.0,IT,Lahore,65000.0,4,89.0,Good,Medium
+8,Bilal,29.0,Sales,Karachi,90000.0,7,96.0,Good,High
+9,Zara,23.0,HR,Lahore,55000.0,2,85.85714285714286,Good,Low
+10,Ali,22.0,IT,Lahore,50000.0,1,78.0,Needs Improvement,Low
+11,Usman,25.0,IT,Islamabad,70000.0,3,91.0,Good,Medium
+12,Noor,26.0,HR,Karachi,58000.0,3,82.0,Good,Low
+13,Hassan,31.0,Sales,Lahore,85000.0,8,94.0,Good,High
+14,Maria,24.0,IT,Lahore,65000.0,2,76.0,Needs Improvement,Medium
+15,Kamran,27.0,HR,Islamabad,62000.0,4,87.0,Good,Medium

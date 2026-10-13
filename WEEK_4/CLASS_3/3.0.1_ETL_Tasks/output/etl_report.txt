@@ -1,0 +1,36 @@
+
+ETL REPORT
+
+SOURCE DATA
+Rows extracted: 121200
+
+TRANSFORMATION
+Duplicate rows removed: 1200
+Missing values fixed: 28489
+
+VALIDATION
+Rows cleaned/accepted: 118000
+Rows rejected: 2000
+
+FINAL DATA
+Final rows: 118000
+
+DATA QUALITY
+Order ID unique: True
+Missing customer IDs: 0
+Missing product IDs: 0
+Invalid quantity records: 0
+Invalid discount records: 0
+Negative net amount records: 0
+
+Overall quality passed: True
+
+OUTPUT FILES
+output/clean_orders.csv
+output/rejected_orders.csv
+output/customer_summary.csv
+output/product_summary.csv
+output/city_summary.csv
+output/monthly_summary.csv
+output/order_size_summary.csv
+output/etl_report.txt

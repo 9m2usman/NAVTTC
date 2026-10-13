@@ -1,0 +1,2 @@
+2|usman awan|password123|employee|active
+1|usman|password123|admin|active

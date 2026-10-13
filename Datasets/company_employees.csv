@@ -1,0 +1,16 @@
+id,name,age,department,city,salary,experience,performance
+1,Ali,22,IT,Lahore,50000,1,78
+2,Usman,25,IT,Islamabad,70000,3,91
+3,Ahmed,28,HR,Lahore,60000,5,85
+4,Sara,24,HR,Karachi,,2,88
+5,Hina,30,Sales,Lahore,80000,6,95
+6,Hamza,,Sales,Islamabad,75000,4,72
+7,Ayesha,27,IT,Lahore,65000,4,89
+8,Bilal,29,Sales,Karachi,90000,7,96
+9,Zara,23,HR,Lahore,55000,2,
+10,Ali,22,IT,Lahore,50000,1,78
+11,Usman,25,IT,Islamabad,70000,3,91
+12,Noor,26,HR,Karachi,58000,3,82
+13,Hassan,31,Sales,Lahore,85000,8,94
+14,Maria,24,IT,Lahore,,2,76
+15,Kamran,27,HR,Islamabad,62000,4,87

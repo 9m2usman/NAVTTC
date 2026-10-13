@@ -1,0 +1,2 @@
+1|shoe|footwear|11000.0|7
+2|women frock|women clothes|11000.0|8

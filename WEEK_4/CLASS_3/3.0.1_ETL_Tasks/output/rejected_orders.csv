@@ -1,0 +1,2001 @@
+order_id,customer_id,product_id,order_date,quantity,discount_pct,payment_method,order_status,shipping_city,total_amount,rejection_reason
+900013,14878,5350,2025-04-02,5,110.0,Unknown,Completed,Lahore,119907.43,Invalid discount_pct
+900125,33605,5067,2025-08-17,7,110.0,Card,Completed,Lahore,922018.42,Invalid discount_pct
+900149,21524,5397,2025-09-11,4,110.0,Card,Shipped,Lahore,204879.31,Invalid discount_pct
+900176,13814,5281,2025-01-21,0,0.0,Card,Completed,Karachi,93302.8,Invalid quantity
+900188,32490,5236,2024-12-07,4,110.0,Card,Completed,Islamabad,332390.94,Invalid discount_pct
+900292,12603,5353,2025-04-25,0,0.0,JazzCash,Shipped,Rawalpindi,574577.76,Invalid quantity
+900325,27299,5035,2025-08-30,0,20.0,Bank Transfer,Returned,Rawalpindi,221041.61,Invalid quantity
+900362,29193,5265,2024-12-09,1,5.0,Cash,Returned,Karachi,-999.0,Invalid total_amount
+900386,17975,5219,2025-06-28,4,15.0,Easypaisa,Completed,Lahore,-999.0,Invalid total_amount
+900417,23016,5345,2025-08-12,0,10.0,Cash,Completed,Rawalpindi,204562.89,Invalid quantity
+900486,24412,5170,2025-04-01,3,15.0,Unknown,Completed,Multan,-999.0,Invalid total_amount
+900511,27030,5271,2024-11-30,6,0.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+900536,31304,5301,2024-09-13,5,10.0,JazzCash,Completed,Islamabad,-999.0,Invalid total_amount
+900615,15536,5015,2024-01-16,4,20.0,Cash,Completed,Peshawar,-999.0,Invalid total_amount
+900650,17867,5276,2024-08-09,0,0.0,Bank Transfer,Cancelled,Karachi,702695.56,Invalid quantity
+900666,22336,5131,2024-12-16,0,10.0,Cash,Pending,Peshawar,435860.24,Invalid quantity
+900725,11375,5188,2025-09-19,6,0.0,JazzCash,Returned,Islamabad,-999.0,Invalid total_amount
+900735,25398,5285,2024-12-21,0,5.0,JazzCash,Completed,Islamabad,167261.4,Invalid quantity
+900885,34111,5160,2025-01-04,0,0.0,JazzCash,Completed,Islamabad,33144.76,Invalid quantity
+901021,25703,5271,2024-09-20,0,0.0,Card,Completed,Karachi,355163.64,Invalid quantity
+901069,13306,5008,2025-01-15,0,0.0,Card,Completed,Faisalabad,354962.09,Invalid quantity
+901087,17364,5242,2024-05-25,4,110.0,Card,Shipped,Lahore,327767.87,Invalid discount_pct
+901092,16292,5013,2025-02-10,5,25.0,Easypaisa,Returned,Multan,-999.0,Invalid total_amount
+901136,33269,5328,2025-07-30,7,0.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+901181,23905,5102,2024-02-26,0,15.0,Unknown,Completed,Rawalpindi,52925.05,Invalid quantity
+901224,34530,5159,2024-03-28,5,110.0,Easypaisa,Pending,Rawalpindi,742785.44,Invalid discount_pct
+901228,33383,5058,2025-04-26,6,0.0,Unknown,Pending,Faisalabad,-999.0,Invalid total_amount
+901235,30415,5309,2024-06-05,2,110.0,JazzCash,Completed,Karachi,16057.6,Invalid discount_pct
+901314,22405,5287,2025-11-04,2,110.0,Card,Shipped,Rawalpindi,267380.68,Invalid discount_pct
+901422,14999,5090,2025-12-16,4,110.0,JazzCash,Completed,Multan,24910.58,Invalid discount_pct
+901426,11583,5218,2025-04-25,1,110.0,Card,Returned,Lahore,4742.9,Invalid discount_pct
+901427,12273,5031,2024-06-22,4,10.0,Cash,Shipped,Lahore,-999.0,Invalid total_amount
+901529,12552,5231,2025-10-04,1,10.0,Easypaisa,Shipped,Karachi,-999.0,Invalid total_amount
+901573,18576,5306,2025-09-16,0,0.0,Cash,Completed,Multan,358293.72,Invalid quantity
+901651,18153,5261,2024-12-31,2,110.0,Cash,Completed,Lahore,70062.22,Invalid discount_pct
+901667,25184,5161,2025-09-09,7,110.0,Bank Transfer,Shipped,Multan,773567.61,Invalid discount_pct
+901792,25854,5097,2024-02-18,0,0.0,Easypaisa,Completed,Karachi,497847.36,Invalid quantity
+901906,21048,5019,2025-08-18,0,20.0,Cash,Completed,Multan,193699.06,Invalid quantity
+902009,18752,5252,2024-03-26,4,10.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+902089,28249,5230,2024-09-26,0,0.0,Cash,Cancelled,Faisalabad,699039.84,Invalid quantity
+902119,17192,5073,2025-05-24,0,0.0,Cash,Shipped,Karachi,767944.74,Invalid quantity
+902148,23068,5057,2025-09-19,7,110.0,JazzCash,Cancelled,Lahore,142951.06,Invalid discount_pct
+902159,18773,5157,2025-03-16,0,0.0,Bank Transfer,Completed,Karachi,654042.16,Invalid quantity
+902162,16861,5319,2025-07-07,0,5.0,Cash,Completed,Faisalabad,187738.98,Invalid quantity
+902202,12637,5365,2024-06-06,2,110.0,Card,Shipped,Karachi,231823.45,Invalid discount_pct
+902317,13222,5180,2024-01-14,0,15.0,Cash,Completed,Lahore,73173.71,Invalid quantity
+902321,12455,5234,2024-05-06,4,10.0,Cash,Pending,Islamabad,-999.0,Invalid total_amount
+902357,19970,5086,2025-07-25,1,110.0,Cash,Completed,Faisalabad,110018.1,Invalid discount_pct
+902364,27198,5243,2025-05-31,0,20.0,Cash,Returned,Lahore,6210.08,Invalid quantity
+902420,23113,5250,2025-11-06,0,15.0,Cash,Cancelled,Karachi,141511.19,Invalid quantity
+902431,16398,5383,2025-05-21,0,15.0,Cash,Completed,Islamabad,261047.43,Invalid quantity
+902443,20297,5355,2025-04-05,0,15.0,Easypaisa,Shipped,Lahore,621821.24,Invalid quantity
+902477,26177,5041,2024-06-26,2,15.0,Cash,Returned,Karachi,-999.0,Invalid total_amount
+902485,31118,5311,2025-12-08,5,110.0,JazzCash,Completed,Lahore,748619.95,Invalid discount_pct
+902488,14273,5103,2025-03-21,0,5.0,Card,Pending,Peshawar,740003.36,Invalid quantity
+902489,10359,5260,2025-07-06,0,15.0,Unknown,Completed,Islamabad,193084.94,Invalid quantity
+902498,29457,5018,2024-04-11,0,25.0,Bank Transfer,Shipped,Rawalpindi,383512.23,Invalid quantity
+902604,33962,5340,2024-01-10,0,20.0,Card,Cancelled,Lahore,454566.14,Invalid quantity
+902624,15722,5371,2025-10-21,0,0.0,Card,Completed,Peshawar,622457.88,Invalid quantity
+902703,32272,5105,2025-08-09,6,0.0,JazzCash,Completed,Islamabad,-999.0,Invalid total_amount
+902719,25640,5259,2025-03-30,3,110.0,Easypaisa,Shipped,Rawalpindi,250806.36,Invalid discount_pct
+902730,15303,5224,2025-07-29,0,0.0,JazzCash,Completed,Lahore,31056.53,Invalid quantity
+902753,19712,5379,2024-11-29,7,25.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+902762,34352,5327,2024-07-27,6,110.0,Bank Transfer,Returned,Lahore,855110.27,Invalid discount_pct
+902829,32923,5376,2024-11-18,4,5.0,Cash,Pending,Islamabad,-999.0,Invalid total_amount
+902874,28854,5090,2025-03-20,6,5.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
+902889,10235,5393,2024-06-06,2,0.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+902988,31051,5212,2024-07-25,0,0.0,Easypaisa,Completed,Lahore,600722.35,Invalid quantity
+903017,13831,5045,2025-12-02,0,0.0,Easypaisa,Pending,Rawalpindi,396515.24,Invalid quantity
+903045,32044,5380,2024-02-09,0,20.0,Unknown,Pending,Lahore,676881.5,Invalid quantity
+903061,15593,5128,2025-11-07,1,110.0,Cash,Cancelled,Islamabad,38361.29,Invalid discount_pct
+903124,30135,5287,2024-02-11,5,110.0,JazzCash,Completed,Rawalpindi,668451.7,Invalid discount_pct
+903132,12655,5288,2025-08-14,5,110.0,JazzCash,Pending,Karachi,449006.5,Invalid discount_pct
+903147,31179,5336,2025-01-19,3,0.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+903206,19951,5355,2024-09-11,0,15.0,Unknown,Shipped,Lahore,124364.25,Invalid quantity
+903245,26056,5168,2024-10-08,1,110.0,Card,Completed,Lahore,137254.07,Invalid discount_pct
+903305,12059,5174,2024-01-11,4,15.0,Bank Transfer,Completed,Multan,-999.0,Invalid total_amount
+903358,11468,5166,2024-03-06,0,20.0,Card,Completed,Karachi,383596.7,Invalid quantity
+903427,23451,5197,2025-09-20,0,10.0,Easypaisa,Cancelled,Karachi,298852.58,Invalid quantity
+903447,10522,5053,2025-07-06,6,0.0,Unknown,Completed,Islamabad,-999.0,Invalid total_amount
+903496,13748,5129,2024-06-19,1,110.0,Bank Transfer,Returned,Lahore,87007.44,Invalid discount_pct
+903527,28338,5367,2024-07-15,2,25.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+903624,17564,5333,2024-02-20,0,0.0,JazzCash,Shipped,Karachi,112980.53,Invalid quantity
+903640,23724,5132,2025-08-19,5,5.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+903819,10514,5375,2024-06-01,0,0.0,Easypaisa,Completed,Islamabad,389277.51,Invalid quantity
+903873,28021,5107,2024-03-22,2,110.0,Card,Completed,Rawalpindi,96286.09,Invalid discount_pct
+903953,15528,5029,2024-06-24,2,15.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+904036,25942,5186,2025-05-01,0,0.0,Card,Returned,Karachi,275597.64,Invalid quantity
+904051,30535,5079,2024-08-15,1,0.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+904056,31286,5108,2024-05-30,0,0.0,Bank Transfer,Completed,Multan,48566.35,Invalid quantity
+904104,27868,5235,2025-02-10,4,110.0,Card,Pending,Lahore,386829.72,Invalid discount_pct
+904158,28950,5195,2024-07-30,0,0.0,Card,Completed,Rawalpindi,504705.12,Invalid quantity
+904254,10757,5166,2025-09-30,0,0.0,Easypaisa,Pending,Karachi,559411.86,Invalid quantity
+904293,16304,5071,2025-04-03,5,15.0,Cash,Pending,Lahore,-999.0,Invalid total_amount
+904325,13500,5314,2025-11-15,0,10.0,JazzCash,Completed,Lahore,170067.92,Invalid quantity
+904355,16459,5356,2024-06-17,6,110.0,Bank Transfer,Completed,Lahore,418163.0,Invalid discount_pct
+904363,27386,5206,2024-11-24,5,0.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+904377,10783,5117,2024-01-13,3,10.0,Card,Shipped,Faisalabad,-999.0,Invalid total_amount
+904418,19409,5138,2024-09-30,0,0.0,Card,Shipped,Islamabad,379451.88,Invalid quantity
+904434,11849,5032,2025-08-27,2,110.0,Bank Transfer,Completed,Rawalpindi,217502.71,Invalid discount_pct
+904487,11523,5273,2024-12-15,5,10.0,Easypaisa,Completed,Faisalabad,-999.0,Invalid total_amount
+904488,24737,5191,2024-12-07,2,110.0,Unknown,Shipped,Islamabad,36857.36,Invalid discount_pct
+904528,32634,5186,2024-08-15,6,0.0,Card,Shipped,Multan,-999.0,Invalid total_amount
+904597,33439,5063,2025-06-16,7,0.0,Bank Transfer,Completed,Rawalpindi,-999.0,Invalid total_amount
+904613,28556,5296,2025-06-20,0,0.0,Card,Completed,Islamabad,99902.48,Invalid quantity
+904639,20299,5247,2025-11-14,0,0.0,Bank Transfer,Completed,Peshawar,87588.54,Invalid quantity
+904641,21720,5310,2024-08-03,0,0.0,Unknown,Completed,Multan,370892.3,Invalid quantity
+904690,31510,5396,2025-03-04,0,0.0,Easypaisa,Pending,Karachi,24874.48,Invalid quantity
+904818,15936,5343,2024-12-17,0,0.0,Unknown,Completed,Rawalpindi,20585.85,Invalid quantity
+905038,30654,5308,2024-05-08,4,0.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+905144,27460,5196,2025-06-27,0,20.0,JazzCash,Returned,Karachi,42604.44,Invalid quantity
+905161,17928,5285,2025-07-02,1,110.0,Card,Completed,Rawalpindi,22636.88,Invalid discount_pct
+905276,31508,5296,2024-07-17,0,0.0,Bank Transfer,Completed,Faisalabad,199804.96,Invalid quantity
+905326,16692,5130,2024-05-03,0,5.0,Cash,Returned,Islamabad,40431.71,Invalid quantity
+905393,33281,5024,2025-05-16,5,0.0,Card,Completed,Faisalabad,-999.0,Invalid total_amount
+905436,26502,5263,2025-05-12,4,110.0,Cash,Pending,Multan,162071.8,Invalid discount_pct
+905463,16729,5216,2025-10-07,1,110.0,JazzCash,Completed,Karachi,121944.94,Invalid discount_pct
+905465,33114,5317,2025-11-14,5,110.0,JazzCash,Shipped,Islamabad,223064.18,Invalid discount_pct
+905469,14411,5228,2024-03-14,0,10.0,Card,Shipped,Peshawar,363011.48,Invalid quantity
+905629,32007,5372,2024-12-22,0,5.0,Card,Shipped,Rawalpindi,526162.21,Invalid quantity
+905663,32058,5080,2024-02-04,7,15.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+905666,30701,5002,2025-05-01,6,15.0,Bank Transfer,Cancelled,Peshawar,-999.0,Invalid total_amount
+905801,14418,5294,2025-08-18,7,0.0,Card,Shipped,Lahore,-999.0,Invalid total_amount
+905832,22227,5289,2025-07-14,4,15.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
+905860,16684,5314,2024-03-08,5,110.0,Cash,Returned,Faisalabad,425169.81,Invalid discount_pct
+905880,13554,5286,2025-05-09,4,25.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+905895,21005,5028,2024-06-16,0,0.0,Card,Cancelled,Peshawar,290817.98,Invalid quantity
+905921,15872,5079,2025-11-07,3,10.0,Card,Completed,Multan,-999.0,Invalid total_amount
+905922,24245,5256,2024-01-27,3,25.0,Cash,Pending,Karachi,-999.0,Invalid total_amount
+905948,27788,5376,2025-06-05,0,0.0,Cash,Completed,Multan,196570.57,Invalid quantity
+905950,28999,5146,2025-08-24,5,5.0,Unknown,Completed,Karachi,-999.0,Invalid total_amount
+906045,16045,5072,2024-08-31,7,110.0,Card,Shipped,Rawalpindi,466888.59,Invalid discount_pct
+906086,17242,5006,2025-07-31,7,0.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+906137,23441,5396,2025-08-15,5,10.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+906165,17290,5193,2024-01-13,0,0.0,JazzCash,Completed,Karachi,59488.76,Invalid quantity
+906255,19409,5001,2024-03-05,5,10.0,Unknown,Completed,Lahore,-999.0,Invalid total_amount
+906410,19176,5361,2024-04-10,5,110.0,JazzCash,Shipped,Faisalabad,656201.62,Invalid discount_pct
+906503,28765,5273,2024-02-04,0,25.0,JazzCash,Pending,Rawalpindi,133824.79,Invalid quantity
+906520,24131,5398,2025-05-03,5,110.0,Unknown,Completed,Lahore,764224.95,Invalid discount_pct
+906586,22024,5181,2024-06-04,0,15.0,Card,Shipped,Lahore,288867.47,Invalid quantity
+906608,17346,5145,2025-03-13,5,10.0,Easypaisa,Shipped,Peshawar,-999.0,Invalid total_amount
+906637,13692,5217,2025-06-14,0,0.0,Easypaisa,Completed,Karachi,512968.41,Invalid quantity
+906713,18606,5289,2024-02-17,2,110.0,Bank Transfer,Returned,Lahore,284621.88,Invalid discount_pct
+906731,33577,5130,2024-06-12,0,0.0,Easypaisa,Returned,Faisalabad,148958.95,Invalid quantity
+906763,10386,5246,2024-12-26,0,0.0,Cash,Completed,Islamabad,99684.37,Invalid quantity
+906776,15013,5379,2024-06-04,0,20.0,Easypaisa,Shipped,Karachi,720422.59,Invalid quantity
+906797,25314,5075,2024-05-27,0,15.0,Easypaisa,Completed,Karachi,1068282.28,Invalid quantity
+906819,21401,5147,2025-02-27,0,20.0,Cash,Shipped,Islamabad,770443.1,Invalid quantity
+906842,30469,5195,2024-08-03,0,10.0,Bank Transfer,Completed,Islamabad,794910.56,Invalid quantity
+906844,34299,5237,2025-01-06,6,110.0,Cash,Completed,Rawalpindi,584004.57,Invalid discount_pct
+906853,15762,5158,2025-12-18,4,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+906873,12044,5386,2024-07-18,0,10.0,Unknown,Returned,Multan,116322.86,Invalid quantity
+906874,11471,5305,2024-11-01,5,5.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+906982,32573,5109,2024-07-16,6,110.0,JazzCash,Cancelled,Karachi,840682.68,Invalid discount_pct
+907166,27206,5200,2025-03-15,5,110.0,Easypaisa,Completed,Rawalpindi,107141.22,Invalid discount_pct
+907524,16071,5315,2024-03-11,0,0.0,Card,Pending,Rawalpindi,581734.8,Invalid quantity
+907545,18915,5146,2024-05-28,0,0.0,Card,Pending,Lahore,139735.23,Invalid quantity
+907751,12288,5280,2025-04-13,3,110.0,Card,Completed,Multan,64685.73,Invalid discount_pct
+907879,22323,5297,2024-06-12,1,0.0,Easypaisa,Completed,Faisalabad,-999.0,Invalid total_amount
+907886,22314,5094,2025-08-10,3,15.0,Card,Pending,Karachi,-999.0,Invalid total_amount
+907972,30711,5396,2025-10-26,7,0.0,JazzCash,Returned,Lahore,-999.0,Invalid total_amount
+908012,20070,5314,2024-05-27,5,0.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+908034,28493,5277,2024-11-13,6,15.0,JazzCash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+908047,10568,5189,2024-05-21,6,110.0,Cash,Completed,Rawalpindi,1051956.3,Invalid discount_pct
+908278,22972,5195,2025-12-15,1,10.0,Cash,Shipped,Peshawar,-999.0,Invalid total_amount
+908295,26247,5115,2025-05-24,0,5.0,Cash,Completed,Karachi,680250.84,Invalid quantity
+908417,26055,5112,2025-07-30,0,0.0,JazzCash,Completed,Karachi,321867.6,Invalid quantity
+908420,15958,5199,2024-05-30,5,110.0,Card,Shipped,Faisalabad,170581.52,Invalid discount_pct
+908421,25168,5142,2024-11-27,0,10.0,Bank Transfer,Completed,Islamabad,25227.02,Invalid quantity
+908427,13898,5257,2025-03-03,2,110.0,Cash,Pending,Lahore,259810.05,Invalid discount_pct
+908465,10957,5200,2025-11-26,0,5.0,Cash,Shipped,Peshawar,67856.11,Invalid quantity
+908639,33733,5194,2024-02-04,0,20.0,Bank Transfer,Completed,Lahore,312656.03,Invalid quantity
+908694,16306,5321,2024-03-13,0,5.0,JazzCash,Completed,Lahore,69288.86,Invalid quantity
+908699,21156,5366,2025-07-30,0,0.0,Cash,Shipped,Islamabad,308994.1,Invalid quantity
+908744,23787,5207,2025-10-01,7,110.0,Bank Transfer,Completed,Rawalpindi,521950.45,Invalid discount_pct
+908813,10315,5218,2025-05-30,0,10.0,Card,Completed,Karachi,33200.31,Invalid quantity
+908886,22695,5065,2025-10-20,5,15.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+909007,26761,5177,2025-08-29,5,5.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+909008,13374,5320,2025-03-21,5,0.0,Unknown,Returned,Lahore,-999.0,Invalid total_amount
+909009,34767,5063,2024-03-02,5,10.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+909064,15392,5251,2024-06-17,0,20.0,Card,Completed,Faisalabad,464687.26,Invalid quantity
+909187,22434,5150,2025-02-25,0,20.0,Cash,Shipped,Faisalabad,504092.11,Invalid quantity
+909189,29728,5107,2025-01-21,4,0.0,Easypaisa,Completed,Rawalpindi,-999.0,Invalid total_amount
+909197,30211,5028,2024-05-04,1,110.0,Cash,Shipped,Karachi,109056.74,Invalid discount_pct
+909244,16675,5342,2025-07-25,4,20.0,JazzCash,Cancelled,Karachi,-999.0,Invalid total_amount
+909256,13041,5391,2024-08-24,0,0.0,Unknown,Completed,Multan,94119.48,Invalid quantity
+909284,10441,5226,2024-02-21,0,10.0,Bank Transfer,Completed,Islamabad,233707.59,Invalid quantity
+909297,15215,5130,2024-04-22,0,0.0,Card,Pending,Lahore,42559.7,Invalid quantity
+909299,29613,5078,2024-01-02,2,110.0,Card,Pending,Peshawar,61278.1,Invalid discount_pct
+909363,24131,5313,2025-11-30,3,110.0,Bank Transfer,Pending,Rawalpindi,308226.39,Invalid discount_pct
+909427,34001,5351,2025-06-23,4,110.0,Bank Transfer,Completed,Rawalpindi,375245.78,Invalid discount_pct
+909477,21931,5104,2024-01-28,0,10.0,JazzCash,Cancelled,Islamabad,463704.0,Invalid quantity
+909582,22689,5263,2025-12-20,3,15.0,Easypaisa,Shipped,Multan,-999.0,Invalid total_amount
+909605,20037,5067,2024-08-27,6,0.0,JazzCash,Pending,Peshawar,-999.0,Invalid total_amount
+909743,29174,5046,2025-05-19,2,0.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+909861,22658,5072,2025-07-17,3,0.0,Bank Transfer,Returned,Lahore,-999.0,Invalid total_amount
+909870,34981,5213,2024-10-26,1,110.0,Card,Completed,Lahore,9814.58,Invalid discount_pct
+910074,32159,5300,2025-12-25,2,10.0,Easypaisa,Shipped,Lahore,-999.0,Invalid total_amount
+910129,11813,5159,2025-07-16,6,25.0,Easypaisa,Shipped,Karachi,-999.0,Invalid total_amount
+910163,22705,5052,2025-01-21,0,15.0,JazzCash,Completed,Lahore,312163.43,Invalid quantity
+910187,21747,5244,2025-04-12,0,0.0,Easypaisa,Pending,Islamabad,117318.72,Invalid quantity
+910261,21079,5007,2024-07-04,4,10.0,Card,Shipped,Rawalpindi,-999.0,Invalid total_amount
+910264,33533,5022,2024-03-31,0,0.0,JazzCash,Completed,Rawalpindi,966498.26,Invalid quantity
+910397,20460,5148,2024-09-08,0,10.0,Easypaisa,Completed,Islamabad,173590.49,Invalid quantity
+910400,23172,5257,2024-01-26,6,5.0,Easypaisa,Completed,Multan,-999.0,Invalid total_amount
+910522,30036,5163,2024-06-29,6,110.0,Unknown,Completed,Rawalpindi,210251.18,Invalid discount_pct
+910556,23778,5214,2025-10-03,7,0.0,Cash,Pending,Islamabad,-999.0,Invalid total_amount
+910623,34036,5141,2024-12-10,5,110.0,Card,Cancelled,Rawalpindi,531486.36,Invalid discount_pct
+910654,22243,5172,2025-04-03,1,5.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+910923,17887,5382,2025-03-02,4,110.0,Easypaisa,Completed,Lahore,218783.32,Invalid discount_pct
+910974,21568,5302,2024-05-10,0,10.0,Cash,Completed,Peshawar,962459.98,Invalid quantity
+911029,20768,5299,2024-07-22,0,10.0,Unknown,Cancelled,Rawalpindi,884072.2,Invalid quantity
+911033,19018,5112,2025-06-02,2,110.0,Unknown,Completed,Islamabad,203849.48,Invalid discount_pct
+911106,34877,5398,2024-07-15,4,10.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+911150,16561,5139,2024-07-25,1,0.0,JazzCash,Completed,Faisalabad,-999.0,Invalid total_amount
+911221,15418,5385,2024-09-13,6,10.0,Cash,Returned,Karachi,-999.0,Invalid total_amount
+911366,33061,5270,2025-10-20,4,110.0,Card,Completed,Rawalpindi,8038.56,Invalid discount_pct
+911376,20809,5150,2024-05-07,1,110.0,Unknown,Completed,Lahore,84015.35,Invalid discount_pct
+911395,23205,5316,2024-01-27,0,15.0,Card,Completed,Rawalpindi,702637.2,Invalid quantity
+911459,34177,5304,2024-07-28,4,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+911474,14023,5145,2025-10-30,0,15.0,Card,Shipped,Lahore,298966.97,Invalid quantity
+911477,22699,5397,2025-09-18,5,110.0,Cash,Pending,Lahore,227643.68,Invalid discount_pct
+911527,29698,5019,2024-09-29,0,10.0,Easypaisa,Cancelled,Lahore,108955.72,Invalid quantity
+911617,25447,5237,2025-04-02,4,110.0,Bank Transfer,Returned,Lahore,435140.66,Invalid discount_pct
+911628,13946,5041,2024-08-12,1,5.0,Bank Transfer,Returned,Lahore,-999.0,Invalid total_amount
+911635,19041,5060,2024-02-28,0,0.0,Unknown,Pending,Lahore,253900.16,Invalid quantity
+911640,10545,5329,2025-03-02,0,5.0,Card,Cancelled,Lahore,533859.77,Invalid quantity
+911664,23730,5286,2025-08-23,0,5.0,Easypaisa,Cancelled,Faisalabad,398514.32,Invalid quantity
+911856,31727,5347,2025-02-18,0,10.0,Bank Transfer,Pending,Peshawar,312520.57,Invalid quantity
+911920,14204,5304,2024-02-26,0,15.0,Easypaisa,Completed,Lahore,439867.1,Invalid quantity
+911921,30170,5347,2024-09-04,0,0.0,Easypaisa,Completed,Karachi,347245.08,Invalid quantity
+911985,10472,5361,2025-08-21,0,0.0,Easypaisa,Shipped,Karachi,308800.76,Invalid quantity
+912201,26469,5226,2025-02-27,0,0.0,Cash,Returned,Peshawar,259675.1,Invalid quantity
+912253,17749,5056,2025-08-23,2,5.0,Card,Shipped,Lahore,-999.0,Invalid total_amount
+912298,10977,5105,2024-08-12,4,15.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+912349,24130,5040,2025-10-06,5,20.0,Cash,Shipped,Faisalabad,-999.0,Invalid total_amount
+912423,10489,5069,2025-01-01,5,110.0,Card,Returned,Islamabad,28184.72,Invalid discount_pct
+912430,29165,5083,2025-10-19,5,15.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+912487,27427,5351,2025-10-22,0,25.0,Card,Completed,Karachi,156352.41,Invalid quantity
+912524,31289,5153,2025-07-02,0,0.0,Unknown,Completed,Peshawar,243778.44,Invalid quantity
+912543,18575,5312,2025-01-15,0,25.0,Easypaisa,Shipped,Rawalpindi,68609.61,Invalid quantity
+912685,24276,5102,2024-11-23,4,0.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+912740,21977,5096,2025-12-14,0,0.0,JazzCash,Pending,Karachi,665983.64,Invalid quantity
+912932,34945,5194,2024-06-22,2,110.0,JazzCash,Completed,Islamabad,195410.02,Invalid discount_pct
+912938,28250,5141,2024-01-23,6,110.0,JazzCash,Completed,Faisalabad,717506.59,Invalid discount_pct
+912961,18750,5358,2024-03-18,5,0.0,Easypaisa,Returned,Lahore,-999.0,Invalid total_amount
+913051,23848,5388,2025-01-20,1,15.0,Cash,Completed,Peshawar,-999.0,Invalid total_amount
+913118,15469,5118,2025-01-30,7,0.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
+913119,27872,5007,2024-06-22,7,110.0,Bank Transfer,Pending,Lahore,469283.45,Invalid discount_pct
+913234,20570,5166,2025-04-23,7,0.0,Card,Pending,Faisalabad,-999.0,Invalid total_amount
+913266,34827,5340,2025-11-11,2,5.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+913311,15233,5012,2025-10-02,0,0.0,Cash,Completed,Rawalpindi,57101.8,Invalid quantity
+913366,14101,5390,2025-09-24,0,15.0,JazzCash,Completed,Lahore,563812.18,Invalid quantity
+913516,17373,5236,2025-01-10,7,20.0,Easypaisa,Completed,Faisalabad,-999.0,Invalid total_amount
+913574,13130,5142,2025-04-03,2,110.0,Easypaisa,Returned,Multan,28030.02,Invalid discount_pct
+913628,29435,5342,2024-08-11,7,15.0,Card,Cancelled,Faisalabad,-999.0,Invalid total_amount
+913631,17955,5398,2025-01-01,4,110.0,Card,Completed,Karachi,458534.97,Invalid discount_pct
+913849,28292,5068,2025-05-17,0,25.0,JazzCash,Completed,Rawalpindi,500357.93,Invalid quantity
+914100,13996,5063,2024-07-28,3,0.0,Unknown,Pending,Lahore,-999.0,Invalid total_amount
+914329,20274,5332,2025-01-29,5,110.0,Card,Returned,Lahore,698023.45,Invalid discount_pct
+914372,12406,5071,2024-04-22,6,110.0,Unknown,Pending,Faisalabad,1038612.24,Invalid discount_pct
+914455,15132,5212,2024-11-30,0,5.0,JazzCash,Completed,Karachi,114137.25,Invalid quantity
+914546,24933,5300,2024-08-11,7,0.0,Bank Transfer,Cancelled,Faisalabad,-999.0,Invalid total_amount
+914628,28234,5341,2024-07-11,4,110.0,Card,Shipped,Lahore,537745.29,Invalid discount_pct
+914765,31199,5373,2025-12-14,1,10.0,Unknown,Completed,Islamabad,-999.0,Invalid total_amount
+914861,10627,5202,2024-10-29,4,15.0,Card,Cancelled,Lahore,-999.0,Invalid total_amount
+914863,18930,5357,2025-08-14,0,10.0,Cash,Completed,Peshawar,391731.39,Invalid quantity
+914902,28057,5332,2025-02-23,1,15.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+915005,24997,5130,2025-05-13,0,0.0,Card,Shipped,Islamabad,63839.55,Invalid quantity
+915037,19347,5134,2025-05-16,0,20.0,Card,Completed,Faisalabad,20466.38,Invalid quantity
+915074,27827,5276,2024-12-29,0,5.0,Unknown,Completed,Karachi,1168231.37,Invalid quantity
+915347,13091,5217,2025-10-20,0,0.0,Unknown,Completed,Faisalabad,512968.41,Invalid quantity
+915351,27524,5055,2025-06-06,3,10.0,Card,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+915380,28733,5024,2024-08-01,6,110.0,Easypaisa,Completed,Rawalpindi,272076.67,Invalid discount_pct
+915399,24624,5170,2024-02-26,0,5.0,Bank Transfer,Cancelled,Multan,102250.88,Invalid quantity
+915421,29704,5009,2024-06-21,0,0.0,JazzCash,Completed,Karachi,323293.66,Invalid quantity
+915466,12202,5178,2025-01-16,1,0.0,Card,Shipped,Rawalpindi,-999.0,Invalid total_amount
+915476,11242,5148,2025-03-05,3,110.0,Cash,Completed,Peshawar,289317.48,Invalid discount_pct
+915536,17373,5033,2024-11-15,0,15.0,JazzCash,Completed,Islamabad,357824.81,Invalid quantity
+915673,23113,5134,2025-08-07,6,110.0,Cash,Pending,Multan,76748.94,Invalid discount_pct
+915686,34355,5359,2024-01-11,0,0.0,Cash,Cancelled,Rawalpindi,501506.6,Invalid quantity
+915688,31606,5152,2024-04-13,0,10.0,Card,Completed,Karachi,537115.59,Invalid quantity
+915711,21609,5197,2025-01-16,5,110.0,Easypaisa,Completed,Karachi,747131.44,Invalid discount_pct
+915748,32158,5257,2024-11-27,0,0.0,JazzCash,Shipped,Lahore,611317.76,Invalid quantity
+915805,24943,5352,2024-02-21,0,5.0,JazzCash,Pending,Peshawar,194610.94,Invalid quantity
+915838,34334,5029,2025-09-02,0,20.0,Easypaisa,Returned,Rawalpindi,82171.57,Invalid quantity
+915886,30034,5082,2025-03-10,2,0.0,Unknown,Completed,Islamabad,-999.0,Invalid total_amount
+915943,16823,5285,2025-07-23,0,0.0,JazzCash,Completed,Karachi,125760.45,Invalid quantity
+916064,18143,5134,2025-12-29,7,110.0,JazzCash,Shipped,Islamabad,85063.41,Invalid discount_pct
+916099,30596,5215,2024-08-15,3,110.0,Card,Shipped,Peshawar,195959.88,Invalid discount_pct
+916208,33623,5041,2024-11-08,0,0.0,Card,Returned,Karachi,414502.83,Invalid quantity
+916278,15788,5296,2025-09-12,3,15.0,Bank Transfer,Completed,Karachi,-999.0,Invalid total_amount
+916313,18783,5175,2025-05-02,2,110.0,Card,Completed,Karachi,304689.69,Invalid discount_pct
+916440,28032,5366,2024-02-07,4,0.0,Card,Shipped,Multan,-999.0,Invalid total_amount
+916501,22506,5031,2024-05-03,6,0.0,Bank Transfer,Cancelled,Lahore,-999.0,Invalid total_amount
+916533,12230,5077,2025-06-05,2,110.0,Cash,Completed,Peshawar,83023.63,Invalid discount_pct
+916699,20462,5119,2025-10-12,0,5.0,Card,Completed,Karachi,174970.3,Invalid quantity
+916707,23736,5148,2025-06-15,2,110.0,Card,Completed,Faisalabad,173590.49,Invalid discount_pct
+916769,29943,5362,2024-11-17,2,0.0,Cash,Cancelled,Multan,-999.0,Invalid total_amount
+916782,21981,5199,2025-12-18,4,110.0,Cash,Pending,Lahore,162052.44,Invalid discount_pct
+916843,12423,5271,2024-11-26,1,0.0,Unknown,Completed,Karachi,-999.0,Invalid total_amount
+916854,16581,5226,2025-05-30,0,0.0,Unknown,Pending,Islamabad,311610.12,Invalid quantity
+916856,16532,5127,2025-04-14,0,0.0,Unknown,Completed,Karachi,95160.14,Invalid quantity
+917001,30721,5044,2024-09-19,0,25.0,Unknown,Completed,Islamabad,150451.92,Invalid quantity
+917008,26916,5378,2025-06-27,6,0.0,Bank Transfer,Pending,Multan,-999.0,Invalid total_amount
+917047,34905,5121,2025-08-12,4,110.0,Card,Completed,Islamabad,657651.52,Invalid discount_pct
+917048,28112,5263,2025-05-06,2,0.0,JazzCash,Cancelled,Lahore,-999.0,Invalid total_amount
+917090,31527,5228,2024-02-12,3,25.0,Easypaisa,Completed,Faisalabad,-999.0,Invalid total_amount
+917135,19895,5353,2024-05-09,2,110.0,Bank Transfer,Cancelled,Islamabad,272924.44,Invalid discount_pct
+917169,14973,5199,2024-03-11,0,0.0,Card,Cancelled,Rawalpindi,127936.14,Invalid quantity
+917224,20378,5345,2025-06-09,0,20.0,Card,Cancelled,Multan,103904.96,Invalid quantity
+917298,27469,5071,2025-05-15,0,0.0,Unknown,Completed,Islamabad,519306.12,Invalid quantity
+917392,28370,5213,2025-02-27,6,10.0,Easypaisa,Completed,Lahore,-999.0,Invalid total_amount
+917469,15993,5256,2025-07-31,0,5.0,Bank Transfer,Shipped,Islamabad,80202.6,Invalid quantity
+917506,28555,5305,2025-05-30,0,20.0,Card,Shipped,Islamabad,340297.89,Invalid quantity
+917537,30636,5029,2025-07-27,0,10.0,Cash,Completed,Peshawar,369772.06,Invalid quantity
+917586,31586,5091,2025-10-09,6,110.0,Unknown,Completed,Islamabad,466423.8,Invalid discount_pct
+917678,13083,5248,2024-04-17,0,0.0,Cash,Completed,Lahore,212255.8,Invalid quantity
+917695,20320,5070,2024-03-16,0,10.0,Easypaisa,Returned,Lahore,238515.37,Invalid quantity
+917732,32791,5356,2025-08-25,2,110.0,Bank Transfer,Returned,Rawalpindi,146723.86,Invalid discount_pct
+917783,15368,5258,2024-03-14,0,0.0,Card,Completed,Karachi,810867.7,Invalid quantity
+917831,15585,5092,2024-02-22,5,10.0,Cash,Completed,Multan,-999.0,Invalid total_amount
+917837,15092,5336,2025-08-12,0,10.0,Unknown,Cancelled,Peshawar,342754.82,Invalid quantity
+917863,15226,5072,2024-03-21,0,0.0,Card,Completed,Lahore,333491.85,Invalid quantity
+918118,14815,5041,2025-02-04,6,15.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+918228,25021,5210,2025-12-26,4,110.0,Cash,Completed,Karachi,30880.69,Invalid discount_pct
+918240,20489,5306,2025-04-07,7,110.0,Unknown,Completed,Karachi,836018.68,Invalid discount_pct
+918261,19607,5391,2025-01-30,1,110.0,Unknown,Pending,Lahore,13445.64,Invalid discount_pct
+918307,11427,5095,2025-01-17,7,110.0,Cash,Completed,Karachi,599662.5,Invalid discount_pct
+918356,29271,5040,2024-10-18,3,110.0,Easypaisa,Shipped,Faisalabad,378136.62,Invalid discount_pct
+918371,20105,5130,2024-02-24,0,10.0,Cash,Shipped,Karachi,134063.06,Invalid quantity
+918382,34718,5029,2025-11-27,0,0.0,Cash,Completed,Faisalabad,308143.38,Invalid quantity
+918418,16878,5125,2024-04-30,0,15.0,Cash,Shipped,Rawalpindi,487564.93,Invalid quantity
+918428,31644,5204,2025-03-07,3,10.0,JazzCash,Shipped,Karachi,-999.0,Invalid total_amount
+918438,22818,5277,2025-02-22,5,110.0,Cash,Returned,Rawalpindi,371235.6,Invalid discount_pct
+918771,12971,5152,2025-07-26,0,10.0,Cash,Completed,Karachi,447596.32,Invalid quantity
+918808,19737,5285,2025-09-21,0,0.0,Card,Pending,Multan,25152.09,Invalid quantity
+918941,25887,5133,2025-12-05,2,15.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+918962,14228,5320,2024-10-11,4,110.0,Easypaisa,Completed,Faisalabad,358410.45,Invalid discount_pct
+919018,25952,5217,2024-06-27,2,10.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+919040,28772,5372,2025-03-24,0,15.0,JazzCash,Completed,Rawalpindi,235388.36,Invalid quantity
+919189,12300,5366,2024-03-06,0,15.0,Easypaisa,Completed,Lahore,525289.97,Invalid quantity
+919212,10139,5048,2024-04-22,4,0.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+919288,23414,5112,2024-04-20,6,110.0,Easypaisa,Pending,Rawalpindi,643735.2,Invalid discount_pct
+919316,34604,5391,2024-08-01,3,110.0,JazzCash,Pending,Karachi,34286.38,Invalid discount_pct
+919342,21891,5195,2025-06-26,0,20.0,Bank Transfer,Shipped,Rawalpindi,403764.1,Invalid quantity
+919391,32278,5187,2024-09-19,0,25.0,Card,Cancelled,Lahore,328833.07,Invalid quantity
+919630,34500,5052,2024-11-29,0,10.0,JazzCash,Shipped,Faisalabad,550876.64,Invalid quantity
+919641,24291,5012,2024-03-02,0,5.0,Cash,Completed,Multan,23248.59,Invalid quantity
+919683,12187,5112,2024-04-11,0,10.0,JazzCash,Returned,Lahore,386241.12,Invalid quantity
+919691,23036,5160,2024-07-13,0,0.0,Bank Transfer,Pending,Islamabad,232013.32,Invalid quantity
+919769,28447,5334,2025-07-31,1,10.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+919829,19201,5326,2025-02-17,3,110.0,Card,Completed,Faisalabad,70803.58,Invalid discount_pct
+919920,20409,5155,2025-02-06,0,0.0,Unknown,Completed,Peshawar,207670.32,Invalid quantity
+919938,11135,5084,2025-04-18,3,15.0,Bank Transfer,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+920000,17681,5267,2024-09-07,0,0.0,Unknown,Returned,Lahore,327561.92,Invalid quantity
+920019,27122,5178,2025-09-08,0,0.0,Card,Completed,Karachi,288159.85,Invalid quantity
+920039,13539,5340,2025-02-28,0,20.0,Card,Shipped,Rawalpindi,795490.75,Invalid quantity
+920045,33523,5025,2024-11-18,0,15.0,Easypaisa,Completed,Rawalpindi,187078.35,Invalid quantity
+920067,15715,5153,2025-05-26,0,0.0,Easypaisa,Completed,Islamabad,325037.92,Invalid quantity
+920169,11253,5261,2025-05-05,5,110.0,Card,Shipped,Lahore,148882.22,Invalid discount_pct
+920248,25925,5082,2024-10-28,0,15.0,Cash,Completed,Lahore,146630.43,Invalid quantity
+920260,21670,5056,2024-07-12,0,10.0,JazzCash,Completed,Lahore,470223.0,Invalid quantity
+920265,29598,5174,2025-12-19,6,5.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+920283,33520,5207,2025-05-19,2,110.0,Easypaisa,Completed,Faisalabad,111846.52,Invalid discount_pct
+920292,22703,5383,2024-01-18,5,0.0,Card,Returned,Lahore,-999.0,Invalid total_amount
+920404,32085,5126,2024-01-14,0,0.0,Cash,Completed,Karachi,900488.89,Invalid quantity
+920508,11236,5279,2024-09-26,6,110.0,Cash,Completed,Rawalpindi,336268.91,Invalid discount_pct
+920579,25098,5185,2024-06-24,0,5.0,Cash,Returned,Karachi,448429.41,Invalid quantity
+920637,17240,5037,2024-04-23,4,110.0,Card,Returned,Lahore,645161.4,Invalid discount_pct
+920649,16542,5360,2024-08-19,0,0.0,JazzCash,Returned,Islamabad,242402.52,Invalid quantity
+920693,13110,5325,2025-12-10,2,110.0,Cash,Completed,Karachi,245286.85,Invalid discount_pct
+920710,34458,5337,2024-06-03,5,20.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+920774,14463,5272,2024-07-09,1,15.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+920782,18570,5106,2025-05-08,5,0.0,Bank Transfer,Completed,Multan,-999.0,Invalid total_amount
+920783,15255,5010,2025-04-15,6,5.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+920833,11919,5010,2024-09-06,0,20.0,Bank Transfer,Pending,Peshawar,375003.0,Invalid quantity
+920851,28237,5055,2024-03-06,0,15.0,Cash,Shipped,Rawalpindi,43104.93,Invalid quantity
+920866,25460,5389,2024-04-07,0,0.0,JazzCash,Shipped,Islamabad,339916.1,Invalid quantity
+920977,28091,5313,2024-11-30,6,10.0,Cash,Pending,Lahore,-999.0,Invalid total_amount
+921124,34268,5334,2025-08-06,2,0.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+921139,30709,5382,2025-03-12,5,110.0,Cash,Completed,Lahore,218783.32,Invalid discount_pct
+921315,14096,5055,2025-05-08,5,110.0,Card,Completed,Rawalpindi,253558.4,Invalid discount_pct
+921427,29201,5118,2024-02-12,0,5.0,Card,Returned,Lahore,23998.77,Invalid quantity
+921429,26105,5002,2025-01-14,1,110.0,Card,Pending,Faisalabad,65355.86,Invalid discount_pct
+921476,26406,5204,2025-12-30,1,15.0,Cash,Returned,Peshawar,-999.0,Invalid total_amount
+921501,18466,5202,2024-09-26,6,110.0,Cash,Completed,Karachi,688673.16,Invalid discount_pct
+921632,30012,5226,2024-07-27,3,0.0,Bank Transfer,Shipped,Karachi,-999.0,Invalid total_amount
+921643,11336,5116,2024-02-06,2,10.0,Easypaisa,Completed,Multan,-999.0,Invalid total_amount
+921727,13253,5297,2025-05-23,6,25.0,Card,Returned,Islamabad,-999.0,Invalid total_amount
+921792,25949,5349,2024-02-06,0,20.0,JazzCash,Completed,Karachi,47889.05,Invalid quantity
+921907,11699,5360,2024-12-31,1,10.0,Easypaisa,Shipped,Karachi,-999.0,Invalid total_amount
+921937,15796,5051,2024-10-07,0,15.0,Unknown,Completed,Multan,850274.69,Invalid quantity
+922001,22459,5153,2024-08-01,7,20.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+922104,20946,5138,2025-03-05,3,0.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+922219,19225,5258,2025-04-22,1,110.0,Easypaisa,Completed,Peshawar,154064.86,Invalid discount_pct
+922253,24961,5022,2024-11-09,0,0.0,Cash,Completed,Islamabad,828427.08,Invalid quantity
+922269,15773,5259,2025-12-20,0,0.0,Card,Pending,Multan,250806.36,Invalid quantity
+922283,29374,5211,2024-03-18,7,20.0,Cash,Shipped,Peshawar,-999.0,Invalid total_amount
+922313,18777,5219,2025-02-27,5,15.0,Card,Cancelled,Lahore,-999.0,Invalid total_amount
+922554,26088,5063,2024-06-19,3,110.0,Bank Transfer,Shipped,Islamabad,53602.99,Invalid discount_pct
+922568,21241,5053,2024-12-21,4,5.0,Easypaisa,Cancelled,Lahore,-999.0,Invalid total_amount
+922571,26335,5323,2024-08-16,0,0.0,Easypaisa,Shipped,Karachi,396789.72,Invalid quantity
+922621,20569,5041,2025-11-12,0,25.0,Card,Shipped,Lahore,310877.12,Invalid quantity
+922669,18072,5341,2024-05-01,2,110.0,JazzCash,Completed,Islamabad,316320.76,Invalid discount_pct
+922730,15514,5277,2024-08-24,2,0.0,Bank Transfer,Returned,Islamabad,-999.0,Invalid total_amount
+922823,11272,5097,2025-08-01,0,10.0,JazzCash,Shipped,Karachi,597416.83,Invalid quantity
+922844,21327,5018,2025-01-12,0,0.0,Cash,Completed,Rawalpindi,511349.64,Invalid quantity
+922868,16170,5234,2024-01-13,0,0.0,Bank Transfer,Shipped,Peshawar,28132.46,Invalid quantity
+922901,15343,5358,2025-08-24,0,0.0,Card,Completed,Rawalpindi,85876.5,Invalid quantity
+922915,17740,5031,2024-04-12,5,110.0,Unknown,Returned,Peshawar,791359.55,Invalid discount_pct
+923056,24794,5355,2025-02-22,4,0.0,Bank Transfer,Returned,Lahore,-999.0,Invalid total_amount
+923064,24238,5379,2025-02-09,4,0.0,Unknown,Pending,Karachi,-999.0,Invalid total_amount
+923081,22106,5362,2024-04-06,3,10.0,JazzCash,Shipped,Lahore,-999.0,Invalid total_amount
+923348,10625,5112,2025-10-30,4,10.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+923395,26590,5193,2024-03-20,7,15.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+923411,34189,5163,2024-11-18,0,0.0,Unknown,Cancelled,Lahore,175209.32,Invalid quantity
+923427,31062,5047,2024-07-20,7,0.0,JazzCash,Returned,Lahore,-999.0,Invalid total_amount
+923624,34709,5301,2025-09-07,5,5.0,Easypaisa,Pending,Lahore,-999.0,Invalid total_amount
+923695,18820,5048,2024-05-07,7,110.0,JazzCash,Completed,Lahore,970332.68,Invalid discount_pct
+923848,14805,5096,2025-02-19,7,110.0,Bank Transfer,Completed,Lahore,1048924.23,Invalid discount_pct
+923932,14522,5305,2024-11-21,3,10.0,Card,Shipped,Rawalpindi,-999.0,Invalid total_amount
+923937,28171,5304,2025-09-16,0,15.0,Cash,Completed,Karachi,439867.1,Invalid quantity
+923998,17261,5028,2025-07-03,0,15.0,Easypaisa,Cancelled,Karachi,494390.57,Invalid quantity
+924018,31712,5252,2024-04-23,0,10.0,Cash,Completed,Islamabad,532813.63,Invalid quantity
+924073,31972,5134,2025-01-25,7,15.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+924115,14147,5258,2024-08-29,0,10.0,JazzCash,Shipped,Multan,437868.56,Invalid quantity
+924122,13501,5385,2024-01-05,5,110.0,Easypaisa,Cancelled,Faisalabad,387556.82,Invalid discount_pct
+924165,10495,5244,2024-06-22,0,0.0,JazzCash,Returned,Karachi,117318.72,Invalid quantity
+924361,11277,5241,2025-05-12,0,0.0,Unknown,Returned,Karachi,266323.76,Invalid quantity
+924482,33581,5207,2024-10-24,2,110.0,Card,Completed,Peshawar,149128.7,Invalid discount_pct
+924534,23845,5394,2024-12-29,1,110.0,Bank Transfer,Completed,Lahore,37766.31,Invalid discount_pct
+924541,17509,5290,2025-09-06,0,0.0,Easypaisa,Shipped,Multan,302950.06,Invalid quantity
+924606,23773,5093,2025-01-12,0,0.0,Cash,Completed,Faisalabad,146473.02,Invalid quantity
+924666,16559,5231,2025-01-19,6,15.0,Unknown,Pending,Rawalpindi,-999.0,Invalid total_amount
+924853,24313,5192,2025-02-04,2,110.0,Card,Shipped,Lahore,105983.22,Invalid discount_pct
+924909,26291,5029,2024-10-09,5,110.0,Card,Completed,Peshawar,487893.68,Invalid discount_pct
+924942,12450,5146,2025-09-14,0,0.0,Cash,Returned,Islamabad,279470.46,Invalid quantity
+924958,29377,5026,2025-06-01,0,0.0,Bank Transfer,Completed,Islamabad,288031.32,Invalid quantity
+925062,28484,5380,2024-10-25,0,0.0,Cash,Cancelled,Karachi,987118.86,Invalid quantity
+925161,22990,5351,2025-03-27,4,110.0,Bank Transfer,Pending,Rawalpindi,416939.76,Invalid discount_pct
+925264,22745,5162,2024-01-25,7,25.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+925276,17309,5342,2024-12-12,3,25.0,Cash,Shipped,Lahore,-999.0,Invalid total_amount
+925341,30966,5398,2025-12-02,3,0.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+925397,19311,5161,2025-12-28,0,15.0,Cash,Completed,Karachi,626221.4,Invalid quantity
+925615,24391,5286,2025-03-30,0,15.0,Card,Shipped,Lahore,534848.17,Invalid quantity
+925825,27005,5082,2025-08-28,7,0.0,Easypaisa,Cancelled,Multan,-999.0,Invalid total_amount
+926068,25044,5288,2025-04-25,4,110.0,Unknown,Completed,Islamabad,359205.2,Invalid discount_pct
+926084,34348,5059,2025-10-28,0,15.0,Cash,Cancelled,Lahore,98132.01,Invalid quantity
+926165,26989,5250,2024-06-11,3,10.0,Cash,Shipped,Lahore,-999.0,Invalid total_amount
+926174,16873,5221,2025-08-19,0,20.0,Bank Transfer,Returned,Lahore,215413.0,Invalid quantity
+926394,21282,5191,2025-10-17,5,0.0,Unknown,Pending,Karachi,-999.0,Invalid total_amount
+926406,25549,5110,2025-08-18,3,110.0,Card,Shipped,Peshawar,38592.41,Invalid discount_pct
+926444,34453,5386,2025-02-02,4,0.0,Easypaisa,Cancelled,Faisalabad,-999.0,Invalid total_amount
+926509,22904,5200,2024-10-23,7,15.0,Card,Cancelled,Lahore,-999.0,Invalid total_amount
+926565,25248,5093,2024-04-18,2,110.0,Bank Transfer,Completed,Peshawar,117178.42,Invalid discount_pct
+926646,33633,5145,2025-12-10,5,15.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+926669,12330,5053,2025-02-17,3,5.0,Card,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+926797,32126,5091,2025-05-24,7,15.0,Card,Returned,Islamabad,-999.0,Invalid total_amount
+926817,29130,5076,2025-06-13,6,110.0,Unknown,Cancelled,Rawalpindi,227382.24,Invalid discount_pct
+926875,27729,5176,2025-09-17,7,0.0,Cash,Pending,Karachi,-999.0,Invalid total_amount
+926887,26011,5067,2024-02-24,4,0.0,Bank Transfer,Cancelled,Islamabad,-999.0,Invalid total_amount
+926991,15701,5079,2025-04-11,0,20.0,Cash,Completed,Rawalpindi,275126.91,Invalid quantity
+927130,10517,5036,2025-03-21,1,0.0,Card,Returned,Rawalpindi,-999.0,Invalid total_amount
+927158,31672,5373,2024-02-04,6,0.0,Card,Returned,Lahore,-999.0,Invalid total_amount
+927164,10924,5060,2025-11-13,3,0.0,Easypaisa,Returned,Karachi,-999.0,Invalid total_amount
+927263,22076,5304,2024-03-11,5,25.0,Unknown,Cancelled,Lahore,-999.0,Invalid total_amount
+927413,18946,5313,2025-08-15,0,0.0,Easypaisa,Completed,Lahore,719194.91,Invalid quantity
+927635,28197,5020,2024-03-04,1,0.0,Bank Transfer,Completed,Multan,-999.0,Invalid total_amount
+927762,20524,5180,2025-01-22,1,110.0,JazzCash,Completed,Faisalabad,43043.36,Invalid discount_pct
+927839,34688,5198,2024-08-11,3,110.0,Bank Transfer,Cancelled,Karachi,202971.78,Invalid discount_pct
+927847,20241,5033,2025-01-09,0,20.0,Easypaisa,Completed,Lahore,168388.14,Invalid quantity
+927939,20971,5040,2024-11-04,0,0.0,Unknown,Completed,Peshawar,252091.08,Invalid quantity
+928048,33789,5121,2025-02-21,0,20.0,Cash,Completed,Faisalabad,657651.52,Invalid quantity
+928105,15212,5114,2024-02-08,6,110.0,Bank Transfer,Shipped,Islamabad,576453.98,Invalid discount_pct
+928115,10604,5123,2025-10-05,0,5.0,Card,Completed,Rawalpindi,155088.92,Invalid quantity
+928197,26695,5290,2024-03-10,7,0.0,Bank Transfer,Returned,Islamabad,-999.0,Invalid total_amount
+928303,21923,5092,2025-09-06,0,0.0,Cash,Shipped,Karachi,30066.82,Invalid quantity
+928317,14544,5344,2024-04-29,0,20.0,Cash,Completed,Lahore,285482.91,Invalid quantity
+928337,23401,5378,2024-06-25,0,20.0,Card,Completed,Karachi,118270.75,Invalid quantity
+928447,13726,5083,2025-03-12,7,0.0,Bank Transfer,Completed,Karachi,-999.0,Invalid total_amount
+928453,25112,5078,2025-07-06,6,20.0,Cash,Returned,Faisalabad,-999.0,Invalid total_amount
+928458,30782,5140,2025-10-19,0,10.0,Easypaisa,Cancelled,Lahore,82712.5,Invalid quantity
+928471,17807,5169,2025-04-01,0,0.0,Card,Completed,Karachi,184225.52,Invalid quantity
+928510,15172,5128,2025-05-07,0,10.0,JazzCash,Pending,Rawalpindi,115083.86,Invalid quantity
+928542,31329,5140,2024-05-18,7,110.0,Easypaisa,Pending,Islamabad,257327.78,Invalid discount_pct
+928550,19503,5249,2024-08-27,0,10.0,Cash,Completed,Karachi,121201.45,Invalid quantity
+928620,20518,5399,2024-12-16,0,0.0,Bank Transfer,Shipped,Multan,169703.1,Invalid quantity
+928658,14717,5176,2024-03-15,0,5.0,Card,Shipped,Faisalabad,38424.34,Invalid quantity
+928688,17454,5322,2025-02-10,6,25.0,Bank Transfer,Pending,Lahore,-999.0,Invalid total_amount
+928728,28922,5348,2025-12-24,3,15.0,Bank Transfer,Shipped,Lahore,-999.0,Invalid total_amount
+928773,24168,5322,2025-01-22,0,25.0,Cash,Completed,Multan,185418.26,Invalid quantity
+928785,25676,5300,2025-01-16,6,110.0,Cash,Completed,Karachi,853977.55,Invalid discount_pct
+928809,23320,5002,2025-07-29,0,0.0,JazzCash,Completed,Faisalabad,196067.58,Invalid quantity
+928839,14236,5237,2025-06-11,5,25.0,Unknown,Returned,Islamabad,-999.0,Invalid total_amount
+928850,22598,5231,2024-05-21,3,0.0,JazzCash,Shipped,Lahore,-999.0,Invalid total_amount
+928867,15311,5132,2025-10-26,0,15.0,Cash,Pending,Peshawar,651668.18,Invalid quantity
+928886,14582,5187,2025-05-18,2,5.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+928946,21307,5150,2024-05-18,7,110.0,Easypaisa,Returned,Islamabad,698377.61,Invalid discount_pct
+928958,17042,5016,2024-08-15,0,15.0,Unknown,Completed,Multan,17613.88,Invalid quantity
+929097,23167,5199,2025-07-11,0,10.0,Card,Returned,Islamabad,76761.68,Invalid quantity
+929306,20547,5125,2024-12-30,5,10.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+929322,33066,5395,2025-10-22,1,15.0,Unknown,Shipped,Peshawar,-999.0,Invalid total_amount
+929391,12149,5017,2024-03-08,0,0.0,Card,Pending,Peshawar,141702.96,Invalid quantity
+929558,11090,5113,2024-08-25,2,110.0,Card,Completed,Lahore,179936.96,Invalid discount_pct
+929584,27498,5380,2024-10-23,0,20.0,JazzCash,Completed,Karachi,338440.75,Invalid quantity
+929730,16298,5058,2024-12-24,1,110.0,Unknown,Completed,Islamabad,98736.49,Invalid discount_pct
+929783,26026,5122,2025-02-16,0,0.0,Cash,Completed,Islamabad,276636.78,Invalid quantity
+929865,34076,5181,2024-03-14,7,110.0,Cash,Completed,Karachi,396484.76,Invalid discount_pct
+929902,19542,5089,2025-05-26,5,110.0,Card,Completed,Karachi,640250.98,Invalid discount_pct
+929931,17260,5219,2025-02-02,0,0.0,JazzCash,Completed,Lahore,1041543.3,Invalid quantity
+930025,24368,5013,2025-10-28,2,0.0,JazzCash,Shipped,Islamabad,-999.0,Invalid total_amount
+930067,34296,5313,2024-06-29,6,110.0,Card,Completed,Rawalpindi,616452.78,Invalid discount_pct
+930084,30876,5235,2025-12-14,0,20.0,Card,Completed,Lahore,464195.66,Invalid quantity
+930176,34786,5346,2025-05-06,0,25.0,Card,Completed,Islamabad,99530.14,Invalid quantity
+930284,33812,5012,2025-08-27,0,5.0,Bank Transfer,Cancelled,Rawalpindi,46497.18,Invalid quantity
+930333,16154,5064,2025-09-05,0,25.0,Cash,Cancelled,Multan,624863.51,Invalid quantity
+930358,23006,5347,2025-05-10,6,0.0,Bank Transfer,Returned,Lahore,-999.0,Invalid total_amount
+930426,16709,5158,2024-01-06,1,0.0,Unknown,Completed,Rawalpindi,-999.0,Invalid total_amount
+930481,17526,5055,2025-05-25,0,5.0,Cash,Completed,Lahore,48176.1,Invalid quantity
+930554,23744,5228,2025-04-03,1,110.0,Card,Completed,Peshawar,48977.74,Invalid discount_pct
+930617,33015,5059,2024-01-19,6,20.0,Card,Pending,Peshawar,-999.0,Invalid total_amount
+930623,31471,5261,2024-08-04,4,20.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+930644,26234,5299,2024-01-29,1,110.0,Easypaisa,Cancelled,Rawalpindi,119279.58,Invalid discount_pct
+930683,29221,5117,2024-05-17,5,110.0,Card,Completed,Faisalabad,107016.06,Invalid discount_pct
+930717,17152,5238,2024-08-27,4,110.0,JazzCash,Shipped,Lahore,68958.56,Invalid discount_pct
+930895,30947,5349,2024-11-01,6,5.0,Bank Transfer,Returned,Islamabad,-999.0,Invalid total_amount
+930910,30867,5076,2024-05-13,0,0.0,Card,Completed,Islamabad,113691.12,Invalid quantity
+931049,27706,5089,2025-12-07,0,0.0,Cash,Completed,Karachi,301294.58,Invalid quantity
+931092,30249,5169,2025-09-25,0,0.0,JazzCash,Completed,Peshawar,322394.66,Invalid quantity
+931230,34510,5031,2024-09-11,5,15.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+931334,32548,5265,2025-05-13,1,15.0,Bank Transfer,Cancelled,Peshawar,-999.0,Invalid total_amount
+931518,28232,5177,2025-03-27,6,110.0,Unknown,Completed,Karachi,165590.57,Invalid discount_pct
+931732,11224,5293,2025-10-08,0,0.0,Easypaisa,Shipped,Multan,976979.82,Invalid quantity
+931764,28109,5373,2024-12-04,4,0.0,Bank Transfer,Completed,Faisalabad,-999.0,Invalid total_amount
+931786,21804,5382,2025-07-15,5,110.0,Cash,Pending,Faisalabad,273479.15,Invalid discount_pct
+931795,25245,5022,2024-08-07,0,0.0,Bank Transfer,Completed,Islamabad,552284.72,Invalid quantity
+931928,16562,5103,2025-06-26,0,10.0,Card,Returned,Lahore,100150.83,Invalid quantity
+931979,17689,5196,2024-03-09,0,10.0,JazzCash,Shipped,Lahore,28758.0,Invalid quantity
+932324,20413,5068,2024-11-13,2,15.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+932420,16889,5348,2024-10-15,0,5.0,Bank Transfer,Completed,Karachi,536270.48,Invalid quantity
+932427,16162,5217,2024-12-01,0,5.0,JazzCash,Shipped,Peshawar,649759.99,Invalid quantity
+932516,12462,5159,2025-01-26,0,20.0,Easypaisa,Completed,Lahore,132050.74,Invalid quantity
+932645,20326,5311,2024-06-13,0,0.0,Cash,Pending,Islamabad,945625.2,Invalid quantity
+932798,16255,5103,2024-05-02,7,20.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+932875,18644,5008,2025-04-21,0,15.0,Bank Transfer,Completed,Faisalabad,258615.24,Invalid quantity
+932933,31451,5024,2024-05-13,4,20.0,Easypaisa,Cancelled,Karachi,-999.0,Invalid total_amount
+932939,30629,5250,2024-06-09,4,0.0,Bank Transfer,Shipped,Lahore,-999.0,Invalid total_amount
+932954,24688,5086,2025-05-08,7,110.0,Unknown,Cancelled,Karachi,693114.03,Invalid discount_pct
+932987,32800,5026,2024-08-28,0,10.0,Cash,Completed,Islamabad,907298.66,Invalid quantity
+932996,31467,5238,2025-06-14,4,110.0,Cash,Returned,Karachi,68958.56,Invalid discount_pct
+933062,15583,5006,2024-10-28,0,15.0,Bank Transfer,Completed,Faisalabad,69235.33,Invalid quantity
+933215,13558,5146,2024-04-23,0,20.0,Easypaisa,Completed,Peshawar,74525.46,Invalid quantity
+933246,29380,5014,2024-11-13,1,5.0,Unknown,Shipped,Peshawar,-999.0,Invalid total_amount
+933354,14466,5151,2024-06-30,0,0.0,Bank Transfer,Completed,Karachi,726697.3,Invalid quantity
+933372,32858,5299,2025-04-12,0,0.0,JazzCash,Completed,Islamabad,982302.44,Invalid quantity
+933407,17557,5133,2024-07-17,0,15.0,Cash,Completed,Lahore,553021.68,Invalid quantity
+933518,16161,5229,2024-07-11,3,0.0,JazzCash,Shipped,Karachi,-999.0,Invalid total_amount
+933547,15999,5001,2024-03-08,6,110.0,Card,Shipped,Faisalabad,840088.68,Invalid discount_pct
+933575,20853,5075,2024-07-14,0,5.0,Cash,Completed,Islamabad,682264.31,Invalid quantity
+933688,22529,5236,2025-06-28,0,10.0,Easypaisa,Cancelled,Karachi,199434.56,Invalid quantity
+933783,31830,5148,2025-02-13,0,0.0,Card,Shipped,Peshawar,578634.96,Invalid quantity
+933788,17840,5135,2024-08-27,4,0.0,Bank Transfer,Shipped,Lahore,-999.0,Invalid total_amount
+933968,31798,5180,2025-03-26,5,110.0,Cash,Completed,Multan,215216.8,Invalid discount_pct
+934009,22857,5388,2025-08-17,0,10.0,Cash,Returned,Lahore,227226.82,Invalid quantity
+934059,34662,5191,2025-09-23,4,0.0,Cash,Completed,Multan,-999.0,Invalid total_amount
+934065,27394,5112,2025-11-22,6,110.0,Card,Completed,Rawalpindi,547174.92,Invalid discount_pct
+934157,29033,5228,2025-03-16,1,110.0,Card,Cancelled,Karachi,57620.87,Invalid discount_pct
+934182,10475,5347,2024-04-23,1,25.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+934302,21521,5205,2024-07-03,0,0.0,Easypaisa,Shipped,Karachi,123781.56,Invalid quantity
+934314,17745,5091,2025-09-28,0,0.0,JazzCash,Completed,Lahore,310949.2,Invalid quantity
+934323,33417,5091,2025-05-19,1,110.0,Cash,Completed,Lahore,69963.57,Invalid discount_pct
+934430,34023,5212,2025-02-06,3,0.0,Bank Transfer,Cancelled,Faisalabad,-999.0,Invalid total_amount
+934490,32413,5191,2025-05-30,3,110.0,Card,Shipped,Lahore,49757.44,Invalid discount_pct
+934659,23662,5076,2025-01-04,5,0.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+934751,16156,5227,2025-09-02,2,10.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+934836,22559,5273,2024-02-07,0,5.0,Unknown,Pending,Rawalpindi,33902.28,Invalid quantity
+934839,13434,5111,2024-05-14,7,110.0,Card,Completed,Karachi,353498.96,Invalid discount_pct
+934900,29323,5209,2024-07-30,0,5.0,Cash,Completed,Faisalabad,102790.55,Invalid quantity
+934966,28918,5290,2025-06-04,7,110.0,Card,Completed,Rawalpindi,1060325.21,Invalid discount_pct
+935018,26773,5238,2024-11-15,0,0.0,JazzCash,Completed,Lahore,120677.48,Invalid quantity
+935047,11402,5367,2025-01-25,0,5.0,Card,Returned,Peshawar,120592.56,Invalid quantity
+935096,19755,5071,2024-02-27,6,110.0,Bank Transfer,Completed,Islamabad,882820.4,Invalid discount_pct
+935104,33949,5252,2025-07-23,0,0.0,Cash,Shipped,Karachi,592015.14,Invalid quantity
+935112,22365,5039,2024-03-21,0,10.0,Bank Transfer,Completed,Rawalpindi,768604.57,Invalid quantity
+935214,15080,5041,2024-06-04,0,5.0,Card,Pending,Rawalpindi,525036.92,Invalid quantity
+935247,32581,5070,2024-07-14,0,0.0,Bank Transfer,Completed,Islamabad,927559.78,Invalid quantity
+935684,33217,5131,2024-11-08,0,5.0,JazzCash,Pending,Peshawar,552089.63,Invalid quantity
+935685,11285,5279,2025-10-06,2,110.0,Cash,Completed,Islamabad,125276.65,Invalid discount_pct
+935710,17571,5088,2024-09-02,0,10.0,JazzCash,Completed,Lahore,110602.26,Invalid quantity
+935730,11142,5278,2024-07-08,4,15.0,Easypaisa,Shipped,Islamabad,-999.0,Invalid total_amount
+935802,11435,5312,2024-10-06,6,5.0,Easypaisa,Completed,Islamabad,-999.0,Invalid total_amount
+935977,21158,5066,2025-07-02,0,15.0,Easypaisa,Pending,Peshawar,111925.2,Invalid quantity
+936022,10802,5253,2024-07-11,7,110.0,Card,Pending,Lahore,1199413.67,Invalid discount_pct
+936080,24316,5091,2024-12-10,0,0.0,Bank Transfer,Completed,Karachi,310949.2,Invalid quantity
+936219,30350,5393,2025-06-23,4,20.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+936246,21076,5173,2024-09-24,6,10.0,Unknown,Returned,Karachi,-999.0,Invalid total_amount
+936581,12594,5393,2024-07-25,2,110.0,Cash,Completed,Lahore,121611.56,Invalid discount_pct
+936600,11953,5030,2025-04-08,3,110.0,Card,Returned,Lahore,251549.32,Invalid discount_pct
+936647,22968,5396,2025-11-29,3,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+936749,18828,5100,2024-11-10,0,20.0,Easypaisa,Returned,Faisalabad,719213.49,Invalid quantity
+936846,16410,5276,2024-07-10,1,0.0,Bank Transfer,Pending,Peshawar,-999.0,Invalid total_amount
+936945,27534,5325,2025-08-11,0,0.0,Card,Completed,Islamabad,774590.04,Invalid quantity
+937008,29677,5109,2025-05-17,0,15.0,JazzCash,Pending,Lahore,595483.57,Invalid quantity
+937070,11887,5188,2025-08-10,0,0.0,Cash,Pending,Islamabad,102786.18,Invalid quantity
+937146,10935,5265,2024-01-29,1,110.0,JazzCash,Shipped,Lahore,91449.26,Invalid discount_pct
+937150,29774,5182,2025-06-29,0,10.0,Card,Shipped,Lahore,258033.87,Invalid quantity
+937201,22541,5310,2024-09-25,0,15.0,Card,Completed,Karachi,126103.38,Invalid quantity
+937274,33379,5017,2024-11-13,4,0.0,Cash,Pending,Faisalabad,-999.0,Invalid total_amount
+937333,23832,5253,2025-05-19,5,110.0,Card,Completed,Karachi,685379.24,Invalid discount_pct
+937354,14437,5253,2024-10-31,0,5.0,Card,Returned,Multan,813887.85,Invalid quantity
+937383,22338,5091,2025-12-27,3,110.0,JazzCash,Cancelled,Lahore,209890.71,Invalid discount_pct
+937402,24893,5370,2024-06-24,4,110.0,Bank Transfer,Completed,Karachi,651583.72,Invalid discount_pct
+937405,17025,5122,2025-08-20,0,20.0,Bank Transfer,Completed,Lahore,368849.04,Invalid quantity
+937564,10613,5332,2024-06-23,0,0.0,Cash,Returned,Lahore,139604.69,Invalid quantity
+937660,23269,5147,2025-03-14,4,10.0,Cash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+937763,18686,5181,2024-10-26,0,0.0,Cash,Returned,Islamabad,169922.04,Invalid quantity
+937780,15426,5245,2025-10-06,0,10.0,JazzCash,Completed,Faisalabad,1132292.45,Invalid quantity
+937977,29914,5274,2025-02-01,0,15.0,Easypaisa,Shipped,Faisalabad,18531.31,Invalid quantity
+938109,16863,5047,2025-09-01,6,0.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+938220,27762,5232,2024-03-09,0,20.0,Cash,Shipped,Multan,282261.94,Invalid quantity
+938251,29955,5349,2025-05-07,3,5.0,Card,Cancelled,Lahore,-999.0,Invalid total_amount
+938493,23046,5134,2024-06-22,0,10.0,Card,Returned,Rawalpindi,11512.34,Invalid quantity
+938515,10786,5374,2025-08-31,5,110.0,Easypaisa,Shipped,Multan,804303.92,Invalid discount_pct
+938661,12710,5358,2025-02-28,4,20.0,Unknown,Shipped,Karachi,-999.0,Invalid total_amount
+938747,29010,5272,2025-11-13,4,110.0,Bank Transfer,Completed,Rawalpindi,282004.57,Invalid discount_pct
+938801,26652,5363,2024-03-09,0,10.0,Bank Transfer,Completed,Faisalabad,28001.26,Invalid quantity
+938919,25400,5301,2024-09-16,3,25.0,Cash,Pending,Peshawar,-999.0,Invalid total_amount
+938986,28134,5274,2025-11-07,0,0.0,Card,Cancelled,Rawalpindi,130809.24,Invalid quantity
+939000,25632,5291,2024-01-28,4,20.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+939129,20121,5378,2024-11-20,4,110.0,Card,Shipped,Karachi,197117.92,Invalid discount_pct
+939293,30370,5333,2025-09-09,0,15.0,Card,Completed,Lahore,672234.15,Invalid quantity
+939343,31181,5208,2025-02-26,0,5.0,Cash,Completed,Lahore,545871.9,Invalid quantity
+939493,18380,5056,2025-12-30,3,110.0,JazzCash,Completed,Faisalabad,352667.25,Invalid discount_pct
+939503,11133,5083,2025-04-09,0,10.0,Bank Transfer,Shipped,Multan,283550.08,Invalid quantity
+939513,33916,5187,2024-04-10,7,110.0,Cash,Shipped,Karachi,438444.09,Invalid discount_pct
+939550,16172,5377,2024-03-23,2,110.0,Cash,Cancelled,Lahore,198516.6,Invalid discount_pct
+939583,26033,5052,2025-10-25,0,10.0,JazzCash,Returned,Multan,771227.29,Invalid quantity
+939584,18455,5072,2024-02-29,5,15.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+939585,34316,5343,2024-10-17,5,110.0,Unknown,Completed,Lahore,102929.25,Invalid discount_pct
+939631,31766,5333,2024-03-19,0,15.0,JazzCash,Completed,Peshawar,288100.35,Invalid quantity
+939645,34355,5205,2024-02-19,4,110.0,Card,Shipped,Karachi,165042.08,Invalid discount_pct
+939820,15052,5147,2024-01-10,0,0.0,JazzCash,Shipped,Karachi,160508.98,Invalid quantity
+939890,32668,5012,2025-01-22,4,10.0,Card,Cancelled,Lahore,-999.0,Invalid total_amount
+939904,28641,5037,2025-06-22,4,110.0,Bank Transfer,Pending,Islamabad,573476.8,Invalid discount_pct
+940022,26021,5216,2024-10-29,3,15.0,Cash,Shipped,Faisalabad,-999.0,Invalid total_amount
+940096,27120,5375,2024-08-06,0,0.0,Card,Completed,Multan,648795.85,Invalid quantity
+940118,17560,5119,2025-11-18,0,0.0,Bank Transfer,Completed,Islamabad,92089.63,Invalid quantity
+940142,11613,5165,2024-12-31,0,0.0,Bank Transfer,Completed,Lahore,408702.24,Invalid quantity
+940601,27259,5079,2024-04-11,6,110.0,Card,Shipped,Lahore,928553.33,Invalid discount_pct
+940739,15496,5136,2025-03-26,0,10.0,Card,Returned,Lahore,139461.98,Invalid quantity
+940841,14260,5379,2025-04-06,0,0.0,Cash,Shipped,Lahore,900528.24,Invalid quantity
+940895,27613,5163,2025-05-14,6,0.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+941138,10403,5399,2024-03-23,6,10.0,JazzCash,Completed,Faisalabad,-999.0,Invalid total_amount
+941301,33603,5103,2025-01-28,6,0.0,Card,Shipped,Islamabad,-999.0,Invalid total_amount
+941348,26701,5164,2024-11-11,0,0.0,Easypaisa,Shipped,Faisalabad,82886.52,Invalid quantity
+941576,31789,5152,2024-04-16,0,5.0,Cash,Returned,Multan,283477.67,Invalid quantity
+941611,15936,5383,2024-11-18,0,0.0,JazzCash,Completed,Peshawar,307114.62,Invalid quantity
+941677,22495,5185,2025-05-18,1,5.0,Unknown,Shipped,Faisalabad,-999.0,Invalid total_amount
+941693,21113,5275,2024-01-12,1,10.0,Card,Returned,Karachi,-999.0,Invalid total_amount
+941704,30791,5208,2025-07-31,6,110.0,JazzCash,Shipped,Faisalabad,492516.0,Invalid discount_pct
+941783,22485,5214,2024-05-23,0,10.0,Cash,Shipped,Peshawar,876805.27,Invalid quantity
+941987,18965,5020,2024-05-20,1,110.0,Card,Cancelled,Karachi,113153.59,Invalid discount_pct
+942010,34478,5051,2025-01-30,0,20.0,Easypaisa,Cancelled,Karachi,800258.54,Invalid quantity
+942076,16246,5053,2025-05-11,1,20.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+942231,19847,5034,2025-01-22,0,5.0,Card,Completed,Faisalabad,115550.53,Invalid quantity
+942234,18887,5005,2024-04-14,0,0.0,JazzCash,Returned,Islamabad,522513.39,Invalid quantity
+942239,11164,5134,2025-02-08,2,5.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+942282,19842,5116,2024-09-08,2,25.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+942307,11314,5060,2024-05-25,4,0.0,JazzCash,Returned,Lahore,-999.0,Invalid total_amount
+942411,29107,5141,2025-12-20,0,0.0,Easypaisa,Completed,Islamabad,797229.54,Invalid quantity
+942434,30409,5169,2024-04-07,0,0.0,Easypaisa,Pending,Peshawar,276338.28,Invalid quantity
+942453,17200,5205,2025-08-02,1,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+942565,24255,5035,2024-05-20,5,110.0,Card,Shipped,Rawalpindi,460503.35,Invalid discount_pct
+942568,25708,5266,2024-11-14,0,0.0,Easypaisa,Completed,Karachi,96821.34,Invalid quantity
+942591,15642,5068,2025-08-30,0,20.0,Cash,Completed,Peshawar,640458.14,Invalid quantity
+942636,28429,5158,2025-01-18,6,15.0,Cash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+942643,22645,5261,2025-12-03,2,20.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+942674,26591,5001,2024-07-14,7,110.0,JazzCash,Pending,Lahore,980103.46,Invalid discount_pct
+942695,11236,5189,2025-07-24,4,110.0,Unknown,Shipped,Rawalpindi,631173.78,Invalid discount_pct
+942696,32058,5121,2024-10-02,6,110.0,Cash,Cancelled,Rawalpindi,986477.28,Invalid discount_pct
+942757,25491,5175,2025-07-10,3,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+942815,19609,5363,2025-04-13,4,110.0,Card,Completed,Peshawar,124450.04,Invalid discount_pct
+942862,15101,5211,2024-09-18,0,0.0,JazzCash,Returned,Faisalabad,717053.04,Invalid quantity
+942920,16939,5392,2024-06-10,5,110.0,Card,Completed,Karachi,413315.75,Invalid discount_pct
+942989,17057,5051,2024-12-18,6,110.0,Easypaisa,Completed,Karachi,857419.86,Invalid discount_pct
+943004,17164,5248,2024-05-18,2,15.0,Card,Shipped,Multan,-999.0,Invalid total_amount
+943086,21994,5393,2024-03-06,4,0.0,JazzCash,Completed,Faisalabad,-999.0,Invalid total_amount
+943105,12539,5379,2025-04-01,2,110.0,Bank Transfer,Completed,Karachi,255149.67,Invalid discount_pct
+943128,29680,5265,2024-05-23,0,15.0,Easypaisa,Pending,Multan,388659.36,Invalid quantity
+943217,27087,5289,2024-10-03,3,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+943356,24646,5139,2025-10-30,6,25.0,Card,Shipped,Lahore,-999.0,Invalid total_amount
+943369,17303,5317,2024-01-06,4,110.0,Card,Shipped,Lahore,187843.52,Invalid discount_pct
+943409,28496,5016,2025-06-13,6,110.0,JazzCash,Completed,Karachi,124333.26,Invalid discount_pct
+943437,24601,5348,2024-10-23,4,10.0,Bank Transfer,Shipped,Faisalabad,-999.0,Invalid total_amount
+943477,24749,5119,2024-10-20,5,110.0,Easypaisa,Pending,Islamabad,391380.93,Invalid discount_pct
+943551,13743,5144,2025-12-06,0,0.0,Cash,Completed,Rawalpindi,59931.0,Invalid quantity
+943587,26416,5388,2024-09-03,5,0.0,Cash,Shipped,Faisalabad,-999.0,Invalid total_amount
+943594,18805,5087,2025-01-25,3,10.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+943861,13492,5004,2025-08-08,0,20.0,Easypaisa,Returned,Multan,599477.16,Invalid quantity
+943869,24905,5173,2024-08-15,7,20.0,Bank Transfer,Shipped,Islamabad,-999.0,Invalid total_amount
+944045,18047,5360,2025-02-25,3,110.0,Cash,Shipped,Faisalabad,193922.02,Invalid discount_pct
+944051,29068,5088,2024-06-15,4,110.0,Card,Shipped,Lahore,417830.76,Invalid discount_pct
+944111,15911,5026,2024-06-03,4,25.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+944173,22903,5030,2025-03-29,2,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+944354,14249,5380,2024-10-06,6,0.0,Cash,Cancelled,Lahore,-999.0,Invalid total_amount
+944365,24781,5253,2025-12-06,0,0.0,Card,Returned,Karachi,856724.05,Invalid quantity
+944502,28569,5245,2025-07-08,0,15.0,Cash,Shipped,Karachi,152769.62,Invalid quantity
+944532,13596,5276,2024-06-04,1,0.0,Unknown,Shipped,Rawalpindi,-999.0,Invalid total_amount
+944602,14428,5192,2024-06-16,0,5.0,JazzCash,Completed,Faisalabad,314637.67,Invalid quantity
+944645,34402,5167,2024-04-01,2,110.0,Card,Completed,Karachi,149361.46,Invalid discount_pct
+944756,32073,5147,2024-05-01,0,0.0,Cash,Shipped,Lahore,1123562.86,Invalid quantity
+944764,31607,5191,2025-04-22,0,15.0,Card,Completed,Faisalabad,46993.13,Invalid quantity
+944786,11353,5016,2024-06-11,4,110.0,Cash,Pending,Faisalabad,82888.84,Invalid discount_pct
+944823,17756,5160,2024-11-10,0,20.0,JazzCash,Completed,Lahore,106063.23,Invalid quantity
+944889,13841,5016,2024-05-24,4,110.0,Cash,Completed,Islamabad,66311.07,Invalid discount_pct
+945000,11894,5172,2025-01-31,0,0.0,Bank Transfer,Completed,Peshawar,126088.82,Invalid quantity
+945129,13278,5271,2024-05-10,2,0.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
+945144,13566,5122,2025-10-15,2,15.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
+945191,11411,5392,2025-07-20,0,10.0,Unknown,Cancelled,Islamabad,223190.5,Invalid quantity
+945199,15909,5310,2024-06-13,5,0.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+945251,27527,5017,2025-08-08,0,0.0,Unknown,Completed,Karachi,236171.6,Invalid quantity
+945254,26816,5003,2024-12-18,0,15.0,Cash,Pending,Peshawar,170045.59,Invalid quantity
+945285,29519,5399,2024-03-02,0,20.0,JazzCash,Cancelled,Multan,58183.92,Invalid quantity
+945317,29993,5397,2024-03-02,5,15.0,JazzCash,Shipped,Peshawar,-999.0,Invalid total_amount
+945320,29245,5348,2025-08-02,1,0.0,Bank Transfer,Completed,Rawalpindi,-999.0,Invalid total_amount
+945377,23863,5099,2024-10-16,1,15.0,Cash,Cancelled,Lahore,-999.0,Invalid total_amount
+945471,34140,5054,2024-11-02,4,5.0,JazzCash,Pending,Islamabad,-999.0,Invalid total_amount
+945493,12557,5076,2024-09-07,3,20.0,Cash,Cancelled,Faisalabad,-999.0,Invalid total_amount
+945504,16427,5323,2025-09-04,0,5.0,Bank Transfer,Completed,Rawalpindi,565425.35,Invalid quantity
+945614,25374,5144,2024-12-29,1,15.0,JazzCash,Completed,Islamabad,-999.0,Invalid total_amount
+945630,26328,5097,2024-08-02,1,110.0,Bank Transfer,Pending,Faisalabad,132759.3,Invalid discount_pct
+945749,24083,5231,2025-04-15,1,110.0,Unknown,Completed,Islamabad,129378.55,Invalid discount_pct
+945930,27905,5292,2024-05-13,3,20.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+945947,33457,5316,2025-03-24,4,110.0,Bank Transfer,Shipped,Lahore,661305.6,Invalid discount_pct
+946033,30036,5364,2024-02-27,0,25.0,Unknown,Completed,Karachi,222814.32,Invalid quantity
+946043,14010,5094,2024-09-03,0,0.0,Cash,Completed,Lahore,101168.22,Invalid quantity
+946051,28047,5332,2024-02-19,3,20.0,Cash,Cancelled,Islamabad,-999.0,Invalid total_amount
+946167,25389,5271,2024-07-12,5,110.0,Cash,Returned,Lahore,843513.64,Invalid discount_pct
+946261,15750,5200,2025-11-12,5,110.0,JazzCash,Shipped,Karachi,113093.51,Invalid discount_pct
+946323,11205,5262,2024-02-22,0,25.0,JazzCash,Completed,Islamabad,196315.88,Invalid quantity
+946351,31466,5366,2024-09-03,0,0.0,JazzCash,Completed,Lahore,463491.15,Invalid quantity
+946357,15865,5373,2024-12-12,2,0.0,Card,Shipped,Multan,-999.0,Invalid total_amount
+946386,30818,5254,2025-10-08,0,5.0,Cash,Cancelled,Multan,448409.97,Invalid quantity
+946412,22544,5095,2025-12-23,1,110.0,Card,Completed,Rawalpindi,80311.94,Invalid discount_pct
+946475,13265,5339,2025-10-14,1,10.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+946522,27460,5318,2025-04-21,0,0.0,JazzCash,Shipped,Karachi,499677.44,Invalid quantity
+946574,20136,5281,2025-09-04,0,5.0,Cash,Completed,Rawalpindi,177275.32,Invalid quantity
+946609,34753,5132,2024-01-19,0,25.0,Cash,Cancelled,Rawalpindi,230000.54,Invalid quantity
+946623,15037,5072,2025-08-21,6,110.0,Card,Cancelled,Lahore,360171.2,Invalid discount_pct
+946637,30977,5124,2025-05-01,0,10.0,Bank Transfer,Shipped,Karachi,419291.32,Invalid quantity
+946655,16107,5400,2025-07-11,0,0.0,JazzCash,Cancelled,Islamabad,408101.58,Invalid quantity
+946687,18921,5224,2024-02-17,6,110.0,Bank Transfer,Completed,Islamabad,186339.18,Invalid discount_pct
+946689,17719,5319,2025-12-28,0,10.0,Cash,Pending,Karachi,88928.99,Invalid quantity
+946730,26991,5245,2025-03-14,0,15.0,JazzCash,Pending,Rawalpindi,763848.08,Invalid quantity
+946795,11908,5337,2025-01-20,3,0.0,Card,Shipped,Islamabad,-999.0,Invalid total_amount
+946923,24630,5396,2024-03-16,1,110.0,Unknown,Returned,Lahore,24874.48,Invalid discount_pct
+947040,26171,5036,2025-01-13,0,0.0,Card,Returned,Karachi,903982.2,Invalid quantity
+947098,33286,5383,2025-10-04,0,0.0,Bank Transfer,Returned,Lahore,460671.93,Invalid quantity
+947140,29770,5151,2024-01-14,0,5.0,Cash,Shipped,Lahore,828434.92,Invalid quantity
+947177,33344,5016,2024-08-23,0,0.0,Unknown,Returned,Multan,82888.84,Invalid quantity
+947201,26682,5039,2025-05-17,0,0.0,Cash,Completed,Faisalabad,142334.18,Invalid quantity
+947239,25913,5307,2024-11-14,0,5.0,Card,Completed,Lahore,98301.81,Invalid quantity
+947310,28932,5363,2024-07-03,3,5.0,Card,Pending,Faisalabad,-999.0,Invalid total_amount
+947403,17945,5096,2024-03-22,0,0.0,Cash,Completed,Lahore,665983.64,Invalid quantity
+947586,10862,5391,2024-05-24,7,20.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+947601,34292,5301,2024-05-20,0,15.0,Cash,Shipped,Rawalpindi,465552.28,Invalid quantity
+947862,33449,5029,2024-09-26,5,0.0,Cash,Shipped,Multan,-999.0,Invalid total_amount
+947867,31001,5301,2024-06-01,0,15.0,JazzCash,Cancelled,Karachi,133014.94,Invalid quantity
+947869,16735,5316,2025-05-22,0,0.0,Cash,Completed,Peshawar,991958.4,Invalid quantity
+947892,24355,5148,2025-04-29,0,20.0,Unknown,Shipped,Lahore,154302.66,Invalid quantity
+947943,26882,5292,2024-11-23,6,110.0,Card,Completed,Faisalabad,410298.84,Invalid discount_pct
+947949,13354,5176,2024-02-23,6,0.0,Cash,Shipped,Lahore,-999.0,Invalid total_amount
+947970,31733,5313,2024-11-07,1,0.0,Unknown,Pending,Peshawar,-999.0,Invalid total_amount
+948038,21452,5246,2025-01-28,0,10.0,Card,Completed,Faisalabad,89715.93,Invalid quantity
+948043,26119,5049,2025-01-05,0,10.0,Unknown,Pending,Islamabad,805118.72,Invalid quantity
+948065,15937,5198,2025-09-06,0,10.0,JazzCash,Cancelled,Multan,121783.07,Invalid quantity
+948207,17529,5205,2025-07-03,7,10.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+948219,20163,5289,2025-11-29,0,5.0,Easypaisa,Completed,Islamabad,405586.18,Invalid quantity
+948259,10913,5271,2024-07-05,3,110.0,Unknown,Completed,Lahore,532745.46,Invalid discount_pct
+948268,18200,5333,2025-04-09,0,0.0,Easypaisa,Completed,Lahore,677883.18,Invalid quantity
+948332,18859,5251,2024-05-25,0,0.0,JazzCash,Completed,Faisalabad,435644.31,Invalid quantity
+948410,18137,5191,2024-11-01,0,5.0,Easypaisa,Completed,Multan,70028.98,Invalid quantity
+948418,32110,5149,2025-06-19,0,25.0,JazzCash,Shipped,Rawalpindi,341622.16,Invalid quantity
+948443,12768,5225,2024-05-25,1,110.0,Card,Shipped,Lahore,22554.26,Invalid discount_pct
+948540,11799,5090,2024-07-06,0,5.0,Card,Shipped,Karachi,13920.62,Invalid quantity
+948598,28773,5100,2024-01-27,1,10.0,Unknown,Completed,Lahore,-999.0,Invalid total_amount
+948610,16887,5297,2025-12-21,0,20.0,Unknown,Shipped,Karachi,3231.75,Invalid quantity
+948641,19484,5262,2024-07-05,5,0.0,Easypaisa,Pending,Lahore,-999.0,Invalid total_amount
+948660,15523,5254,2025-04-19,0,20.0,Card,Returned,Islamabad,161832.17,Invalid quantity
+948711,32211,5266,2025-11-23,3,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+949069,12306,5317,2024-10-05,6,0.0,Bank Transfer,Shipped,Multan,-999.0,Invalid total_amount
+949094,16359,5167,2025-03-19,0,10.0,Easypaisa,Completed,Karachi,158147.42,Invalid quantity
+949210,33070,5128,2024-05-27,1,110.0,Card,Completed,Peshawar,38361.29,Invalid discount_pct
+949212,34595,5215,2024-01-16,0,0.0,Cash,Pending,Peshawar,130639.92,Invalid quantity
+949357,34579,5340,2025-05-01,6,15.0,Card,Returned,Lahore,-999.0,Invalid total_amount
+949483,22490,5390,2024-10-22,2,10.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+949513,20536,5308,2025-11-25,0,5.0,Easypaisa,Completed,Islamabad,168074.88,Invalid quantity
+949551,18377,5286,2025-05-26,0,0.0,Cash,Shipped,Karachi,419488.76,Invalid quantity
+949646,20034,5222,2025-10-13,3,20.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+949726,28172,5357,2024-09-03,6,110.0,Unknown,Pending,Islamabad,522308.52,Invalid discount_pct
+949774,28875,5200,2024-10-15,0,10.0,Card,Completed,Multan,85712.98,Invalid quantity
+949831,13855,5042,2025-07-28,0,5.0,Bank Transfer,Completed,Peshawar,41943.21,Invalid quantity
+949848,22166,5042,2024-12-11,6,0.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+949905,32439,5028,2024-06-03,0,0.0,Card,Shipped,Karachi,872453.94,Invalid quantity
+950007,27162,5323,2024-02-26,2,10.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+950032,27175,5048,2025-03-24,4,110.0,Card,Returned,Lahore,554475.82,Invalid discount_pct
+950119,27668,5356,2025-05-15,0,0.0,Cash,Completed,Faisalabad,366809.65,Invalid quantity
+950130,13251,5283,2025-06-26,4,20.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+950368,20825,5270,2024-05-20,0,5.0,Bank Transfer,Returned,Karachi,9545.79,Invalid quantity
+950375,17225,5148,2024-02-09,6,110.0,Card,Pending,Karachi,578634.96,Invalid discount_pct
+950392,17986,5381,2025-06-18,0,5.0,JazzCash,Completed,Karachi,339229.27,Invalid quantity
+950417,27471,5227,2024-08-31,0,0.0,Bank Transfer,Shipped,Karachi,353670.48,Invalid quantity
+950418,19077,5020,2024-12-31,5,110.0,JazzCash,Pending,Lahore,671849.45,Invalid discount_pct
+950444,25039,5230,2025-12-26,5,5.0,Cash,Shipped,Multan,-999.0,Invalid total_amount
+950445,24020,5315,2025-12-26,4,20.0,Unknown,Completed,Faisalabad,-999.0,Invalid total_amount
+950457,22206,5046,2024-04-12,0,0.0,JazzCash,Shipped,Lahore,107709.57,Invalid quantity
+950731,27797,5125,2024-02-26,0,0.0,Card,Completed,Peshawar,717007.25,Invalid quantity
+950806,34053,5337,2024-11-12,6,0.0,Easypaisa,Pending,Lahore,-999.0,Invalid total_amount
+950840,10575,5307,2025-03-14,6,10.0,Bank Transfer,Shipped,Peshawar,-999.0,Invalid total_amount
+950914,27942,5292,2024-11-16,0,5.0,Card,Completed,Lahore,129927.97,Invalid quantity
+950924,12419,5012,2025-02-26,2,10.0,Unknown,Completed,Multan,-999.0,Invalid total_amount
+950949,29597,5157,2024-05-20,4,20.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+950959,20819,5184,2024-08-08,0,10.0,Unknown,Completed,Islamabad,49111.72,Invalid quantity
+951022,23762,5283,2025-07-06,0,0.0,Bank Transfer,Completed,Peshawar,656643.95,Invalid quantity
+951028,17530,5178,2025-04-13,4,110.0,Easypaisa,Completed,Lahore,230527.88,Invalid discount_pct
+951068,24120,5281,2024-11-01,5,110.0,Cash,Completed,Faisalabad,419862.6,Invalid discount_pct
+951131,31196,5102,2025-10-12,1,110.0,Card,Returned,Karachi,11674.64,Invalid discount_pct
+951185,26159,5293,2024-09-09,0,0.0,Unknown,Completed,Peshawar,488489.91,Invalid quantity
+951235,17587,5063,2024-02-24,3,0.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+951367,16311,5212,2024-01-17,0,15.0,Unknown,Returned,Karachi,102122.8,Invalid quantity
+951387,20232,5054,2025-11-10,0,0.0,JazzCash,Completed,Peshawar,770550.5,Invalid quantity
+951407,31820,5255,2024-04-18,0,0.0,Cash,Completed,Islamabad,467285.1,Invalid quantity
+951410,25965,5063,2024-02-27,7,5.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+951473,20197,5079,2024-07-17,2,20.0,Unknown,Shipped,Multan,-999.0,Invalid total_amount
+951596,32775,5033,2024-06-05,4,110.0,JazzCash,Pending,Peshawar,420970.36,Invalid discount_pct
+951661,26196,5309,2024-08-01,2,0.0,Unknown,Shipped,Karachi,-999.0,Invalid total_amount
+951705,33515,5347,2024-05-03,0,5.0,Easypaisa,Pending,Karachi,164941.41,Invalid quantity
+951750,32108,5374,2024-04-28,2,0.0,Unknown,Completed,Islamabad,-999.0,Invalid total_amount
+951946,13092,5237,2024-10-14,3,110.0,JazzCash,Pending,Lahore,343532.1,Invalid discount_pct
+951965,11766,5117,2025-08-05,0,0.0,Bank Transfer,Completed,Rawalpindi,176261.75,Invalid quantity
+952055,33732,5221,2025-02-21,0,10.0,Bank Transfer,Pending,Lahore,48467.92,Invalid quantity
+952117,24710,5008,2024-02-04,7,110.0,Easypaisa,Shipped,Peshawar,319465.88,Invalid discount_pct
+952124,29409,5101,2024-10-31,3,110.0,Cash,Completed,Peshawar,516926.34,Invalid discount_pct
+952179,24511,5325,2025-05-17,6,20.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+952218,24591,5220,2024-04-14,0,0.0,Cash,Completed,Rawalpindi,121016.28,Invalid quantity
+952219,24725,5383,2025-02-17,0,10.0,JazzCash,Completed,Lahore,967411.05,Invalid quantity
+952237,27468,5307,2025-10-31,0,10.0,Cash,Completed,Rawalpindi,279384.09,Invalid quantity
+952302,24124,5114,2024-09-26,4,15.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+952323,31198,5207,2024-01-26,5,0.0,Card,Returned,Karachi,-999.0,Invalid total_amount
+952345,25074,5063,2024-04-16,7,110.0,Cash,Completed,Karachi,147145.46,Invalid discount_pct
+952360,26594,5109,2024-11-01,4,110.0,Easypaisa,Returned,Karachi,560455.12,Invalid discount_pct
+952432,18614,5079,2024-01-12,7,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+952522,14034,5017,2024-03-16,1,5.0,Unknown,Completed,Faisalabad,-999.0,Invalid total_amount
+952559,11385,5226,2025-05-30,3,20.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+952575,23378,5125,2024-08-29,1,110.0,Card,Returned,Multan,143401.45,Invalid discount_pct
+952597,26293,5009,2025-05-26,3,15.0,Bank Transfer,Completed,Karachi,-999.0,Invalid total_amount
+952672,15690,5261,2024-09-15,0,0.0,Card,Completed,Lahore,245217.77,Invalid quantity
+952723,10203,5234,2025-09-20,4,0.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+952789,22330,5001,2024-07-08,0,15.0,Card,Completed,Karachi,476050.25,Invalid quantity
+952834,34653,5022,2024-06-20,0,10.0,Easypaisa,Completed,Islamabad,124264.06,Invalid quantity
+952882,11003,5184,2025-12-14,0,10.0,Cash,Pending,Faisalabad,122779.3,Invalid quantity
+952886,30631,5322,2025-10-12,0,0.0,Bank Transfer,Shipped,Karachi,197779.48,Invalid quantity
+952910,22276,5358,2024-02-24,6,110.0,Easypaisa,Completed,Karachi,137402.4,Invalid discount_pct
+952913,21866,5323,2025-03-07,0,5.0,Cash,Completed,Lahore,659662.91,Invalid quantity
+952937,24133,5139,2025-09-21,4,110.0,Card,Cancelled,Faisalabad,559734.48,Invalid discount_pct
+952973,34404,5104,2024-04-16,6,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+952997,29515,5057,2024-09-12,7,110.0,Bank Transfer,Cancelled,Multan,128655.95,Invalid discount_pct
+953006,21552,5214,2024-09-15,7,10.0,Easypaisa,Returned,Islamabad,-999.0,Invalid total_amount
+953082,21445,5308,2024-04-10,0,0.0,Bank Transfer,Completed,Rawalpindi,176920.93,Invalid quantity
+953094,11649,5114,2025-01-17,0,0.0,Card,Pending,Karachi,240189.16,Invalid quantity
+953102,28578,5389,2025-11-28,6,110.0,JazzCash,Completed,Lahore,1019748.3,Invalid discount_pct
+953265,24995,5232,2024-12-17,2,10.0,Easypaisa,Returned,Lahore,-999.0,Invalid total_amount
+953368,18045,5146,2025-04-17,7,0.0,Bank Transfer,Returned,Karachi,-999.0,Invalid total_amount
+953470,31693,5140,2025-09-13,5,10.0,Easypaisa,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+953474,20451,5399,2025-07-12,3,15.0,JazzCash,Returned,Multan,-999.0,Invalid total_amount
+953552,24992,5103,2024-02-08,7,5.0,Card,Cancelled,Faisalabad,-999.0,Invalid total_amount
+953613,11111,5287,2025-04-24,1,110.0,Card,Completed,Lahore,113636.79,Invalid discount_pct
+953646,33929,5199,2024-05-18,7,0.0,Easypaisa,Returned,Lahore,-999.0,Invalid total_amount
+953714,11537,5023,2024-02-10,6,10.0,JazzCash,Shipped,Karachi,-999.0,Invalid total_amount
+953730,33627,5122,2025-06-30,0,0.0,Card,Completed,Rawalpindi,276636.78,Invalid quantity
+953858,13288,5107,2024-02-28,0,0.0,JazzCash,Completed,Karachi,152030.67,Invalid quantity
+953917,17635,5022,2025-08-19,0,10.0,Cash,Completed,Lahore,869848.43,Invalid quantity
+953926,20556,5089,2025-12-14,0,0.0,Easypaisa,Returned,Islamabad,451941.87,Invalid quantity
+953944,11309,5182,2024-11-05,7,110.0,JazzCash,Returned,Faisalabad,568630.2,Invalid discount_pct
+953990,21583,5060,2024-08-11,0,0.0,Easypaisa,Completed,Karachi,507800.32,Invalid quantity
+954109,33661,5062,2025-08-17,5,0.0,JazzCash,Pending,Islamabad,-999.0,Invalid total_amount
+954132,18747,5017,2024-09-06,0,0.0,Card,Completed,Karachi,47234.32,Invalid quantity
+954208,26033,5055,2024-11-13,0,10.0,Cash,Completed,Peshawar,136921.54,Invalid quantity
+954213,31311,5058,2024-07-24,7,5.0,Card,Shipped,Islamabad,-999.0,Invalid total_amount
+954259,28364,5330,2024-09-18,7,5.0,Easypaisa,Completed,Peshawar,-999.0,Invalid total_amount
+954276,15462,5194,2024-11-08,7,110.0,Cash,Completed,Islamabad,683935.07,Invalid discount_pct
+954393,14192,5129,2025-09-05,7,0.0,Cash,Pending,Islamabad,-999.0,Invalid total_amount
+954434,25307,5110,2025-06-01,5,5.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+954515,11777,5280,2025-07-03,0,20.0,JazzCash,Completed,Faisalabad,17249.53,Invalid quantity
+954516,16055,5214,2025-08-18,0,10.0,Unknown,Shipped,Multan,876805.27,Invalid quantity
+954565,32813,5295,2025-08-13,1,5.0,JazzCash,Returned,Karachi,-999.0,Invalid total_amount
+954627,25320,5234,2024-05-07,0,0.0,Card,Completed,Rawalpindi,14066.23,Invalid quantity
+954706,20256,5383,2024-01-14,4,25.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+954763,20955,5066,2024-11-12,0,20.0,Card,Returned,Lahore,316024.08,Invalid quantity
+954831,33174,5193,2024-05-30,0,10.0,Cash,Pending,Karachi,80309.83,Invalid quantity
+954843,16932,5318,2025-05-16,0,15.0,Cash,Completed,Lahore,424725.82,Invalid quantity
+954986,12090,5299,2025-07-01,2,110.0,Bank Transfer,Completed,Lahore,280657.84,Invalid discount_pct
+954992,16750,5225,2025-09-04,5,5.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+955041,18778,5088,2025-01-25,2,0.0,Cash,Pending,Karachi,-999.0,Invalid total_amount
+955065,18512,5338,2024-03-23,7,20.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+955097,20373,5177,2024-02-01,0,0.0,Cash,Completed,Multan,162343.7,Invalid quantity
+955155,29244,5122,2024-10-23,6,110.0,Cash,Cancelled,Karachi,553273.56,Invalid discount_pct
+955287,25892,5219,2025-10-21,4,25.0,Bank Transfer,Completed,Rawalpindi,-999.0,Invalid total_amount
+955476,24617,5190,2025-04-04,7,0.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+955544,22051,5280,2024-05-23,0,5.0,Card,Completed,Karachi,20483.81,Invalid quantity
+955551,17949,5322,2025-06-14,0,10.0,Bank Transfer,Completed,Faisalabad,89000.77,Invalid quantity
+955596,24732,5130,2024-07-17,3,110.0,Card,Pending,Islamabad,57455.59,Invalid discount_pct
+955619,16901,5339,2025-10-05,0,0.0,Cash,Shipped,Multan,124782.0,Invalid quantity
+955698,13768,5045,2025-07-05,6,110.0,JazzCash,Returned,Lahore,535295.57,Invalid discount_pct
+955752,18238,5382,2024-10-30,4,110.0,Card,Shipped,Lahore,218783.32,Invalid discount_pct
+955804,16997,5090,2025-02-01,2,110.0,Card,Completed,Multan,11722.62,Invalid discount_pct
+955844,26453,5355,2025-03-10,3,25.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+955908,25594,5093,2024-01-11,2,5.0,Card,Cancelled,Lahore,-999.0,Invalid total_amount
+956115,13756,5279,2025-08-28,1,110.0,Cash,Shipped,Karachi,65935.08,Invalid discount_pct
+956141,17534,5192,2024-06-16,2,0.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+956192,32240,5352,2024-05-27,1,110.0,Bank Transfer,Completed,Rawalpindi,68284.54,Invalid discount_pct
+956282,16171,5262,2024-11-27,5,0.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+956312,13315,5161,2025-11-29,5,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+956319,27136,5155,2025-11-22,1,110.0,Easypaisa,Shipped,Rawalpindi,51917.58,Invalid discount_pct
+956395,32970,5014,2025-12-28,3,110.0,Cash,Cancelled,Faisalabad,283507.65,Invalid discount_pct
+956439,11286,5393,2025-03-19,3,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+956441,14624,5182,2024-08-21,7,110.0,Card,Pending,Faisalabad,535181.36,Invalid discount_pct
+956458,25980,5260,2024-01-22,1,0.0,Easypaisa,Completed,Faisalabad,-999.0,Invalid total_amount
+956459,17346,5100,2025-06-06,3,15.0,Card,Pending,Karachi,-999.0,Invalid total_amount
+956564,22995,5021,2025-07-23,7,110.0,Bank Transfer,Completed,Faisalabad,78231.4,Invalid discount_pct
+956628,29690,5169,2024-06-02,2,20.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+956804,33137,5363,2025-10-18,6,20.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+956831,29137,5381,2024-06-16,7,0.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+956863,12812,5245,2025-04-11,2,110.0,Card,Shipped,Lahore,269593.44,Invalid discount_pct
+956907,23432,5339,2024-10-20,4,110.0,Card,Completed,Lahore,124782.0,Invalid discount_pct
+956944,12113,5090,2025-03-31,0,0.0,Card,Pending,Lahore,7326.64,Invalid quantity
+957017,28816,5226,2024-05-03,0,0.0,JazzCash,Completed,Karachi,363545.14,Invalid quantity
+957032,27156,5197,2024-02-25,7,110.0,Card,Completed,Rawalpindi,1104094.25,Invalid discount_pct
+957108,20176,5299,2025-05-28,4,110.0,Cash,Completed,Rawalpindi,561315.68,Invalid discount_pct
+957206,16517,5326,2024-10-23,5,110.0,Bank Transfer,Completed,Islamabad,132756.71,Invalid discount_pct
+957248,23019,5122,2025-02-10,7,20.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+957263,16666,5200,2025-02-16,0,5.0,JazzCash,Completed,Lahore,45237.4,Invalid quantity
+957313,15738,5196,2024-01-18,4,10.0,Bank Transfer,Returned,Rawalpindi,-999.0,Invalid total_amount
+957420,19038,5340,2024-06-11,0,15.0,JazzCash,Shipped,Lahore,241488.26,Invalid quantity
+957471,26469,5138,2025-12-25,3,110.0,JazzCash,Completed,Karachi,227671.13,Invalid discount_pct
+957494,27452,5327,2024-03-07,0,25.0,JazzCash,Completed,Lahore,503006.04,Invalid quantity
+957524,15124,5400,2024-01-03,0,0.0,Easypaisa,Completed,Faisalabad,272067.72,Invalid quantity
+957586,16041,5370,2024-04-04,0,0.0,Cash,Completed,Lahore,1140271.51,Invalid quantity
+957730,14309,5230,2024-03-31,6,110.0,Easypaisa,Completed,Lahore,1048559.76,Invalid discount_pct
+957750,16432,5319,2025-03-09,0,0.0,Easypaisa,Completed,Faisalabad,592859.94,Invalid quantity
+957805,11377,5363,2024-02-18,0,10.0,Easypaisa,Completed,Peshawar,196008.81,Invalid quantity
+957856,33720,5034,2024-10-11,3,0.0,JazzCash,Shipped,Multan,-999.0,Invalid total_amount
+958032,10914,5153,2025-07-21,4,25.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+958052,33456,5107,2024-03-30,3,15.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+958231,26317,5029,2025-01-17,0,10.0,Card,Completed,Rawalpindi,92443.01,Invalid quantity
+958299,31272,5334,2024-02-03,0,0.0,Bank Transfer,Shipped,Karachi,405730.35,Invalid quantity
+958353,10142,5210,2024-08-04,3,0.0,Cash,Returned,Multan,-999.0,Invalid total_amount
+958427,12577,5313,2025-02-15,0,0.0,JazzCash,Returned,Rawalpindi,616452.78,Invalid quantity
+958459,32916,5302,2025-02-04,3,15.0,Easypaisa,Completed,Lahore,-999.0,Invalid total_amount
+958505,23253,5217,2024-05-23,1,110.0,Bank Transfer,Completed,Karachi,153890.52,Invalid discount_pct
+958666,13638,5299,2025-05-27,4,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+958699,21500,5207,2025-12-23,2,0.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+958705,14392,5053,2025-08-15,4,15.0,Card,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+958885,32051,5149,2024-01-24,0,15.0,Unknown,Shipped,Karachi,129057.26,Invalid quantity
+958890,15922,5337,2025-12-24,5,0.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+958904,31700,5352,2024-03-29,1,0.0,JazzCash,Cancelled,Lahore,-999.0,Invalid total_amount
+958953,10173,5393,2024-04-20,0,0.0,Easypaisa,Completed,Peshawar,357681.05,Invalid quantity
+959022,12262,5271,2024-07-30,5,110.0,Cash,Shipped,Rawalpindi,887909.1,Invalid discount_pct
+959064,31948,5116,2025-08-03,7,110.0,Bank Transfer,Completed,Faisalabad,457058.64,Invalid discount_pct
+959072,19692,5202,2025-12-21,7,110.0,Unknown,Cancelled,Multan,910578.96,Invalid discount_pct
+959078,28458,5111,2025-02-20,0,0.0,Card,Shipped,Karachi,59411.59,Invalid quantity
+959154,28350,5315,2025-12-08,3,110.0,Unknown,Completed,Islamabad,436301.1,Invalid discount_pct
+959258,19812,5121,2025-03-04,5,0.0,Card,Cancelled,Islamabad,-999.0,Invalid total_amount
+959467,23256,5386,2024-08-13,6,10.0,Bank Transfer,Shipped,Rawalpindi,-999.0,Invalid total_amount
+959519,34677,5294,2024-03-07,0,20.0,Card,Completed,Karachi,613320.82,Invalid quantity
+959556,25855,5025,2024-08-24,2,10.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+959618,21310,5386,2024-12-11,1,0.0,Card,Pending,Rawalpindi,-999.0,Invalid total_amount
+959625,10923,5241,2025-03-16,6,0.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+959656,34354,5220,2025-11-25,7,15.0,Easypaisa,Completed,Islamabad,-999.0,Invalid total_amount
+959675,32829,5053,2025-06-24,0,20.0,JazzCash,Shipped,Multan,111718.51,Invalid quantity
+959740,18391,5157,2025-08-16,5,110.0,JazzCash,Completed,Faisalabad,817552.7,Invalid discount_pct
+959759,30635,5046,2024-04-06,6,0.0,Unknown,Pending,Lahore,-999.0,Invalid total_amount
+959818,22177,5350,2025-01-17,0,10.0,Card,Shipped,Lahore,136315.82,Invalid quantity
+959836,25015,5203,2025-04-16,5,110.0,JazzCash,Shipped,Peshawar,346675.72,Invalid discount_pct
+959888,18344,5339,2025-12-09,2,0.0,Card,Shipped,Islamabad,-999.0,Invalid total_amount
+959904,10644,5003,2024-05-08,0,0.0,Bank Transfer,Completed,Karachi,300080.46,Invalid quantity
+959941,27360,5375,2024-04-27,5,110.0,Cash,Pending,Karachi,551476.47,Invalid discount_pct
+960002,13726,5050,2025-04-06,4,0.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+960056,24743,5041,2024-07-19,1,5.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+960277,11054,5199,2025-06-22,6,110.0,Bank Transfer,Shipped,Peshawar,255872.28,Invalid discount_pct
+960361,28670,5156,2024-09-03,0,0.0,JazzCash,Returned,Rawalpindi,661653.28,Invalid quantity
+960419,14900,5233,2024-09-08,7,15.0,Bank Transfer,Completed,Multan,-999.0,Invalid total_amount
+960447,25221,5341,2025-09-26,2,110.0,Easypaisa,Shipped,Karachi,237240.57,Invalid discount_pct
+960494,27485,5143,2025-12-14,1,15.0,Easypaisa,Completed,Islamabad,-999.0,Invalid total_amount
+960512,15625,5083,2025-02-08,0,0.0,Bank Transfer,Completed,Karachi,630111.28,Invalid quantity
+960527,20498,5093,2025-07-12,4,110.0,Bank Transfer,Completed,Multan,234356.83,Invalid discount_pct
+960560,25125,5090,2024-03-11,4,5.0,Bank Transfer,Pending,Faisalabad,-999.0,Invalid total_amount
+960577,25665,5357,2025-04-10,0,20.0,Card,Returned,Islamabad,348205.68,Invalid quantity
+960592,24970,5101,2025-12-19,5,110.0,Card,Returned,Karachi,861543.9,Invalid discount_pct
+960608,31845,5010,2024-04-16,4,110.0,JazzCash,Returned,Islamabad,500004.0,Invalid discount_pct
+960646,27809,5042,2024-08-28,4,110.0,Cash,Shipped,Rawalpindi,150112.55,Invalid discount_pct
+960732,22865,5159,2024-09-23,4,15.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+960768,16322,5032,2025-05-15,7,5.0,Cash,Shipped,Peshawar,-999.0,Invalid total_amount
+960862,14450,5002,2024-11-09,6,5.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+960990,26017,5066,2024-04-19,0,20.0,Card,Shipped,Faisalabad,737389.52,Invalid quantity
+961283,23665,5149,2025-10-28,0,0.0,Cash,Returned,Islamabad,759160.35,Invalid quantity
+961480,20810,5008,2025-05-05,7,110.0,Card,Completed,Faisalabad,354962.09,Invalid discount_pct
+961568,11335,5321,2024-06-21,1,5.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+961630,19708,5052,2024-01-17,0,0.0,Card,Completed,Peshawar,367251.09,Invalid quantity
+961647,16459,5109,2024-01-25,0,10.0,Easypaisa,Returned,Karachi,252204.8,Invalid quantity
+961666,13480,5125,2024-09-17,6,20.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+961706,19194,5192,2025-10-28,2,0.0,Cash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+961751,15055,5293,2024-05-28,7,5.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+961756,32695,5341,2024-04-16,0,0.0,JazzCash,Completed,Islamabad,790801.9,Invalid quantity
+961770,32796,5301,2025-04-02,0,0.0,Card,Returned,Islamabad,156488.16,Invalid quantity
+961796,26271,5248,2024-02-22,0,5.0,Easypaisa,Completed,Islamabad,201643.01,Invalid quantity
+961801,12873,5099,2025-12-25,3,5.0,Card,Completed,Multan,-999.0,Invalid total_amount
+961905,11547,5085,2024-05-14,0,20.0,Cash,Returned,Faisalabad,278317.7,Invalid quantity
+961947,32258,5360,2025-07-23,7,0.0,Cash,Shipped,Islamabad,-999.0,Invalid total_amount
+962007,16531,5264,2024-08-17,1,110.0,Unknown,Completed,Lahore,66681.95,Invalid discount_pct
+962071,12198,5145,2024-01-18,2,0.0,Card,Returned,Lahore,-999.0,Invalid total_amount
+962117,18975,5086,2024-07-09,2,15.0,Easypaisa,Shipped,Rawalpindi,-999.0,Invalid total_amount
+962198,32422,5163,2024-05-09,4,110.0,Easypaisa,Shipped,Lahore,148927.92,Invalid discount_pct
+962205,30588,5070,2024-06-16,0,15.0,Card,Completed,Multan,450529.04,Invalid quantity
+962212,16904,5043,2024-10-06,0,0.0,Card,Shipped,Rawalpindi,536046.14,Invalid quantity
+962268,19011,5035,2025-07-26,0,0.0,Bank Transfer,Cancelled,Lahore,92100.67,Invalid quantity
+962432,18520,5174,2024-02-27,0,0.0,Cash,Completed,Lahore,120526.24,Invalid quantity
+962443,10418,5090,2025-08-08,5,20.0,Cash,Shipped,Peshawar,-999.0,Invalid total_amount
+962453,29663,5160,2024-01-03,0,0.0,JazzCash,Completed,Islamabad,132579.04,Invalid quantity
+962475,18241,5118,2025-04-11,2,110.0,Card,Pending,Peshawar,50523.72,Invalid discount_pct
+962478,25660,5169,2025-09-30,2,15.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+962490,26558,5352,2024-10-16,0,0.0,Bank Transfer,Completed,Lahore,136569.08,Invalid quantity
+962588,22728,5046,2024-04-10,0,20.0,JazzCash,Pending,Karachi,86167.66,Invalid quantity
+962663,21899,5315,2024-12-01,0,15.0,Card,Shipped,Multan,865330.52,Invalid quantity
+962789,15041,5298,2025-08-08,0,10.0,JazzCash,Completed,Peshawar,363885.55,Invalid quantity
+962823,21610,5021,2025-09-11,7,20.0,Card,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+962843,28029,5042,2025-11-24,5,20.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+962857,24693,5241,2025-09-26,7,0.0,Cash,Returned,Peshawar,-999.0,Invalid total_amount
+962879,14923,5278,2025-09-24,0,0.0,Cash,Completed,Rawalpindi,384492.3,Invalid quantity
+962899,33104,5388,2025-11-24,4,0.0,Unknown,Shipped,Peshawar,-999.0,Invalid total_amount
+962931,25336,5052,2025-09-22,4,110.0,Cash,Completed,Peshawar,465184.71,Invalid discount_pct
+962977,21968,5032,2025-11-02,0,10.0,Cash,Shipped,Peshawar,460593.97,Invalid quantity
+963241,33197,5131,2024-01-29,1,10.0,JazzCash,Returned,Multan,-999.0,Invalid total_amount
+963344,19471,5218,2024-02-19,7,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+963398,32741,5364,2024-09-07,5,0.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+963414,30594,5392,2025-01-25,0,0.0,Card,Completed,Faisalabad,495978.9,Invalid quantity
+963494,10197,5162,2025-05-12,3,110.0,Cash,Shipped,Peshawar,378030.46,Invalid discount_pct
+963611,28932,5004,2024-03-21,7,110.0,Card,Completed,Rawalpindi,996630.78,Invalid discount_pct
+963674,28853,5364,2024-02-19,4,15.0,Unknown,Completed,Islamabad,-999.0,Invalid total_amount
+963768,17418,5083,2025-05-01,2,0.0,Card,Pending,Rawalpindi,-999.0,Invalid total_amount
+963809,32309,5264,2024-07-19,6,110.0,Bank Transfer,Shipped,Karachi,400091.72,Invalid discount_pct
+963811,33028,5263,2025-04-13,3,0.0,Cash,Returned,Karachi,-999.0,Invalid total_amount
+963862,27264,5326,2024-03-13,1,20.0,Card,Returned,Peshawar,-999.0,Invalid total_amount
+963928,31082,5296,2024-05-26,0,0.0,Bank Transfer,Shipped,Faisalabad,599414.88,Invalid quantity
+963965,26407,5007,2024-05-19,0,0.0,Card,Pending,Multan,423413.64,Invalid quantity
+964119,17441,5287,2024-06-04,0,20.0,JazzCash,Completed,Karachi,427809.09,Invalid quantity
+964242,22640,5285,2025-01-01,0,20.0,Card,Completed,Multan,100608.36,Invalid quantity
+964259,18606,5035,2024-04-19,0,0.0,Card,Completed,Karachi,92100.67,Invalid quantity
+964389,26856,5179,2024-11-06,0,0.0,Card,Pending,Multan,532569.36,Invalid quantity
+964477,13737,5243,2025-04-26,7,25.0,Cash,Shipped,Karachi,-999.0,Invalid total_amount
+964482,23584,5197,2024-03-17,5,110.0,Cash,Completed,Rawalpindi,622609.54,Invalid discount_pct
+964536,12816,5396,2024-03-19,6,110.0,JazzCash,Completed,Peshawar,111935.16,Invalid discount_pct
+964537,33635,5258,2024-08-30,0,0.0,Card,Completed,Multan,486520.62,Invalid quantity
+964578,31256,5288,2024-05-03,5,10.0,Unknown,Completed,Rawalpindi,-999.0,Invalid total_amount
+964655,18963,5030,2025-09-05,0,0.0,Card,Completed,Karachi,782597.9,Invalid quantity
+964780,18956,5002,2024-10-20,2,110.0,Bank Transfer,Completed,Islamabad,130711.72,Invalid discount_pct
+964808,15913,5347,2025-10-03,0,0.0,Card,Shipped,Karachi,347245.08,Invalid quantity
+964825,12586,5039,2025-04-15,3,15.0,Card,Pending,Peshawar,-999.0,Invalid total_amount
+964890,16980,5350,2024-03-14,2,110.0,JazzCash,Completed,Lahore,50487.34,Invalid discount_pct
+964911,23976,5369,2024-05-20,0,15.0,Card,Shipped,Islamabad,134554.62,Invalid quantity
+964963,23872,5279,2025-05-13,3,110.0,JazzCash,Shipped,Karachi,197805.24,Invalid discount_pct
+964999,29523,5338,2025-02-04,5,25.0,Cash,Pending,Lahore,-999.0,Invalid total_amount
+965014,12008,5030,2024-06-12,2,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+965018,27253,5174,2024-09-01,1,0.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+965083,24862,5209,2025-05-05,6,110.0,Easypaisa,Shipped,Rawalpindi,97380.52,Invalid discount_pct
+965239,16401,5362,2024-05-18,0,0.0,Easypaisa,Completed,Rawalpindi,470157.28,Invalid quantity
+965283,34630,5109,2025-02-23,1,10.0,JazzCash,Shipped,Islamabad,-999.0,Invalid total_amount
+965325,10551,5213,2025-02-20,1,110.0,Easypaisa,Completed,Multan,8781.47,Invalid discount_pct
+965372,21479,5306,2025-05-26,7,5.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+965417,27000,5008,2025-01-12,1,0.0,Easypaisa,Completed,Rawalpindi,-999.0,Invalid total_amount
+965449,11635,5174,2024-11-18,0,10.0,Easypaisa,Completed,Multan,379657.66,Invalid quantity
+965556,13215,5375,2025-03-04,6,110.0,JazzCash,Cancelled,Islamabad,778555.02,Invalid discount_pct
+965718,27359,5324,2025-01-22,0,15.0,JazzCash,Completed,Peshawar,874.42,Invalid quantity
+965735,11115,5291,2025-07-18,7,110.0,Card,Pending,Peshawar,1155245.14,Invalid discount_pct
+965973,31042,5353,2025-04-25,3,20.0,Bank Transfer,Completed,Karachi,-999.0,Invalid total_amount
+966001,25429,5187,2025-06-29,4,10.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+966063,11413,5329,2024-04-13,0,0.0,Bank Transfer,Completed,Islamabad,337174.59,Invalid quantity
+966088,33041,5324,2025-08-07,0,0.0,Bank Transfer,Completed,Islamabad,7201.11,Invalid quantity
+966110,26996,5010,2024-02-24,3,110.0,Easypaisa,Cancelled,Lahore,468753.75,Invalid discount_pct
+966189,33580,5092,2025-07-13,1,110.0,Unknown,Cancelled,Karachi,15033.41,Invalid discount_pct
+966200,34308,5371,2025-04-15,4,110.0,Bank Transfer,Shipped,Peshawar,311228.94,Invalid discount_pct
+966267,14096,5051,2025-06-28,6,0.0,JazzCash,Cancelled,Islamabad,-999.0,Invalid total_amount
+966364,31669,5068,2025-01-30,5,0.0,Cash,Pending,Faisalabad,-999.0,Invalid total_amount
+966397,17377,5311,2025-02-23,5,0.0,Card,Pending,Karachi,-999.0,Invalid total_amount
+966423,26054,5284,2024-12-23,4,0.0,Card,Shipped,Peshawar,-999.0,Invalid total_amount
+966454,19283,5344,2024-12-31,7,0.0,JazzCash,Shipped,Karachi,-999.0,Invalid total_amount
+966606,33658,5303,2024-12-04,1,0.0,Cash,Returned,Peshawar,-999.0,Invalid total_amount
+966609,25906,5223,2024-06-04,0,10.0,JazzCash,Completed,Faisalabad,116108.25,Invalid quantity
+966664,10741,5249,2025-04-08,0,0.0,Card,Completed,Karachi,134668.28,Invalid quantity
+966703,15785,5290,2024-10-01,1,110.0,Easypaisa,Returned,Faisalabad,151475.03,Invalid discount_pct
+966750,13764,5239,2024-09-18,5,110.0,Card,Completed,Rawalpindi,759806.75,Invalid discount_pct
+966810,13028,5203,2025-05-17,5,0.0,Card,Shipped,Faisalabad,-999.0,Invalid total_amount
+966838,30090,5299,2025-03-01,0,5.0,JazzCash,Returned,Islamabad,666562.37,Invalid quantity
+966840,28474,5092,2025-01-08,6,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+966906,11293,5108,2025-12-03,3,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+966924,30146,5138,2024-07-12,5,110.0,Unknown,Shipped,Lahore,450599.11,Invalid discount_pct
+966945,24731,5164,2025-03-01,5,110.0,Easypaisa,Pending,Lahore,98427.74,Invalid discount_pct
+967062,25127,5290,2025-03-20,2,110.0,Bank Transfer,Shipped,Rawalpindi,302950.06,Invalid discount_pct
+967174,16460,5092,2025-08-29,5,20.0,Bank Transfer,Completed,Karachi,-999.0,Invalid total_amount
+967266,29466,5069,2024-10-11,0,10.0,Cash,Completed,Islamabad,39458.6,Invalid quantity
+967275,20373,5235,2025-08-19,0,0.0,Bank Transfer,Completed,Karachi,193414.86,Invalid quantity
+967346,23603,5319,2024-04-20,0,0.0,Unknown,Completed,Faisalabad,592859.94,Invalid quantity
+967407,21713,5212,2025-01-25,4,0.0,Easypaisa,Cancelled,Faisalabad,-999.0,Invalid total_amount
+967436,14885,5211,2024-06-08,0,15.0,Easypaisa,Completed,Peshawar,761868.86,Invalid quantity
+967506,22741,5138,2024-08-04,0,0.0,Easypaisa,Completed,Lahore,569177.82,Invalid quantity
+967586,32196,5053,2024-03-04,6,0.0,Easypaisa,Pending,Rawalpindi,-999.0,Invalid total_amount
+967610,17876,5017,2025-07-24,6,110.0,JazzCash,Completed,Islamabad,269235.62,Invalid discount_pct
+967690,30157,5089,2024-07-27,0,25.0,Unknown,Returned,Lahore,564927.34,Invalid quantity
+967741,17793,5166,2024-09-13,4,0.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+967747,10745,5058,2025-03-21,0,0.0,Bank Transfer,Completed,Islamabad,197472.98,Invalid quantity
+967804,16141,5235,2025-11-26,2,110.0,Unknown,Cancelled,Islamabad,183744.12,Invalid discount_pct
+967922,17484,5108,2024-01-23,7,10.0,Easypaisa,Returned,Karachi,-999.0,Invalid total_amount
+967924,13985,5212,2024-05-02,0,0.0,Easypaisa,Returned,Faisalabad,360433.41,Invalid quantity
+968029,23870,5352,2024-06-01,4,0.0,Unknown,Completed,Lahore,-999.0,Invalid total_amount
+968047,24543,5358,2024-09-01,1,110.0,Card,Completed,Multan,24331.68,Invalid discount_pct
+968082,20789,5169,2024-10-04,0,5.0,Easypaisa,Returned,Karachi,175014.24,Invalid quantity
+968121,23688,5142,2025-12-15,2,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+968192,11133,5062,2024-11-26,5,110.0,Bank Transfer,Completed,Rawalpindi,12326.74,Invalid discount_pct
+968204,10358,5263,2024-10-04,7,20.0,Cash,Cancelled,Faisalabad,-999.0,Invalid total_amount
+968238,28440,5098,2025-09-02,6,110.0,Bank Transfer,Returned,Faisalabad,302976.13,Invalid discount_pct
+968241,25522,5369,2024-09-08,0,0.0,Unknown,Returned,Multan,94979.73,Invalid quantity
+968322,20640,5079,2024-08-22,0,10.0,Card,Completed,Peshawar,154758.89,Invalid quantity
+968433,19907,5400,2025-06-07,0,10.0,Unknown,Shipped,Faisalabad,61215.24,Invalid quantity
+968466,28589,5251,2025-12-04,0,5.0,Easypaisa,Completed,Lahore,827724.19,Invalid quantity
+968592,31862,5239,2024-11-16,1,110.0,Cash,Returned,Karachi,151961.35,Invalid discount_pct
+968662,29770,5077,2025-11-27,7,20.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+968673,13040,5159,2024-03-11,2,110.0,Easypaisa,Shipped,Multan,330126.86,Invalid discount_pct
+968743,14482,5233,2024-07-23,4,110.0,JazzCash,Returned,Peshawar,76426.24,Invalid discount_pct
+968835,22531,5132,2024-01-14,0,0.0,Bank Transfer,Completed,Lahore,613334.76,Invalid quantity
+968838,24649,5199,2025-01-31,1,110.0,Card,Pending,Karachi,42645.38,Invalid discount_pct
+968877,16476,5264,2024-04-11,3,0.0,Bank Transfer,Pending,Islamabad,-999.0,Invalid total_amount
+968907,20175,5111,2025-06-07,0,15.0,Card,Completed,Faisalabad,100999.7,Invalid quantity
+969036,13367,5249,2025-03-17,4,0.0,Unknown,Pending,Islamabad,-999.0,Invalid total_amount
+969216,15945,5337,2024-02-10,4,20.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+969251,14017,5282,2025-09-25,0,5.0,Easypaisa,Completed,Islamabad,72810.38,Invalid quantity
+969329,18605,5049,2024-08-25,6,15.0,JazzCash,Shipped,Karachi,-999.0,Invalid total_amount
+969332,20952,5368,2025-05-17,6,20.0,Cash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+969333,12250,5159,2024-06-21,7,110.0,Easypaisa,Completed,Islamabad,1039899.61,Invalid discount_pct
+969408,16809,5151,2025-07-26,0,0.0,Card,Cancelled,Rawalpindi,1017376.22,Invalid quantity
+969462,24979,5329,2024-11-28,6,110.0,JazzCash,Cancelled,Lahore,640631.72,Invalid discount_pct
+969526,25538,5373,2025-09-27,1,110.0,Unknown,Shipped,Lahore,64561.35,Invalid discount_pct
+969590,12184,5071,2024-08-20,1,0.0,Unknown,Returned,Multan,-999.0,Invalid total_amount
+969622,24519,5189,2024-10-11,4,110.0,Card,Shipped,Lahore,666238.99,Invalid discount_pct
+969669,32501,5007,2025-05-05,1,110.0,Bank Transfer,Returned,Rawalpindi,52926.7,Invalid discount_pct
+969723,22251,5296,2024-11-18,4,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+969763,13278,5366,2024-02-26,4,110.0,Unknown,Completed,Rawalpindi,617988.2,Invalid discount_pct
+969826,32352,5363,2025-08-31,2,0.0,Unknown,Shipped,Karachi,-999.0,Invalid total_amount
+969831,11187,5024,2024-02-15,0,0.0,Card,Cancelled,Multan,226730.56,Invalid quantity
+969842,25671,5260,2024-10-17,0,15.0,Bank Transfer,Shipped,Lahore,165501.38,Invalid quantity
+969857,27968,5344,2024-06-26,6,0.0,Card,Pending,Multan,-999.0,Invalid total_amount
+969955,22279,5294,2025-08-02,5,110.0,Easypaisa,Cancelled,Multan,606932.06,Invalid discount_pct
+970138,18185,5162,2025-06-16,0,15.0,Cash,Completed,Faisalabad,378030.46,Invalid quantity
+970174,32436,5375,2024-01-19,4,0.0,Easypaisa,Cancelled,Karachi,-999.0,Invalid total_amount
+970373,10769,5242,2025-01-16,4,0.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+970419,14180,5204,2025-04-16,0,20.0,JazzCash,Completed,Karachi,690343.54,Invalid quantity
+970501,10861,5141,2025-02-17,1,110.0,Card,Completed,Lahore,106297.27,Invalid discount_pct
+970546,10854,5119,2024-06-15,0,5.0,Easypaisa,Completed,Faisalabad,437425.74,Invalid quantity
+970630,17380,5328,2024-06-08,1,0.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+970636,10742,5367,2025-02-02,7,110.0,JazzCash,Completed,Karachi,444288.39,Invalid discount_pct
+970728,13499,5042,2025-10-31,0,0.0,Easypaisa,Completed,Lahore,264904.5,Invalid quantity
+970760,29994,5318,2024-10-23,4,110.0,Cash,Completed,Lahore,474693.57,Invalid discount_pct
+970840,26051,5241,2024-09-07,2,0.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+970883,30381,5358,2024-09-01,0,20.0,Card,Cancelled,Karachi,22900.4,Invalid quantity
+970939,29059,5087,2024-07-03,0,0.0,Unknown,Shipped,Lahore,139037.19,Invalid quantity
+970959,34036,5037,2025-04-11,4,20.0,Unknown,Shipped,Faisalabad,-999.0,Invalid total_amount
+971055,29604,5203,2024-03-24,6,0.0,Cash,Shipped,Karachi,-999.0,Invalid total_amount
+971081,16070,5063,2025-05-07,7,5.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+971179,16280,5174,2024-06-30,3,110.0,Easypaisa,Cancelled,Karachi,180789.36,Invalid discount_pct
+971187,30828,5021,2024-02-03,5,110.0,Card,Returned,Karachi,49997.51,Invalid discount_pct
+971205,20619,5318,2024-12-01,0,15.0,Card,Completed,Lahore,212362.91,Invalid quantity
+971451,15080,5218,2024-09-01,2,15.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+971470,20329,5353,2025-12-29,1,110.0,Card,Returned,Islamabad,122097.77,Invalid discount_pct
+971581,11192,5275,2025-04-23,0,0.0,Bank Transfer,Pending,Lahore,133977.86,Invalid quantity
+971631,24261,5322,2025-09-07,0,5.0,Unknown,Pending,Karachi,187890.51,Invalid quantity
+971682,32886,5130,2025-12-20,3,0.0,Easypaisa,Completed,Rawalpindi,-999.0,Invalid total_amount
+971706,21938,5149,2024-04-17,6,110.0,Unknown,Completed,Faisalabad,728793.94,Invalid discount_pct
+971734,21974,5352,2025-12-14,2,110.0,Easypaisa,Completed,Rawalpindi,129740.63,Invalid discount_pct
+971785,22580,5173,2025-03-18,5,0.0,Card,Cancelled,Islamabad,-999.0,Invalid total_amount
+971815,34426,5223,2025-12-08,4,110.0,Unknown,Cancelled,Peshawar,438631.18,Invalid discount_pct
+971902,24136,5081,2025-03-24,5,110.0,Easypaisa,Completed,Peshawar,224169.0,Invalid discount_pct
+971938,30983,5240,2024-06-18,6,110.0,JazzCash,Completed,Faisalabad,530421.54,Invalid discount_pct
+971957,15972,5395,2025-06-28,6,110.0,Unknown,Completed,Karachi,1074552.3,Invalid discount_pct
+972017,24510,5278,2024-12-20,2,0.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+972033,32408,5324,2024-04-27,6,110.0,Card,Completed,Lahore,5555.14,Invalid discount_pct
+972086,16381,5335,2025-05-06,7,0.0,Unknown,Cancelled,Lahore,-999.0,Invalid total_amount
+972135,32326,5275,2025-09-25,1,20.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+972191,11689,5315,2025-07-11,5,20.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+972249,10359,5087,2025-11-13,0,10.0,Cash,Pending,Karachi,625667.36,Invalid quantity
+972288,30088,5390,2025-01-22,0,0.0,Easypaisa,Completed,Rawalpindi,265323.38,Invalid quantity
+972301,30639,5206,2024-05-04,5,110.0,Cash,Pending,Rawalpindi,287862.55,Invalid discount_pct
+972463,20692,5120,2024-10-13,7,0.0,Card,Shipped,Multan,-999.0,Invalid total_amount
+972591,10336,5226,2025-06-13,6,0.0,Card,Returned,Multan,-999.0,Invalid total_amount
+972748,11025,5155,2024-10-27,0,0.0,Card,Returned,Karachi,103835.16,Invalid quantity
+972788,21820,5083,2024-03-03,4,5.0,Cash,Shipped,Islamabad,-999.0,Invalid total_amount
+972930,33669,5181,2025-07-05,2,0.0,Unknown,Completed,Multan,-999.0,Invalid total_amount
+972947,23306,5319,2025-04-11,6,110.0,Card,Shipped,Karachi,533573.95,Invalid discount_pct
+972952,27704,5021,2025-02-01,6,0.0,Easypaisa,Pending,Islamabad,-999.0,Invalid total_amount
+972980,22617,5001,2025-12-24,0,0.0,JazzCash,Completed,Rawalpindi,700073.9,Invalid quantity
+972992,31045,5317,2025-04-25,0,15.0,Card,Completed,Islamabad,39916.75,Invalid quantity
+973014,21595,5360,2025-04-28,4,0.0,JazzCash,Shipped,Faisalabad,-999.0,Invalid total_amount
+973015,34303,5133,2024-11-21,2,10.0,Easypaisa,Completed,Rawalpindi,-999.0,Invalid total_amount
+973074,13687,5122,2024-11-14,0,20.0,Cash,Completed,Lahore,221309.42,Invalid quantity
+973164,14452,5285,2025-08-09,2,110.0,JazzCash,Completed,Karachi,50304.18,Invalid discount_pct
+973336,25029,5353,2025-03-21,2,110.0,JazzCash,Returned,Karachi,287288.88,Invalid discount_pct
+973339,18261,5165,2024-08-27,0,5.0,Cash,Completed,Faisalabad,647111.88,Invalid quantity
+973442,28398,5339,2025-03-01,0,0.0,Easypaisa,Completed,Karachi,291158.0,Invalid quantity
+973507,21281,5135,2025-06-08,0,5.0,Unknown,Cancelled,Multan,5815.49,Invalid quantity
+973527,11835,5358,2024-02-14,1,15.0,Cash,Shipped,Multan,-999.0,Invalid total_amount
+973533,25761,5123,2025-10-24,5,110.0,Bank Transfer,Completed,Lahore,408128.75,Invalid discount_pct
+973534,33339,5269,2024-11-25,5,110.0,Cash,Shipped,Faisalabad,101292.48,Invalid discount_pct
+973537,14909,5388,2025-02-06,7,15.0,Card,Pending,Peshawar,-999.0,Invalid total_amount
+973694,30050,5244,2025-01-01,0,15.0,Cash,Shipped,Islamabad,232682.13,Invalid quantity
+973734,11287,5400,2025-06-10,4,15.0,Card,Completed,Faisalabad,-999.0,Invalid total_amount
+973775,25405,5272,2024-09-24,0,10.0,Card,Shipped,Multan,333952.78,Invalid quantity
+973810,31377,5394,2025-08-04,2,110.0,Card,Completed,Peshawar,67140.11,Invalid discount_pct
+974204,27377,5218,2024-11-27,0,10.0,Bank Transfer,Shipped,Islamabad,28457.41,Invalid quantity
+974206,14574,5029,2025-03-01,5,0.0,Easypaisa,Cancelled,Lahore,-999.0,Invalid total_amount
+974302,16116,5270,2024-05-05,3,5.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+974333,31863,5126,2024-08-22,5,0.0,Easypaisa,Completed,Peshawar,-999.0,Invalid total_amount
+974353,16179,5196,2024-10-12,1,110.0,Easypaisa,Completed,Peshawar,10651.11,Invalid discount_pct
+974503,23587,5240,2024-05-02,0,0.0,Cash,Completed,Rawalpindi,353614.36,Invalid quantity
+974504,11950,5134,2025-11-27,0,20.0,Card,Returned,Karachi,30699.58,Invalid quantity
+974543,10026,5094,2024-09-16,3,10.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+974635,14748,5129,2025-02-20,0,15.0,Unknown,Completed,Multan,522044.62,Invalid quantity
+974666,23808,5005,2025-12-06,0,15.0,Cash,Completed,Faisalabad,740227.3,Invalid quantity
+974668,10559,5065,2024-10-22,0,10.0,JazzCash,Completed,Rawalpindi,234625.36,Invalid quantity
+974746,33095,5077,2025-06-16,1,10.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+974761,23297,5248,2025-09-17,0,5.0,JazzCash,Completed,Faisalabad,201643.01,Invalid quantity
+974784,10579,5176,2024-05-03,0,15.0,Cash,Completed,Faisalabad,68759.34,Invalid quantity
+974816,21408,5386,2024-04-19,3,110.0,JazzCash,Pending,Karachi,310194.29,Invalid discount_pct
+974819,31560,5245,2025-10-02,1,0.0,Bank Transfer,Pending,Karachi,-999.0,Invalid total_amount
+974883,26543,5019,2024-11-11,0,15.0,JazzCash,Pending,Rawalpindi,514513.12,Invalid quantity
+974948,30363,5376,2025-07-08,6,10.0,Card,Shipped,Rawalpindi,-999.0,Invalid total_amount
+975111,33209,5283,2024-03-05,7,0.0,Easypaisa,Shipped,Lahore,-999.0,Invalid total_amount
+975157,13695,5138,2024-12-27,5,110.0,Unknown,Completed,Islamabad,379451.88,Invalid discount_pct
+975185,17308,5212,2024-02-05,3,110.0,Card,Completed,Peshawar,360433.41,Invalid discount_pct
+975236,13214,5176,2025-09-22,0,15.0,Card,Completed,Islamabad,206278.02,Invalid quantity
+975265,23118,5253,2025-06-29,6,110.0,JazzCash,Shipped,Peshawar,822455.09,Invalid discount_pct
+975320,17982,5119,2024-09-24,0,0.0,Card,Completed,Multan,184179.26,Invalid quantity
+975570,19404,5222,2024-12-13,7,110.0,Bank Transfer,Returned,Peshawar,791256.83,Invalid discount_pct
+975671,23849,5120,2025-03-07,0,10.0,Easypaisa,Shipped,Lahore,437101.75,Invalid quantity
+975855,28077,5181,2024-10-04,0,0.0,Easypaisa,Completed,Peshawar,113281.36,Invalid quantity
+975875,12698,5151,2025-07-07,4,5.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+975925,28419,5076,2025-12-13,3,5.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+975954,21945,5121,2024-04-15,5,110.0,Bank Transfer,Completed,Lahore,657651.52,Invalid discount_pct
+975965,30713,5122,2024-03-26,5,10.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+975967,26897,5305,2025-06-06,0,15.0,JazzCash,Completed,Karachi,180783.25,Invalid quantity
+976121,34496,5101,2024-08-03,0,0.0,Bank Transfer,Pending,Peshawar,344617.56,Invalid quantity
+976273,26138,5059,2024-05-10,3,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+976282,26056,5089,2024-07-18,4,0.0,Card,Completed,Multan,-999.0,Invalid total_amount
+976403,27719,5006,2024-12-03,0,10.0,Cash,Cancelled,Rawalpindi,52362.86,Invalid quantity
+976439,19024,5333,2024-02-17,0,5.0,JazzCash,Completed,Rawalpindi,751320.52,Invalid quantity
+976451,33404,5220,2025-03-05,0,0.0,Easypaisa,Completed,Karachi,181524.42,Invalid quantity
+976496,15181,5222,2024-10-31,6,110.0,Card,Completed,Rawalpindi,678220.14,Invalid discount_pct
+976592,33411,5232,2025-02-02,6,10.0,JazzCash,Pending,Karachi,-999.0,Invalid total_amount
+976626,25863,5311,2024-06-20,1,5.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+976650,28150,5112,2024-10-03,1,0.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+976663,23458,5215,2024-05-14,0,10.0,Card,Completed,Islamabad,117575.93,Invalid quantity
+976690,21264,5038,2024-06-16,1,0.0,Bank Transfer,Completed,Multan,-999.0,Invalid total_amount
+976698,31776,5190,2025-09-08,5,0.0,Easypaisa,Shipped,Multan,-999.0,Invalid total_amount
+976716,11890,5255,2024-08-23,0,10.0,JazzCash,Pending,Lahore,140185.53,Invalid quantity
+976734,30621,5205,2025-01-07,2,0.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+976879,18572,5377,2025-07-24,0,0.0,Cash,Completed,Lahore,694808.1,Invalid quantity
+976889,26303,5278,2024-03-21,0,15.0,Bank Transfer,Completed,Faisalabad,163409.23,Invalid quantity
+976911,27762,5293,2024-02-08,6,15.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+977036,14542,5149,2024-02-23,1,15.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+977054,30229,5209,2025-01-16,7,20.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+977152,10427,5346,2025-11-28,0,0.0,Bank Transfer,Shipped,Islamabad,928948.02,Invalid quantity
+977168,29902,5193,2024-04-14,7,10.0,Cash,Cancelled,Lahore,-999.0,Invalid total_amount
+977279,26350,5141,2025-09-04,4,110.0,Easypaisa,Completed,Karachi,478337.72,Invalid discount_pct
+977317,16920,5208,2024-05-03,0,0.0,Card,Completed,Islamabad,574602.0,Invalid quantity
+977376,19619,5126,2025-04-15,1,110.0,Cash,Shipped,Islamabad,115777.14,Invalid discount_pct
+977435,16111,5193,2024-12-25,5,110.0,Card,Shipped,Faisalabad,74360.95,Invalid discount_pct
+977497,28856,5202,2025-10-31,5,20.0,Card,Shipped,Peshawar,-999.0,Invalid total_amount
+977554,24728,5075,2024-01-16,0,20.0,Unknown,Completed,Islamabad,861807.55,Invalid quantity
+977637,32714,5396,2024-11-16,0,0.0,JazzCash,Pending,Multan,124372.4,Invalid quantity
+977656,24872,5382,2025-03-30,0,0.0,Card,Completed,Islamabad,273479.15,Invalid quantity
+977658,17493,5197,2024-07-04,1,0.0,Card,Completed,Faisalabad,-999.0,Invalid total_amount
+977752,21565,5318,2024-06-19,0,0.0,Easypaisa,Completed,Karachi,624596.8,Invalid quantity
+977869,29320,5226,2025-08-14,5,0.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+977930,22919,5400,2025-08-19,4,0.0,Card,Shipped,Peshawar,-999.0,Invalid total_amount
+977969,24238,5076,2025-09-29,1,0.0,Bank Transfer,Shipped,Islamabad,-999.0,Invalid total_amount
+978127,11862,5075,2025-07-30,0,15.0,Easypaisa,Cancelled,Rawalpindi,305223.51,Invalid quantity
+978290,25052,5111,2025-02-15,4,0.0,Cash,Cancelled,Lahore,-999.0,Invalid total_amount
+978360,20510,5395,2024-09-23,3,0.0,Easypaisa,Completed,Peshawar,-999.0,Invalid total_amount
+978389,32307,5197,2024-12-22,4,110.0,JazzCash,Completed,Rawalpindi,597705.16,Invalid discount_pct
+978402,13384,5112,2025-11-27,0,0.0,Cash,Returned,Faisalabad,536446.0,Invalid quantity
+978632,20092,5275,2025-12-30,0,25.0,Card,Completed,Faisalabad,351691.88,Invalid quantity
+978639,31237,5144,2024-08-23,0,0.0,Unknown,Shipped,Multan,11986.2,Invalid quantity
+978730,14213,5364,2025-02-14,4,110.0,Easypaisa,Completed,Peshawar,282231.47,Invalid discount_pct
+978785,21391,5050,2024-10-15,3,5.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+978925,22540,5216,2024-10-18,6,0.0,Easypaisa,Returned,Islamabad,-999.0,Invalid total_amount
+978929,24425,5163,2025-05-17,0,15.0,Easypaisa,Completed,Karachi,148927.92,Invalid quantity
+978963,20970,5298,2025-12-02,6,0.0,Card,Pending,Faisalabad,-999.0,Invalid total_amount
+978976,19380,5047,2025-04-14,0,25.0,Card,Returned,Karachi,394311.38,Invalid quantity
+978996,22489,5286,2024-06-14,0,20.0,Cash,Cancelled,Karachi,251693.26,Invalid quantity
+979066,14570,5259,2024-06-18,0,5.0,Easypaisa,Completed,Multan,158844.03,Invalid quantity
+979167,30210,5233,2024-06-04,0,15.0,Card,Cancelled,Rawalpindi,48721.73,Invalid quantity
+979172,20006,5190,2025-04-09,5,110.0,Cash,Cancelled,Multan,562118.13,Invalid discount_pct
+979216,21956,5107,2024-01-20,0,10.0,Unknown,Returned,Karachi,45609.2,Invalid quantity
+979345,16752,5382,2024-08-18,5,0.0,Unknown,Shipped,Karachi,-999.0,Invalid total_amount
+979494,23445,5354,2025-09-26,5,110.0,Card,Completed,Islamabad,656137.76,Invalid discount_pct
+979533,15183,5026,2024-07-06,2,110.0,Easypaisa,Completed,Karachi,288031.32,Invalid discount_pct
+979796,23705,5352,2024-09-08,0,0.0,JazzCash,Pending,Peshawar,273138.16,Invalid quantity
+979797,17292,5080,2024-08-16,4,110.0,Cash,Completed,Lahore,329827.3,Invalid discount_pct
+979813,14866,5047,2024-03-18,0,10.0,Easypaisa,Completed,Lahore,946347.3,Invalid quantity
+979854,23616,5388,2024-04-11,7,110.0,Cash,Returned,Lahore,441829.92,Invalid discount_pct
+979863,28894,5119,2025-12-09,0,0.0,JazzCash,Cancelled,Faisalabad,92089.63,Invalid quantity
+979881,32224,5064,2025-12-22,0,0.0,Cash,Completed,Faisalabad,333260.54,Invalid quantity
+979950,30048,5045,2025-01-13,1,110.0,Card,Returned,Peshawar,99128.81,Invalid discount_pct
+979958,13242,5307,2024-09-21,0,25.0,Unknown,Pending,Karachi,543246.85,Invalid quantity
+980054,19671,5144,2024-03-05,0,15.0,JazzCash,Completed,Lahore,40753.08,Invalid quantity
+980130,21562,5054,2024-03-03,2,110.0,Easypaisa,Cancelled,Rawalpindi,308220.2,Invalid discount_pct
+980154,22433,5317,2025-07-20,7,0.0,Bank Transfer,Pending,Multan,-999.0,Invalid total_amount
+980229,11505,5290,2024-01-16,0,15.0,Bank Transfer,Completed,Faisalabad,257507.55,Invalid quantity
+980246,14670,5008,2025-07-28,4,10.0,Cash,Returned,Karachi,-999.0,Invalid total_amount
+980344,10731,5262,2025-02-03,6,110.0,Card,Completed,Peshawar,314105.4,Invalid discount_pct
+980377,12318,5332,2025-12-23,3,5.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+980378,24789,5288,2024-03-12,5,15.0,Bank Transfer,Shipped,Peshawar,-999.0,Invalid total_amount
+980424,33042,5185,2025-03-18,0,0.0,Card,Completed,Karachi,472030.96,Invalid quantity
+980587,11711,5139,2025-03-31,3,110.0,Cash,Completed,Karachi,419800.86,Invalid discount_pct
+980591,27430,5251,2025-05-21,3,110.0,Bank Transfer,Completed,Lahore,435644.31,Invalid discount_pct
+980678,17895,5080,2025-07-07,7,25.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+980683,11960,5219,2024-11-05,0,0.0,Easypaisa,Shipped,Lahore,1041543.3,Invalid quantity
+980685,22471,5063,2024-08-22,0,0.0,Unknown,Cancelled,Karachi,105103.9,Invalid quantity
+980749,29742,5077,2025-09-27,0,0.0,Cash,Completed,Lahore,221396.36,Invalid quantity
+980767,23332,5299,2024-04-15,3,110.0,Bank Transfer,Completed,Lahore,357838.75,Invalid discount_pct
+980812,17534,5228,2024-03-01,0,0.0,Card,Completed,Karachi,57620.87,Invalid quantity
+980900,13570,5225,2024-07-11,0,15.0,Card,Cancelled,Faisalabad,21301.25,Invalid quantity
+980927,12288,5168,2025-11-28,2,110.0,Unknown,Returned,Lahore,274508.14,Invalid discount_pct
+980969,17939,5139,2024-01-01,0,0.0,Bank Transfer,Shipped,Karachi,279867.24,Invalid quantity
+981034,22688,5397,2025-01-03,4,0.0,Easypaisa,Shipped,Multan,-999.0,Invalid total_amount
+981114,15831,5036,2024-10-26,0,5.0,Card,Shipped,Karachi,429391.55,Invalid quantity
+981162,23035,5312,2025-11-17,5,15.0,Bank Transfer,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+981319,10990,5031,2025-06-27,2,110.0,JazzCash,Shipped,Karachi,316543.82,Invalid discount_pct
+981376,34370,5252,2024-03-04,0,10.0,Card,Completed,Multan,355209.08,Invalid quantity
+981403,28718,5108,2025-01-28,0,10.0,Bank Transfer,Cancelled,Lahore,43709.72,Invalid quantity
+981429,27393,5398,2024-07-07,2,110.0,Card,Completed,Faisalabad,305689.98,Invalid discount_pct
+981497,18393,5143,2024-11-08,6,0.0,Cash,Pending,Karachi,-999.0,Invalid total_amount
+981511,17824,5273,2025-08-31,5,10.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+981528,23400,5155,2025-01-23,6,15.0,Cash,Completed,Peshawar,-999.0,Invalid total_amount
+981531,18724,5312,2024-10-16,0,0.0,Card,Shipped,Karachi,30493.16,Invalid quantity
+981613,25687,5043,2025-09-20,2,0.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+981653,19200,5061,2024-12-29,0,15.0,JazzCash,Cancelled,Peshawar,523681.53,Invalid quantity
+981711,14102,5363,2024-04-30,2,0.0,Easypaisa,Shipped,Karachi,-999.0,Invalid total_amount
+981738,33103,5056,2024-08-30,5,10.0,Card,Pending,Karachi,-999.0,Invalid total_amount
+981864,26654,5180,2024-04-17,0,0.0,Unknown,Completed,Multan,172173.44,Invalid quantity
+981896,33982,5135,2024-07-20,6,25.0,JazzCash,Returned,Islamabad,-999.0,Invalid total_amount
+981911,19497,5048,2024-03-23,0,5.0,JazzCash,Cancelled,Karachi,146320.01,Invalid quantity
+981938,33382,5088,2024-11-21,0,15.0,Bank Transfer,Shipped,Lahore,731203.83,Invalid quantity
+981981,13808,5188,2024-04-26,0,10.0,JazzCash,Returned,Peshawar,92507.56,Invalid quantity
+982017,27798,5017,2024-01-31,4,110.0,Card,Completed,Karachi,179490.42,Invalid discount_pct
+982019,19890,5343,2025-03-02,6,0.0,Card,Shipped,Faisalabad,-999.0,Invalid total_amount
+982060,22019,5367,2024-09-15,1,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+982069,14070,5041,2024-12-30,0,15.0,Cash,Cancelled,Rawalpindi,822097.28,Invalid quantity
+982082,16318,5375,2025-05-28,7,110.0,JazzCash,Completed,Peshawar,908314.19,Invalid discount_pct
+982118,18793,5023,2024-05-08,1,110.0,Card,Pending,Rawalpindi,84137.56,Invalid discount_pct
+982127,22297,5138,2025-03-15,0,25.0,Cash,Pending,Rawalpindi,426883.37,Invalid quantity
+982129,10888,5242,2025-11-23,7,110.0,Cash,Shipped,Islamabad,637326.41,Invalid discount_pct
+982150,30905,5303,2025-01-16,0,10.0,Cash,Shipped,Faisalabad,84268.11,Invalid quantity
+982165,12543,5323,2024-11-21,0,5.0,Bank Transfer,Completed,Faisalabad,94237.56,Invalid quantity
+982166,14669,5192,2024-03-24,6,110.0,Bank Transfer,Returned,Lahore,357693.35,Invalid discount_pct
+982187,26858,5264,2024-06-27,3,10.0,Easypaisa,Completed,Multan,-999.0,Invalid total_amount
+982357,34473,5301,2024-12-26,0,0.0,Easypaisa,Completed,Karachi,234732.24,Invalid quantity
+982539,31886,5102,2025-04-02,0,0.0,Unknown,Completed,Rawalpindi,31132.38,Invalid quantity
+982591,24887,5167,2025-10-11,0,0.0,Cash,Completed,Peshawar,615017.76,Invalid quantity
+982618,24346,5355,2025-08-01,0,0.0,Card,Pending,Karachi,146310.88,Invalid quantity
+982657,31480,5115,2025-11-30,5,0.0,Easypaisa,Returned,Multan,-999.0,Invalid total_amount
+982751,31685,5225,2024-06-13,4,10.0,Card,Returned,Lahore,-999.0,Invalid total_amount
+982781,29160,5053,2025-05-03,0,0.0,Easypaisa,Returned,Peshawar,279296.28,Invalid quantity
+982792,17580,5089,2024-06-12,1,0.0,Cash,Returned,Rawalpindi,-999.0,Invalid total_amount
+982861,18327,5159,2025-11-08,3,0.0,Easypaisa,Completed,Faisalabad,-999.0,Invalid total_amount
+983186,10968,5179,2024-10-12,4,0.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+983242,12713,5029,2025-01-29,4,0.0,Card,Pending,Lahore,-999.0,Invalid total_amount
+983246,24149,5356,2025-06-20,0,0.0,Cash,Completed,Multan,440171.58,Invalid quantity
+983248,33006,5267,2025-09-29,2,5.0,Cash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+983283,30079,5196,2025-10-17,0,15.0,JazzCash,Completed,Karachi,27160.33,Invalid quantity
+983338,11365,5122,2024-09-12,3,110.0,Unknown,Completed,Islamabad,276636.78,Invalid discount_pct
+983342,22530,5087,2024-08-23,0,0.0,Cash,Completed,Karachi,139037.19,Invalid quantity
+983416,13423,5307,2025-11-15,0,25.0,Card,Completed,Lahore,232820.08,Invalid quantity
+983443,27739,5262,2024-03-07,2,15.0,Card,Cancelled,Karachi,-999.0,Invalid total_amount
+983566,31822,5163,2024-02-15,2,110.0,JazzCash,Shipped,Islamabad,78844.19,Invalid discount_pct
+983586,13567,5051,2025-01-27,4,110.0,Card,Returned,Islamabad,514451.92,Invalid discount_pct
+983620,11571,5095,2024-09-29,1,0.0,Cash,Shipped,Karachi,-999.0,Invalid total_amount
+983644,16375,5271,2025-01-13,4,110.0,Cash,Pending,Rawalpindi,603778.19,Invalid discount_pct
+983704,17644,5341,2024-08-02,0,5.0,JazzCash,Returned,Islamabad,450757.08,Invalid quantity
+983829,16205,5220,2025-03-06,4,25.0,Card,Pending,Lahore,-999.0,Invalid total_amount
+983833,22666,5050,2025-02-26,1,15.0,Card,Shipped,Rawalpindi,-999.0,Invalid total_amount
+983893,13942,5095,2024-09-09,6,110.0,Bank Transfer,Returned,Lahore,642495.54,Invalid discount_pct
+983941,32639,5157,2025-09-16,0,20.0,Card,Shipped,Karachi,392425.3,Invalid quantity
+983970,23757,5109,2025-03-01,0,0.0,Card,Completed,Lahore,420341.34,Invalid quantity
+983973,26293,5049,2025-12-09,4,110.0,Bank Transfer,Completed,Karachi,596384.24,Invalid discount_pct
+983975,12398,5041,2024-06-08,3,110.0,JazzCash,Completed,Peshawar,414502.83,Invalid discount_pct
+984044,16668,5140,2025-05-15,4,110.0,Cash,Completed,Peshawar,174615.28,Invalid discount_pct
+984054,16607,5016,2024-06-03,0,0.0,Cash,Completed,Rawalpindi,124333.26,Invalid quantity
+984109,31592,5226,2024-03-17,7,110.0,Easypaisa,Completed,Rawalpindi,272658.86,Invalid discount_pct
+984118,31732,5001,2025-11-02,2,110.0,Unknown,Pending,Lahore,238025.13,Invalid discount_pct
+984145,14068,5355,2024-06-23,6,10.0,Cash,Returned,Lahore,-999.0,Invalid total_amount
+984238,26851,5210,2024-10-27,3,110.0,Unknown,Returned,Rawalpindi,25733.91,Invalid discount_pct
+984259,11208,5085,2024-05-17,1,110.0,Bank Transfer,Shipped,Lahore,92772.57,Invalid discount_pct
+984275,14109,5258,2025-04-08,0,10.0,JazzCash,Shipped,Faisalabad,437868.56,Invalid quantity
+984292,32611,5390,2025-09-15,3,110.0,Bank Transfer,Pending,Rawalpindi,378085.82,Invalid discount_pct
+984377,14194,5236,2025-08-05,1,15.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+984401,23053,5253,2024-06-09,0,20.0,Unknown,Completed,Islamabad,411227.54,Invalid quantity
+984472,15425,5270,2025-06-09,3,5.0,Unknown,Returned,Lahore,-999.0,Invalid total_amount
+984520,26418,5209,2024-07-20,2,110.0,Bank Transfer,Completed,Lahore,34263.52,Invalid discount_pct
+984694,18468,5065,2025-12-28,6,110.0,Bank Transfer,Completed,Karachi,221590.61,Invalid discount_pct
+984792,16962,5099,2025-01-01,6,10.0,Card,Shipped,Faisalabad,-999.0,Invalid total_amount
+984832,12739,5261,2024-09-16,3,5.0,Unknown,Completed,Karachi,-999.0,Invalid total_amount
+984961,32141,5369,2025-02-12,5,10.0,Bank Transfer,Completed,Karachi,-999.0,Invalid total_amount
+984996,24534,5398,2024-05-15,1,110.0,Cash,Shipped,Karachi,137560.49,Invalid discount_pct
+985042,11635,5136,2025-02-06,0,5.0,Card,Shipped,Islamabad,147209.86,Invalid quantity
+985106,25623,5364,2024-03-16,6,5.0,JazzCash,Returned,Faisalabad,-999.0,Invalid total_amount
+985249,21652,5241,2024-11-26,0,0.0,Card,Completed,Karachi,332904.7,Invalid quantity
+985271,10796,5187,2025-01-16,5,5.0,Bank Transfer,Cancelled,Lahore,-999.0,Invalid total_amount
+985355,13954,5002,2025-08-07,7,0.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
+985491,25810,5161,2025-04-16,0,15.0,Bank Transfer,Returned,Faisalabad,208740.47,Invalid quantity
+985528,20046,5398,2024-05-13,4,0.0,JazzCash,Pending,Faisalabad,-999.0,Invalid total_amount
+985573,29118,5136,2025-07-24,3,20.0,Easypaisa,Returned,Karachi,-999.0,Invalid total_amount
+985631,25573,5283,2024-03-27,6,110.0,JazzCash,Shipped,Lahore,787972.74,Invalid discount_pct
+985733,32934,5024,2024-03-25,3,0.0,Bank Transfer,Completed,Karachi,-999.0,Invalid total_amount
+985953,22403,5085,2025-08-10,0,25.0,Cash,Shipped,Islamabad,86974.28,Invalid quantity
+985956,29770,5093,2025-12-08,2,110.0,Cash,Shipped,Faisalabad,131825.72,Invalid discount_pct
+985969,22984,5040,2025-03-16,2,110.0,Easypaisa,Completed,Faisalabad,252091.08,Invalid discount_pct
+986011,25852,5007,2024-08-09,0,10.0,Cash,Pending,Peshawar,317560.23,Invalid quantity
+986077,23702,5353,2024-07-30,3,110.0,JazzCash,Completed,Islamabad,430933.32,Invalid discount_pct
+986112,22992,5356,2025-07-05,4,110.0,JazzCash,Completed,Islamabad,234758.18,Invalid discount_pct
+986178,31729,5005,2024-12-11,0,0.0,Cash,Completed,Islamabad,1045026.78,Invalid quantity
+986323,19025,5031,2024-11-19,6,10.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+986449,34002,5327,2025-12-05,0,0.0,JazzCash,Completed,Karachi,167668.68,Invalid quantity
+986573,20095,5037,2024-12-03,0,0.0,Cash,Pending,Multan,358423.0,Invalid quantity
+986584,13391,5067,2025-02-26,0,0.0,Cash,Completed,Karachi,878112.78,Invalid quantity
+986753,27787,5230,2024-06-22,1,0.0,Cash,Pending,Peshawar,-999.0,Invalid total_amount
+986865,20015,5020,2024-10-30,3,10.0,Card,Returned,Islamabad,-999.0,Invalid total_amount
+986876,30182,5358,2024-03-19,2,5.0,Easypaisa,Completed,Lahore,-999.0,Invalid total_amount
+986959,17453,5292,2025-07-23,3,110.0,Cash,Pending,Rawalpindi,164119.54,Invalid discount_pct
+987096,21479,5032,2024-03-21,2,0.0,Easypaisa,Completed,Rawalpindi,-999.0,Invalid total_amount
+987157,16068,5150,2024-06-14,1,10.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+987191,33747,5295,2024-11-21,2,110.0,Cash,Completed,Faisalabad,225343.58,Invalid discount_pct
+987195,10540,5231,2025-12-01,0,5.0,Unknown,Completed,Rawalpindi,546264.97,Invalid quantity
+987313,22904,5329,2024-04-08,3,20.0,Easypaisa,Completed,Islamabad,-999.0,Invalid total_amount
+987329,26150,5206,2025-06-28,4,25.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+987344,28688,5360,2024-07-22,3,15.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+987394,29632,5001,2024-08-27,1,110.0,Easypaisa,Completed,Faisalabad,119012.56,Invalid discount_pct
+987557,17074,5082,2025-09-09,2,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+987589,28439,5166,2024-12-04,7,110.0,Easypaisa,Pending,Faisalabad,559411.86,Invalid discount_pct
+987693,15323,5384,2024-02-04,0,0.0,Cash,Shipped,Islamabad,1072133.58,Invalid quantity
+987717,31540,5170,2024-05-13,7,10.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+987736,29891,5263,2024-09-09,0,5.0,Card,Pending,Lahore,192460.26,Invalid quantity
+987801,10969,5161,2024-02-08,2,110.0,Card,Shipped,Karachi,208740.47,Invalid discount_pct
+987886,20323,5132,2024-07-09,0,20.0,Easypaisa,Completed,Karachi,368000.86,Invalid quantity
+987932,21174,5217,2025-03-22,1,25.0,Easypaisa,Shipped,Multan,-999.0,Invalid total_amount
+987951,15421,5379,2025-09-05,2,110.0,Cash,Completed,Lahore,300176.08,Invalid discount_pct
+987960,14723,5400,2025-09-29,0,25.0,Bank Transfer,Completed,Lahore,357088.88,Invalid quantity
+988069,18795,5037,2024-01-16,0,5.0,Card,Completed,Islamabad,170250.92,Invalid quantity
+988428,24312,5143,2024-04-03,0,0.0,Bank Transfer,Completed,Islamabad,134876.09,Invalid quantity
+988443,27378,5353,2024-10-03,0,0.0,Card,Completed,Rawalpindi,718222.2,Invalid quantity
+988489,13034,5371,2025-09-06,0,5.0,Cash,Returned,Faisalabad,98555.83,Invalid quantity
+988550,12119,5374,2025-07-16,2,110.0,Bank Transfer,Completed,Peshawar,287856.14,Invalid discount_pct
+988622,17979,5390,2024-02-15,7,110.0,JazzCash,Completed,Multan,928631.83,Invalid discount_pct
+988635,17521,5355,2025-07-04,0,0.0,Cash,Pending,Peshawar,731554.4,Invalid quantity
+988705,16085,5385,2025-05-16,4,0.0,Easypaisa,Returned,Lahore,-999.0,Invalid total_amount
+988747,16231,5131,2024-08-29,2,110.0,Card,Shipped,Rawalpindi,164658.31,Invalid discount_pct
+988755,12547,5181,2025-02-26,6,10.0,Unknown,Pending,Faisalabad,-999.0,Invalid total_amount
+988760,10722,5078,2025-01-09,0,5.0,Unknown,Returned,Lahore,87321.29,Invalid quantity
+988822,18390,5064,2024-05-16,4,0.0,Card,Shipped,Islamabad,-999.0,Invalid total_amount
+988825,34165,5148,2025-03-29,0,20.0,Bank Transfer,Completed,Karachi,308605.31,Invalid quantity
+988996,14585,5225,2025-06-09,4,110.0,Card,Completed,Rawalpindi,80192.93,Invalid discount_pct
+989007,15206,5398,2025-01-05,0,0.0,JazzCash,Returned,Lahore,152844.99,Invalid quantity
+989046,32268,5064,2024-09-29,0,20.0,Unknown,Pending,Karachi,266608.43,Invalid quantity
+989053,20040,5172,2025-01-19,4,110.0,Card,Returned,Islamabad,453919.75,Invalid discount_pct
+989087,16111,5129,2025-03-04,1,110.0,Bank Transfer,Returned,Lahore,102361.69,Invalid discount_pct
+989164,32353,5254,2025-02-02,0,0.0,JazzCash,Pending,Lahore,472010.49,Invalid quantity
+989172,30725,5295,2025-04-29,1,110.0,Bank Transfer,Completed,Lahore,90137.43,Invalid discount_pct
+989345,26794,5337,2025-01-10,1,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+989442,11988,5019,2025-10-23,3,110.0,Cash,Shipped,Karachi,363185.73,Invalid discount_pct
+989603,16103,5159,2025-11-15,0,0.0,Bank Transfer,Returned,Peshawar,165063.43,Invalid quantity
+989661,10894,5006,2024-09-20,6,15.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+989667,19591,5016,2024-03-10,7,5.0,Card,Shipped,Islamabad,-999.0,Invalid total_amount
+989716,23542,5143,2025-06-12,7,110.0,Card,Pending,Karachi,944132.63,Invalid discount_pct
+989822,28473,5369,2025-06-01,7,0.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+989847,10423,5273,2024-01-30,1,15.0,JazzCash,Shipped,Peshawar,-999.0,Invalid total_amount
+990020,27058,5296,2024-02-12,2,25.0,Easypaisa,Completed,Rawalpindi,-999.0,Invalid total_amount
+990049,12359,5281,2025-04-24,0,15.0,Bank Transfer,Completed,Faisalabad,555151.66,Invalid quantity
+990070,33954,5346,2025-03-02,4,110.0,JazzCash,Completed,Rawalpindi,530827.44,Invalid discount_pct
+990087,30445,5222,2024-12-25,6,110.0,Bank Transfer,Pending,Peshawar,678220.14,Invalid discount_pct
+990181,31640,5170,2024-03-16,0,10.0,Easypaisa,Returned,Faisalabad,64579.5,Invalid quantity
+990188,17712,5120,2025-05-20,4,10.0,Bank Transfer,Returned,Islamabad,-999.0,Invalid total_amount
+990281,26419,5230,2025-07-11,4,110.0,JazzCash,Completed,Peshawar,629135.86,Invalid discount_pct
+990405,24283,5117,2024-10-25,7,110.0,Bank Transfer,Completed,Rawalpindi,176261.75,Invalid discount_pct
+990447,12520,5308,2025-02-14,0,10.0,Unknown,Completed,Faisalabad,477686.51,Invalid quantity
+990462,24517,5285,2024-11-03,0,5.0,JazzCash,Shipped,Lahore,71683.46,Invalid quantity
+990494,21701,5372,2025-01-28,4,20.0,Bank Transfer,Completed,Rawalpindi,-999.0,Invalid total_amount
+990500,15919,5335,2024-06-29,7,110.0,Easypaisa,Shipped,Lahore,923166.91,Invalid discount_pct
+990502,11453,5389,2025-07-14,0,0.0,Cash,Shipped,Lahore,1189706.35,Invalid quantity
+990618,16296,5386,2024-05-02,5,110.0,JazzCash,Cancelled,Lahore,646238.1,Invalid discount_pct
+990887,29322,5080,2025-06-22,0,5.0,Bank Transfer,Pending,Peshawar,587504.87,Invalid quantity
+990926,18127,5178,2025-04-16,3,0.0,Cash,Returned,Peshawar,-999.0,Invalid total_amount
+991034,14885,5187,2025-03-14,0,0.0,Cash,Completed,Karachi,313174.35,Invalid quantity
+991111,33371,5183,2025-12-04,0,10.0,JazzCash,Completed,Lahore,527244.26,Invalid quantity
+991136,23643,5074,2024-01-08,0,15.0,Card,Completed,Multan,42607.36,Invalid quantity
+991163,34514,5338,2024-09-24,0,15.0,Bank Transfer,Completed,Islamabad,537024.51,Invalid quantity
+991332,22373,5100,2025-08-12,0,20.0,Bank Transfer,Completed,Karachi,410979.14,Invalid quantity
+991378,14935,5039,2024-02-04,0,15.0,Card,Pending,Islamabad,362952.16,Invalid quantity
+991467,27723,5086,2025-07-18,6,110.0,Easypaisa,Pending,Islamabad,594097.74,Invalid discount_pct
+991482,13619,5376,2025-05-15,5,10.0,Unknown,Completed,Karachi,-999.0,Invalid total_amount
+991498,17698,5319,2024-08-18,4,10.0,Easypaisa,Completed,Lahore,-999.0,Invalid total_amount
+991551,22231,5057,2025-10-11,0,10.0,Card,Cancelled,Peshawar,55138.27,Invalid quantity
+991574,21781,5353,2024-12-07,0,0.0,Unknown,Completed,Karachi,287288.88,Invalid quantity
+991789,27906,5187,2025-04-14,4,0.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+991830,21609,5288,2024-11-24,0,25.0,Bank Transfer,Shipped,Multan,336754.88,Invalid quantity
+991848,19341,5379,2025-10-20,0,10.0,Card,Completed,Peshawar,135079.24,Invalid quantity
+991873,20768,5191,2024-10-04,0,10.0,Unknown,Completed,Multan,99514.87,Invalid quantity
+991880,14239,5048,2025-07-10,0,10.0,Cash,Cancelled,Lahore,970332.68,Invalid quantity
+991888,14062,5059,2025-10-06,1,10.0,Cash,Returned,Lahore,-999.0,Invalid total_amount
+992070,16938,5120,2025-06-10,4,0.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+992146,12573,5330,2025-08-29,2,15.0,Easypaisa,Cancelled,Peshawar,-999.0,Invalid total_amount
+992247,23893,5251,2025-03-29,0,0.0,Card,Cancelled,Faisalabad,726073.85,Invalid quantity
+992303,34221,5030,2024-03-17,0,20.0,Card,Completed,Rawalpindi,447198.8,Invalid quantity
+992309,14997,5290,2024-05-18,7,110.0,Cash,Completed,Rawalpindi,954292.69,Invalid discount_pct
+992369,26382,5328,2025-03-29,0,20.0,Easypaisa,Completed,Lahore,495932.77,Invalid quantity
+992423,16436,5037,2025-08-30,5,5.0,Card,Shipped,Lahore,-999.0,Invalid total_amount
+992459,34085,5381,2025-07-21,3,110.0,Bank Transfer,Completed,Islamabad,267812.58,Invalid discount_pct
+992470,10385,5038,2025-09-10,1,0.0,Bank Transfer,Returned,Multan,-999.0,Invalid total_amount
+992484,23099,5116,2024-03-30,4,110.0,Easypaisa,Cancelled,Rawalpindi,290195.96,Invalid discount_pct
+992513,32197,5265,2024-06-08,7,110.0,Easypaisa,Pending,Lahore,640144.82,Invalid discount_pct
+992517,26676,5168,2024-08-14,2,110.0,Cash,Cancelled,Peshawar,260782.73,Invalid discount_pct
+992769,34811,5177,2025-03-23,0,15.0,Unknown,Completed,Lahore,55196.86,Invalid quantity
+992796,30402,5186,2024-06-08,0,20.0,Cash,Completed,Karachi,330717.17,Invalid quantity
+992967,29255,5390,2025-11-08,1,0.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+992974,21853,5217,2024-01-15,5,20.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+992979,18721,5025,2024-11-25,7,0.0,Bank Transfer,Shipped,Karachi,-999.0,Invalid total_amount
+993022,27166,5198,2025-11-05,0,0.0,JazzCash,Completed,Peshawar,67657.26,Invalid quantity
+993119,30275,5234,2024-06-08,0,0.0,Card,Cancelled,Rawalpindi,70331.15,Invalid quantity
+993425,25398,5066,2024-09-27,0,15.0,Bank Transfer,Shipped,Karachi,671551.17,Invalid quantity
+993426,26892,5381,2024-04-15,6,110.0,Easypaisa,Completed,Rawalpindi,535625.16,Invalid discount_pct
+993429,12697,5236,2024-09-24,3,15.0,JazzCash,Pending,Peshawar,-999.0,Invalid total_amount
+993459,26255,5040,2024-04-08,3,110.0,Cash,Completed,Rawalpindi,321416.13,Invalid discount_pct
+993514,10586,5169,2024-08-24,1,110.0,JazzCash,Completed,Karachi,46056.38,Invalid discount_pct
+993544,22935,5011,2025-11-24,2,110.0,Cash,Returned,Rawalpindi,259600.85,Invalid discount_pct
+993555,34387,5351,2024-09-18,5,0.0,Unknown,Returned,Lahore,-999.0,Invalid total_amount
+993743,14633,5335,2024-10-11,0,0.0,Unknown,Completed,Lahore,146534.43,Invalid quantity
+993813,34127,5183,2025-05-09,0,15.0,Bank Transfer,Shipped,Islamabad,99590.58,Invalid quantity
+993908,33524,5383,2025-12-29,7,110.0,Cash,Returned,Lahore,1021156.11,Invalid discount_pct
+993921,25332,5186,2025-04-21,0,0.0,Cash,Completed,Islamabad,275597.64,Invalid quantity
+993925,24875,5231,2024-08-02,0,0.0,Unknown,Completed,Karachi,143753.94,Invalid quantity
+994011,21251,5308,2025-10-11,0,0.0,Easypaisa,Completed,Faisalabad,530762.79,Invalid quantity
+994034,17254,5088,2024-12-15,0,15.0,Card,Pending,Rawalpindi,104457.69,Invalid quantity
+994109,25401,5046,2024-03-15,1,110.0,Card,Completed,Peshawar,107709.57,Invalid discount_pct
+994159,16670,5273,2024-01-24,3,0.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+994183,24001,5334,2025-02-23,6,0.0,Card,Cancelled,Lahore,-999.0,Invalid total_amount
+994235,24335,5251,2024-03-16,1,110.0,Easypaisa,Shipped,Islamabad,123432.55,Invalid discount_pct
+994302,14731,5199,2024-06-13,0,20.0,Card,Completed,Islamabad,204697.82,Invalid quantity
+994375,21371,5079,2024-01-15,2,110.0,Cash,Completed,Karachi,309517.78,Invalid discount_pct
+994391,17322,5309,2024-04-30,0,20.0,Card,Returned,Islamabad,47327.67,Invalid quantity
+994434,21021,5158,2024-10-15,0,5.0,Unknown,Shipped,Peshawar,12877.77,Invalid quantity
+994450,19138,5291,2025-08-26,1,10.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+994480,29308,5039,2024-04-26,0,5.0,Card,Shipped,Lahore,270434.94,Invalid quantity
+994577,15773,5392,2025-12-15,4,25.0,Easypaisa,Shipped,Rawalpindi,-999.0,Invalid total_amount
+994607,23389,5177,2025-04-16,0,5.0,Unknown,Completed,Lahore,215917.12,Invalid quantity
+994609,33883,5268,2024-09-02,0,20.0,Easypaisa,Pending,Faisalabad,2247.62,Invalid quantity
+994632,34589,5081,2025-06-18,7,15.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+994658,32155,5251,2024-08-23,3,15.0,Bank Transfer,Shipped,Rawalpindi,-999.0,Invalid total_amount
+994660,10888,5154,2025-11-27,3,110.0,Cash,Completed,Lahore,320238.6,Invalid discount_pct
+994709,12172,5035,2025-09-06,4,20.0,Card,Pending,Lahore,-999.0,Invalid total_amount
+994758,30012,5173,2025-10-18,1,110.0,Cash,Cancelled,Faisalabad,99924.44,Invalid discount_pct
+994768,12937,5089,2025-12-07,3,15.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+994800,33927,5017,2025-06-09,4,20.0,Card,Shipped,Multan,-999.0,Invalid total_amount
+994962,14662,5212,2025-07-09,1,110.0,JazzCash,Completed,Karachi,120144.47,Invalid discount_pct
+995086,27574,5391,2025-05-10,0,0.0,JazzCash,Completed,Faisalabad,80673.84,Invalid quantity
+995092,20233,5194,2025-11-13,5,10.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+995145,26715,5206,2024-04-30,0,5.0,Card,Pending,Rawalpindi,273469.42,Invalid quantity
+995152,17104,5378,2024-10-27,0,20.0,Unknown,Pending,Rawalpindi,78847.17,Invalid quantity
+995153,12078,5234,2025-03-01,6,20.0,Bank Transfer,Completed,Peshawar,-999.0,Invalid total_amount
+995220,23011,5108,2024-03-09,0,15.0,Card,Completed,Islamabad,29486.71,Invalid quantity
+995237,22391,5303,2024-06-22,0,0.0,Card,Completed,Peshawar,124841.64,Invalid quantity
+995369,21445,5215,2025-12-10,0,10.0,Bank Transfer,Completed,Lahore,352727.78,Invalid quantity
+995376,24467,5063,2024-11-17,5,10.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+995574,11094,5376,2024-07-28,4,110.0,JazzCash,Completed,Lahore,101093.44,Invalid discount_pct
+995611,29821,5234,2025-05-12,4,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+995679,13729,5316,2025-02-08,7,110.0,Card,Completed,Islamabad,1041556.32,Invalid discount_pct
+995881,28443,5260,2024-07-17,1,110.0,Easypaisa,Completed,Lahore,32451.25,Invalid discount_pct
+995918,29420,5316,2025-11-07,5,110.0,Card,Completed,Rawalpindi,826632.0,Invalid discount_pct
+995928,34027,5219,2025-04-04,2,110.0,Unknown,Completed,Karachi,347181.1,Invalid discount_pct
+996121,18983,5220,2025-07-14,0,10.0,JazzCash,Completed,Multan,163371.98,Invalid quantity
+996164,26376,5016,2025-07-25,5,0.0,Bank Transfer,Completed,Peshawar,-999.0,Invalid total_amount
+996192,11014,5345,2025-05-27,0,0.0,Card,Shipped,Karachi,97410.9,Invalid quantity
+996193,30777,5064,2024-07-27,7,110.0,Card,Shipped,Faisalabad,1049770.7,Invalid discount_pct
+996241,10460,5330,2025-05-03,2,20.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+996243,13440,5029,2025-07-15,7,0.0,Unknown,Shipped,Rawalpindi,-999.0,Invalid total_amount
+996299,32501,5367,2024-07-10,0,0.0,Unknown,Pending,Lahore,253879.08,Invalid quantity
+996306,31689,5019,2025-06-23,0,15.0,Card,Completed,Faisalabad,514513.12,Invalid quantity
+996372,19683,5111,2025-06-14,0,0.0,Card,Completed,Peshawar,237646.36,Invalid quantity
+996434,16507,5295,2025-06-12,6,20.0,Bank Transfer,Shipped,Multan,-999.0,Invalid total_amount
+996460,34287,5244,2024-08-03,3,25.0,JazzCash,Pending,Islamabad,-999.0,Invalid total_amount
+996497,13637,5295,2025-09-26,6,110.0,Card,Returned,Rawalpindi,642229.2,Invalid discount_pct
+996505,30725,5219,2024-09-27,4,0.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+996545,26643,5136,2024-06-09,0,0.0,Bank Transfer,Completed,Lahore,619831.0,Invalid quantity
+996552,31850,5295,2025-06-26,7,110.0,Cash,Completed,Multan,630962.02,Invalid discount_pct
+996613,17388,5360,2025-06-01,2,15.0,Card,Pending,Karachi,-999.0,Invalid total_amount
+996679,20869,5128,2024-04-03,4,110.0,Cash,Returned,Lahore,170494.6,Invalid discount_pct
+996687,11782,5296,2024-07-19,0,0.0,Card,Completed,Rawalpindi,299707.44,Invalid quantity
+996708,12599,5292,2024-08-14,0,15.0,Card,Completed,Peshawar,406879.68,Invalid quantity
+996846,32163,5317,2024-07-28,1,10.0,Easypaisa,Returned,Lahore,-999.0,Invalid total_amount
+996879,33359,5143,2025-05-12,1,110.0,Card,Returned,Karachi,134876.09,Invalid discount_pct
+996967,12131,5139,2025-01-21,0,15.0,Bank Transfer,Pending,Faisalabad,118943.58,Invalid quantity
+996987,20718,5023,2024-08-29,0,0.0,Bank Transfer,Completed,Karachi,442829.25,Invalid quantity
+997011,17124,5388,2024-01-28,0,5.0,Unknown,Shipped,Karachi,299813.16,Invalid quantity
+997119,11726,5263,2025-03-31,0,10.0,Bank Transfer,Completed,Rawalpindi,255263.08,Invalid quantity
+997199,20009,5206,2024-11-11,0,15.0,JazzCash,Completed,Faisalabad,97873.27,Invalid quantity
+997210,25438,5335,2025-09-27,6,10.0,Easypaisa,Completed,Rawalpindi,-999.0,Invalid total_amount
+997262,24187,5019,2025-04-16,3,5.0,Bank Transfer,Completed,Rawalpindi,-999.0,Invalid total_amount
+997327,19304,5104,2024-12-13,0,10.0,Card,Completed,Karachi,264973.72,Invalid quantity
+997391,20376,5011,2024-09-28,6,110.0,Cash,Returned,Lahore,876152.86,Invalid discount_pct
+997413,19566,5073,2025-06-14,7,0.0,Card,Pending,Faisalabad,-999.0,Invalid total_amount
+997500,26420,5245,2024-02-18,0,25.0,Bank Transfer,Completed,Karachi,134796.72,Invalid quantity
+997742,25949,5257,2025-02-26,2,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+997773,25218,5314,2024-04-10,1,10.0,Card,Shipped,Faisalabad,-999.0,Invalid total_amount
+997790,20478,5047,2025-02-27,3,25.0,Bank Transfer,Shipped,Lahore,-999.0,Invalid total_amount
+997963,27351,5058,2025-06-21,3,110.0,Easypaisa,Shipped,Rawalpindi,296209.47,Invalid discount_pct
+998041,22154,5368,2025-07-01,7,110.0,JazzCash,Completed,Lahore,844719.54,Invalid discount_pct
+998100,28133,5398,2025-08-09,0,0.0,JazzCash,Completed,Peshawar,611379.96,Invalid quantity
+998263,33722,5136,2024-04-08,0,0.0,Card,Shipped,Karachi,929746.5,Invalid quantity
+998280,24770,5236,2024-06-17,6,110.0,Card,Completed,Karachi,598303.69,Invalid discount_pct
+998288,14870,5200,2024-08-19,7,110.0,Bank Transfer,Completed,Islamabad,166664.12,Invalid discount_pct
+998290,19576,5315,2024-08-17,0,0.0,JazzCash,Shipped,Rawalpindi,290867.4,Invalid quantity
+998323,23120,5140,2024-09-27,1,110.0,JazzCash,Completed,Lahore,41356.25,Invalid discount_pct
+998342,26051,5256,2025-01-14,4,110.0,Card,Returned,Rawalpindi,337695.16,Invalid discount_pct
+998344,12924,5068,2025-12-01,0,0.0,JazzCash,Completed,Rawalpindi,667143.9,Invalid quantity
+998467,24384,5170,2025-09-10,0,0.0,Easypaisa,Completed,Lahore,125571.25,Invalid quantity
+998481,31196,5391,2024-04-05,6,10.0,Easypaisa,Shipped,Karachi,-999.0,Invalid total_amount
+998675,12167,5144,2024-02-18,0,0.0,Card,Shipped,Peshawar,47944.8,Invalid quantity
+998720,25906,5061,2024-04-27,1,5.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+998837,10578,5008,2024-10-24,3,110.0,Card,Completed,Karachi,152126.61,Invalid discount_pct
+998917,30358,5031,2024-04-11,7,110.0,Card,Shipped,Islamabad,997113.03,Invalid discount_pct
+999058,34522,5178,2024-09-20,1,110.0,Card,Completed,Lahore,57631.97,Invalid discount_pct
+999090,34480,5096,2025-03-06,1,10.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+999158,27891,5362,2025-08-16,1,110.0,Card,Shipped,Karachi,94031.46,Invalid discount_pct
+999161,28132,5350,2024-01-31,4,110.0,Bank Transfer,Completed,Peshawar,75731.01,Invalid discount_pct
+999186,11112,5042,2024-09-06,0,5.0,Unknown,Completed,Karachi,167772.85,Invalid quantity
+999222,11504,5244,2024-09-30,0,10.0,Easypaisa,Completed,Lahore,105586.85,Invalid quantity
+999327,16508,5298,2025-11-02,0,10.0,Cash,Completed,Multan,636799.72,Invalid quantity
+999331,19691,5029,2024-07-09,2,10.0,Card,Completed,Multan,-999.0,Invalid total_amount
+999410,12740,5077,2025-05-25,0,15.0,Card,Cancelled,Karachi,235233.63,Invalid quantity
+999464,11466,5044,2024-04-30,1,20.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+999482,10122,5280,2025-06-11,1,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+999504,24781,5315,2024-08-12,0,0.0,Easypaisa,Completed,Islamabad,290867.4,Invalid quantity
+999531,30541,5060,2025-02-26,2,0.0,JazzCash,Completed,Islamabad,-999.0,Invalid total_amount
+999541,28977,5120,2025-08-01,0,0.0,Cash,Pending,Faisalabad,277524.92,Invalid quantity
+999579,23129,5081,2024-07-28,4,110.0,Card,Completed,Lahore,179335.2,Invalid discount_pct
+999581,26095,5202,2025-05-30,3,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+999618,27683,5133,2025-09-19,0,10.0,Cash,Completed,Rawalpindi,418251.69,Invalid quantity
+999649,31006,5259,2024-04-24,3,110.0,Cash,Cancelled,Karachi,250806.36,Invalid discount_pct
+999795,13008,5357,2025-01-23,0,15.0,Easypaisa,Completed,Karachi,295974.83,Invalid quantity
+999976,30880,5140,2025-05-20,4,15.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
+999980,34267,5196,2024-11-04,0,10.0,JazzCash,Cancelled,Lahore,57515.99,Invalid quantity
+1000078,30482,5151,2024-11-03,6,5.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+1000242,24002,5297,2025-10-22,4,5.0,Card,Returned,Multan,-999.0,Invalid total_amount
+1000248,24431,5227,2025-03-01,0,5.0,Bank Transfer,Completed,Islamabad,279989.13,Invalid quantity
+1000556,19359,5189,2024-08-25,4,10.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+1000567,20008,5172,2024-05-24,0,0.0,Card,Completed,Lahore,630444.1,Invalid quantity
+1000724,12938,5360,2025-08-21,7,0.0,Bank Transfer,Shipped,Lahore,-999.0,Invalid total_amount
+1000741,21789,5094,2025-12-20,7,110.0,Bank Transfer,Completed,Islamabad,708177.54,Invalid discount_pct
+1000771,13066,5391,2025-12-14,4,110.0,Easypaisa,Completed,Faisalabad,51093.43,Invalid discount_pct
+1000904,26295,5253,2025-10-06,0,0.0,Unknown,Completed,Rawalpindi,514034.43,Invalid quantity
+1000972,15842,5172,2025-05-05,3,110.0,Card,Shipped,Lahore,321526.49,Invalid discount_pct
+1000988,17673,5057,2024-03-07,3,0.0,Cash,Shipped,Lahore,-999.0,Invalid total_amount
+1001132,31057,5113,2025-10-08,1,0.0,Bank Transfer,Completed,Rawalpindi,-999.0,Invalid total_amount
+1001135,14427,5052,2024-04-04,0,0.0,Bank Transfer,Completed,Rawalpindi,244834.06,Invalid quantity
+1001151,11529,5066,2025-05-03,1,10.0,Cash,Cancelled,Karachi,-999.0,Invalid total_amount
+1001203,29957,5156,2024-04-23,0,0.0,Easypaisa,Completed,Islamabad,992479.92,Invalid quantity
+1001278,16478,5054,2024-11-27,3,110.0,JazzCash,Completed,Islamabad,346747.72,Invalid discount_pct
+1001283,29021,5398,2025-01-14,1,110.0,JazzCash,Cancelled,Islamabad,152844.99,Invalid discount_pct
+1001294,19409,5087,2025-01-08,5,0.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+1001366,19533,5145,2024-08-29,0,15.0,Cash,Returned,Lahore,42709.57,Invalid quantity
+1001401,13312,5028,2025-10-12,5,5.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+1001419,13066,5078,2025-12-04,0,5.0,Card,Shipped,Lahore,116428.39,Invalid quantity
+1001484,29289,5133,2025-02-13,7,110.0,Easypaisa,Returned,Lahore,650613.74,Invalid discount_pct
+1001505,22701,5302,2024-06-01,0,0.0,Card,Completed,Multan,891166.65,Invalid quantity
+1001606,18705,5273,2025-11-21,0,0.0,Bank Transfer,Returned,Karachi,214119.66,Invalid quantity
+1001614,16458,5372,2025-09-24,0,0.0,Card,Pending,Lahore,415391.22,Invalid quantity
+1001650,16519,5178,2025-07-21,2,15.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+1001706,14091,5255,2025-01-01,7,110.0,Easypaisa,Returned,Rawalpindi,1090331.9,Invalid discount_pct
+1001772,34432,5390,2025-05-25,0,25.0,Easypaisa,Completed,Karachi,696473.87,Invalid quantity
+1001805,22868,5084,2024-09-11,6,0.0,Card,Returned,Multan,-999.0,Invalid total_amount
+1001825,31708,5001,2024-02-28,7,110.0,Cash,Shipped,Faisalabad,980103.46,Invalid discount_pct
+1001893,11835,5010,2024-11-30,1,10.0,Cash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+1002044,17722,5240,2024-08-04,5,110.0,Card,Shipped,Multan,419917.05,Invalid discount_pct
+1002047,15814,5050,2024-03-28,7,110.0,Card,Completed,Karachi,1046860.08,Invalid discount_pct
+1002090,27421,5023,2024-07-27,0,10.0,Unknown,Completed,Karachi,318837.06,Invalid quantity
+1002108,30143,5241,2025-07-08,1,110.0,Card,Returned,Karachi,63251.89,Invalid discount_pct
+1002128,33602,5280,2025-03-20,1,0.0,Bank Transfer,Completed,Peshawar,-999.0,Invalid total_amount
+1002267,10456,5391,2024-05-20,3,5.0,Easypaisa,Returned,Karachi,-999.0,Invalid total_amount
+1002337,11263,5335,2024-10-11,5,20.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+1002340,26911,5036,2025-02-08,2,10.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+1002433,32094,5289,2025-11-07,0,0.0,Bank Transfer,Completed,Islamabad,142310.94,Invalid quantity
+1002481,23811,5304,2025-07-13,0,0.0,Easypaisa,Shipped,Karachi,172496.9,Invalid quantity
+1002508,18645,5367,2024-07-13,0,0.0,Easypaisa,Completed,Karachi,190409.31,Invalid quantity
+1002610,26499,5034,2024-11-21,0,5.0,Bank Transfer,Shipped,Lahore,404426.87,Invalid quantity
+1002669,32445,5355,2025-02-08,3,110.0,Bank Transfer,Shipped,Rawalpindi,438932.64,Invalid discount_pct
+1002674,33621,5325,2025-10-23,7,5.0,Unknown,Pending,Rawalpindi,-999.0,Invalid total_amount
+1002707,26218,5151,2024-04-28,7,0.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+1002739,24928,5046,2024-12-17,4,110.0,Unknown,Completed,Karachi,409296.37,Invalid discount_pct
+1002777,31126,5056,2024-02-08,0,25.0,Cash,Completed,Peshawar,391852.5,Invalid quantity
+1002824,31168,5061,2024-05-09,2,110.0,Bank Transfer,Completed,Karachi,308047.96,Invalid discount_pct
+1002831,17970,5383,2025-12-21,0,0.0,JazzCash,Returned,Islamabad,1074901.17,Invalid quantity
+1002846,23531,5284,2024-04-12,5,110.0,JazzCash,Returned,Peshawar,174773.0,Invalid discount_pct
+1002853,19002,5399,2024-12-23,2,10.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+1002861,24001,5116,2025-04-27,0,20.0,Bank Transfer,Completed,Lahore,174117.58,Invalid quantity
+1002923,19448,5147,2025-11-23,0,0.0,Cash,Completed,Karachi,1123562.86,Invalid quantity
+1002937,25677,5309,2024-12-04,0,0.0,Card,Completed,Islamabad,42256.85,Invalid quantity
+1002959,31048,5380,2024-02-24,0,0.0,Bank Transfer,Completed,Karachi,846101.88,Invalid quantity
+1003007,27850,5115,2024-04-12,0,10.0,Cash,Cancelled,Rawalpindi,1127784.29,Invalid quantity
+1003011,19743,5054,2025-08-22,3,10.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+1003036,14685,5262,2025-12-20,6,110.0,Card,Shipped,Islamabad,251284.32,Invalid discount_pct
+1003064,24459,5350,2024-12-21,4,110.0,JazzCash,Completed,Lahore,90877.21,Invalid discount_pct
+1003198,13837,5121,2025-07-30,6,25.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+1003213,27750,5095,2025-09-25,6,110.0,Cash,Completed,Rawalpindi,610370.76,Invalid discount_pct
+1003214,33920,5371,2025-04-02,0,0.0,Card,Completed,Peshawar,622457.88,Invalid quantity
+1003233,13169,5275,2025-07-13,3,110.0,Unknown,Pending,Lahore,180870.11,Invalid discount_pct
+1003248,16782,5124,2025-09-04,7,0.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+1003251,22779,5070,2024-10-18,4,110.0,JazzCash,Completed,Multan,530034.16,Invalid discount_pct
+1003257,12437,5136,2025-01-19,5,110.0,Card,Completed,Karachi,774788.75,Invalid discount_pct
+1003356,26450,5298,2025-01-17,6,0.0,JazzCash,Returned,Lahore,-999.0,Invalid total_amount
+1003439,14197,5263,2024-06-15,1,10.0,Easypaisa,Cancelled,Karachi,-999.0,Invalid total_amount
+1003468,25184,5333,2024-01-25,3,110.0,Cash,Returned,Karachi,338941.59,Invalid discount_pct
+1003710,10236,5272,2025-07-23,5,0.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+1003758,19487,5029,2025-02-10,3,110.0,Unknown,Completed,Karachi,292736.21,Invalid discount_pct
+1003797,19550,5122,2024-10-16,4,110.0,Cash,Pending,Karachi,331964.14,Invalid discount_pct
+1003851,11627,5091,2024-03-21,2,110.0,Card,Completed,Karachi,155474.6,Invalid discount_pct
+1003860,19770,5123,2024-10-22,0,0.0,Cash,Completed,Islamabad,571380.25,Invalid quantity
+1003901,34177,5029,2024-03-14,0,5.0,JazzCash,Cancelled,Karachi,195157.47,Invalid quantity
+1003937,25385,5137,2024-11-10,6,15.0,Card,Returned,Rawalpindi,-999.0,Invalid total_amount
+1003965,15468,5162,2024-10-16,0,0.0,Unknown,Completed,Lahore,1037730.68,Invalid quantity
+1004081,26308,5245,2025-07-30,4,0.0,JazzCash,Completed,Peshawar,-999.0,Invalid total_amount
+1004156,33965,5345,2025-07-31,0,10.0,Bank Transfer,Completed,Multan,146116.35,Invalid quantity
+1004168,23345,5205,2024-12-15,0,0.0,Card,Returned,Peshawar,206302.6,Invalid quantity
+1004180,20569,5119,2025-11-06,0,0.0,JazzCash,Shipped,Rawalpindi,644627.41,Invalid quantity
+1004192,27313,5016,2024-04-02,2,10.0,Card,Cancelled,Faisalabad,-999.0,Invalid total_amount
+1004231,11824,5267,2025-05-18,0,25.0,Unknown,Completed,Faisalabad,122835.72,Invalid quantity
+1004312,15765,5230,2024-04-08,2,5.0,Unknown,Pending,Lahore,-999.0,Invalid total_amount
+1004341,32100,5005,2024-01-21,2,10.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+1004439,33676,5330,2025-03-14,0,0.0,Easypaisa,Shipped,Karachi,962669.1,Invalid quantity
+1004506,15588,5142,2024-07-22,7,110.0,Bank Transfer,Completed,Lahore,98105.07,Invalid discount_pct
+1004528,27496,5130,2024-09-06,3,110.0,JazzCash,Completed,Karachi,63839.55,Invalid discount_pct
+1004549,16849,5073,2024-07-26,0,0.0,JazzCash,Pending,Islamabad,255981.58,Invalid quantity
+1004558,11737,5129,2024-01-21,2,20.0,JazzCash,Returned,Rawalpindi,-999.0,Invalid total_amount
+1004559,34865,5178,2025-01-25,0,0.0,Bank Transfer,Completed,Karachi,345791.82,Invalid quantity
+1004666,17504,5073,2024-06-04,0,25.0,Easypaisa,Returned,Peshawar,575958.55,Invalid quantity
+1004679,18442,5037,2024-07-23,7,110.0,Cash,Completed,Rawalpindi,1191756.47,Invalid discount_pct
+1004719,26518,5139,2024-06-18,3,20.0,Cash,Completed,Multan,-999.0,Invalid total_amount
+1004763,25335,5177,2025-11-15,4,110.0,JazzCash,Completed,Karachi,110393.72,Invalid discount_pct
+1004845,33611,5388,2025-08-16,0,0.0,Bank Transfer,Completed,Rawalpindi,378711.36,Invalid quantity
+1004909,11629,5268,2025-04-07,1,5.0,Card,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+1004918,33092,5391,2024-10-15,4,25.0,Easypaisa,Pending,Peshawar,-999.0,Invalid total_amount
+1004928,22483,5006,2024-12-30,4,15.0,JazzCash,Cancelled,Lahore,-999.0,Invalid total_amount
+1004974,18354,5280,2025-11-07,0,10.0,JazzCash,Returned,Karachi,38811.44,Invalid quantity
+1004988,26207,5234,2025-11-22,0,5.0,Easypaisa,Completed,Islamabad,13362.92,Invalid quantity
+1005030,24462,5389,2024-01-16,7,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+1005044,15258,5336,2025-03-22,0,10.0,Bank Transfer,Cancelled,Rawalpindi,571258.04,Invalid quantity
+1005073,10010,5310,2024-05-13,7,0.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+1005267,23208,5021,2024-03-17,5,0.0,Unknown,Completed,Peshawar,-999.0,Invalid total_amount
+1005396,23913,5073,2025-09-18,0,10.0,JazzCash,Shipped,Islamabad,345575.13,Invalid quantity
+1005430,12056,5255,2025-09-24,0,20.0,JazzCash,Shipped,Islamabad,373828.08,Invalid quantity
+1005444,29960,5331,2024-07-06,0,10.0,JazzCash,Shipped,Islamabad,959636.65,Invalid quantity
+1005652,10608,5120,2025-09-01,5,110.0,JazzCash,Completed,Islamabad,329560.84,Invalid discount_pct
+1005656,29821,5086,2025-07-09,7,110.0,JazzCash,Completed,Karachi,770126.7,Invalid discount_pct
+1005683,28406,5089,2024-04-25,4,110.0,Bank Transfer,Shipped,Rawalpindi,572459.7,Invalid discount_pct
+1005716,10445,5068,2025-12-04,5,110.0,Unknown,Completed,Multan,667143.9,Invalid discount_pct
+1005749,24411,5330,2025-06-03,0,0.0,Card,Completed,Lahore,320889.7,Invalid quantity
+1005766,19385,5161,2024-09-27,5,0.0,Bank Transfer,Completed,Faisalabad,-999.0,Invalid total_amount
+1005776,20301,5399,2025-11-18,0,5.0,Card,Returned,Rawalpindi,69093.4,Invalid quantity
+1005778,12953,5064,2025-04-01,0,10.0,Card,Completed,Peshawar,899803.46,Invalid quantity
+1005872,34464,5057,2024-11-13,6,5.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+1005914,19017,5284,2024-03-26,0,10.0,Cash,Completed,Multan,31459.14,Invalid quantity
+1005930,32924,5285,2024-06-29,4,110.0,JazzCash,Completed,Lahore,100608.36,Invalid discount_pct
+1005949,23893,5302,2025-12-19,0,10.0,Card,Completed,Islamabad,160410.0,Invalid quantity
+1005962,32803,5047,2024-11-07,0,20.0,JazzCash,Completed,Islamabad,981397.2,Invalid quantity
+1005965,16075,5358,2024-02-29,7,0.0,Unknown,Completed,Islamabad,-999.0,Invalid total_amount
+1006037,26978,5377,2024-05-12,2,0.0,Card,Shipped,Karachi,-999.0,Invalid total_amount
+1006093,20447,5126,2025-06-10,7,15.0,Cash,Completed,Peshawar,-999.0,Invalid total_amount
+1006342,19197,5040,2024-04-30,7,0.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+1006486,25776,5004,2024-12-12,0,25.0,JazzCash,Shipped,Karachi,449607.87,Invalid quantity
+1006536,29991,5301,2025-05-10,0,0.0,Cash,Completed,Faisalabad,469464.48,Invalid quantity
+1006540,10681,5124,2024-07-22,4,110.0,Cash,Returned,Lahore,590113.7,Invalid discount_pct
+1006657,13547,5171,2024-03-02,3,110.0,JazzCash,Pending,Karachi,439656.41,Invalid discount_pct
+1006699,24569,5054,2025-11-30,0,0.0,Cash,Pending,Peshawar,1078770.7,Invalid quantity
+1006736,15592,5294,2025-08-11,0,10.0,JazzCash,Returned,Peshawar,344992.96,Invalid quantity
+1006794,22309,5008,2025-08-31,0,20.0,Cash,Cancelled,Karachi,121701.29,Invalid quantity
+1006816,22218,5395,2024-06-26,4,110.0,Card,Shipped,Karachi,716368.2,Invalid discount_pct
+1006817,13869,5169,2024-12-03,0,25.0,Cash,Completed,Peshawar,241796.0,Invalid quantity
+1006845,16387,5056,2024-05-12,0,0.0,Unknown,Returned,Islamabad,391852.5,Invalid quantity
+1006982,12107,5214,2024-10-21,7,110.0,JazzCash,Completed,Peshawar,730671.06,Invalid discount_pct
+1007221,13537,5291,2025-03-18,0,0.0,Easypaisa,Pending,Karachi,1155245.14,Invalid quantity
+1007225,28453,5349,2025-11-30,5,0.0,Unknown,Shipped,Rawalpindi,-999.0,Invalid total_amount
+1007228,27364,5227,2025-06-24,7,110.0,Cash,Cancelled,Lahore,412615.56,Invalid discount_pct
+1007310,27872,5243,2024-03-01,0,0.0,Card,Completed,Multan,23287.8,Invalid quantity
+1007352,32570,5302,2025-09-04,6,110.0,Cash,Shipped,Faisalabad,908989.98,Invalid discount_pct
+1007372,19001,5235,2024-11-08,4,110.0,Cash,Completed,Faisalabad,309463.78,Invalid discount_pct
+1007384,18166,5181,2024-05-22,6,25.0,Card,Returned,Karachi,-999.0,Invalid total_amount
+1007404,12085,5197,2024-04-26,4,110.0,Card,Returned,Lahore,564499.31,Invalid discount_pct
+1007420,24349,5185,2025-03-29,5,0.0,Unknown,Pending,Faisalabad,-999.0,Invalid total_amount
+1007579,23005,5095,2025-05-25,0,0.0,Cash,Shipped,Rawalpindi,107082.59,Invalid quantity
+1007634,15796,5139,2024-04-22,4,0.0,JazzCash,Completed,Multan,-999.0,Invalid total_amount
+1007652,12873,5233,2024-03-11,0,0.0,Card,Completed,Karachi,133745.92,Invalid quantity
+1007659,15955,5247,2024-04-21,6,110.0,Card,Pending,Multan,87588.54,Invalid discount_pct
+1007882,11705,5129,2025-04-02,0,0.0,JazzCash,Returned,Lahore,614170.14,Invalid quantity
+1007930,34386,5350,2024-03-31,3,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+1007973,29197,5333,2024-08-01,5,0.0,Cash,Completed,Peshawar,-999.0,Invalid total_amount
+1007997,18178,5065,2024-12-28,7,10.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+1008124,32370,5362,2025-07-14,0,0.0,Card,Returned,Lahore,117539.32,Invalid quantity
+1008146,29486,5213,2025-10-24,0,0.0,Card,Cancelled,Lahore,30993.42,Invalid quantity
+1008300,24147,5060,2024-03-12,0,25.0,Card,Completed,Islamabad,666487.92,Invalid quantity
+1008315,17833,5371,2024-12-24,2,110.0,Unknown,Shipped,Multan,207485.96,Invalid discount_pct
+1008372,22752,5317,2024-05-06,1,10.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+1008397,12539,5284,2025-03-15,6,5.0,JazzCash,Completed,Lahore,-999.0,Invalid total_amount
+1008417,32024,5335,2024-01-12,0,0.0,Card,Shipped,Islamabad,146534.43,Invalid quantity
+1008435,12886,5308,2024-01-10,4,0.0,Cash,Pending,Lahore,-999.0,Invalid total_amount
+1008438,27338,5329,2025-03-06,6,110.0,Easypaisa,Shipped,Islamabad,674349.18,Invalid discount_pct
+1008578,14975,5085,2024-01-01,1,0.0,Easypaisa,Returned,Peshawar,-999.0,Invalid total_amount
+1008717,32948,5323,2024-11-15,1,0.0,Card,Completed,Karachi,-999.0,Invalid total_amount
+1008719,22960,5013,2025-03-04,7,10.0,Unknown,Cancelled,Karachi,-999.0,Invalid total_amount
+1008767,31598,5051,2024-01-07,6,0.0,JazzCash,Completed,Rawalpindi,-999.0,Invalid total_amount
+1008798,12140,5164,2025-12-30,3,25.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+1008961,29126,5101,2025-11-11,7,10.0,Card,Shipped,Lahore,-999.0,Invalid total_amount
+1009106,24735,5378,2025-10-23,2,10.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+1009114,34558,5016,2025-09-13,5,15.0,Bank Transfer,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+1009123,30461,5384,2024-10-05,7,110.0,Cash,Completed,Lahore,1072133.58,Invalid discount_pct
+1009262,30118,5234,2025-07-29,0,15.0,Unknown,Pending,Islamabad,11956.3,Invalid quantity
+1009293,32268,5378,2025-01-30,6,0.0,Unknown,Completed,Islamabad,-999.0,Invalid total_amount
+1009335,29450,5103,2025-04-16,0,0.0,Card,Completed,Lahore,111278.7,Invalid quantity
+1009459,32631,5052,2024-04-28,7,15.0,JazzCash,Shipped,Rawalpindi,-999.0,Invalid total_amount
+1009507,27968,5105,2025-10-10,0,10.0,JazzCash,Cancelled,Faisalabad,395926.15,Invalid quantity
+1009544,18615,5286,2024-07-02,3,110.0,Cash,Completed,Rawalpindi,267424.08,Invalid discount_pct
+1009890,28318,5378,2024-12-13,1,0.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+1009894,17668,5248,2024-10-30,0,25.0,Bank Transfer,Completed,Multan,119393.89,Invalid quantity
+1009996,27364,5354,2024-12-08,5,0.0,Card,Completed,Lahore,-999.0,Invalid total_amount
+1010005,24842,5071,2024-01-07,0,10.0,Easypaisa,Completed,Islamabad,623167.34,Invalid quantity
+1010015,16017,5234,2024-10-14,0,10.0,Bank Transfer,Completed,Peshawar,63298.04,Invalid quantity
+1010035,28302,5280,2025-12-11,1,110.0,Cash,Completed,Karachi,20483.81,Invalid discount_pct
+1010107,34228,5194,2025-08-07,2,110.0,JazzCash,Cancelled,Karachi,166098.52,Invalid discount_pct
+1010195,23423,5211,2024-05-28,6,5.0,Unknown,Cancelled,Islamabad,-999.0,Invalid total_amount
+1010411,21350,5093,2025-09-30,6,5.0,Unknown,Shipped,Karachi,-999.0,Invalid total_amount
+1010447,11756,5362,2025-05-28,1,0.0,Bank Transfer,Shipped,Lahore,-999.0,Invalid total_amount
+1010485,26108,5048,2024-11-07,1,0.0,Unknown,Shipped,Lahore,-999.0,Invalid total_amount
+1010499,28621,5098,2025-12-14,4,0.0,Card,Shipped,Peshawar,-999.0,Invalid total_amount
+1010501,27689,5189,2024-03-29,2,110.0,Unknown,Completed,Rawalpindi,350652.1,Invalid discount_pct
+1010541,15768,5071,2024-02-22,6,5.0,Bank Transfer,Returned,Karachi,-999.0,Invalid total_amount
+1010547,23168,5032,2024-07-26,1,0.0,Easypaisa,Returned,Faisalabad,-999.0,Invalid total_amount
+1010569,32742,5228,2025-06-14,0,10.0,JazzCash,Pending,Faisalabad,311152.7,Invalid quantity
+1010632,24034,5162,2024-07-09,6,5.0,Card,Shipped,Peshawar,-999.0,Invalid total_amount
+1010716,22763,5113,2024-01-20,7,110.0,Card,Shipped,Faisalabad,787224.2,Invalid discount_pct
+1010858,15240,5152,2024-10-10,5,0.0,Easypaisa,Completed,Peshawar,-999.0,Invalid total_amount
+1010865,24386,5219,2024-05-04,5,15.0,Easypaisa,Completed,Karachi,-999.0,Invalid total_amount
+1010931,21450,5230,2024-06-29,0,15.0,Card,Completed,Lahore,891275.8,Invalid quantity
+1011005,11375,5342,2025-11-30,0,10.0,Bank Transfer,Shipped,Rawalpindi,9338.76,Invalid quantity
+1011084,22441,5293,2025-06-27,6,15.0,JazzCash,Pending,Rawalpindi,-999.0,Invalid total_amount
+1011358,21455,5085,2024-11-15,1,20.0,Bank Transfer,Shipped,Rawalpindi,-999.0,Invalid total_amount
+1011506,20452,5177,2025-01-08,0,5.0,Easypaisa,Pending,Lahore,154226.52,Invalid quantity
+1011672,34109,5050,2025-08-28,0,0.0,Cash,Shipped,Peshawar,1046860.08,Invalid quantity
+1011676,26067,5060,2025-07-14,0,0.0,Easypaisa,Shipped,Karachi,761700.48,Invalid quantity
+1011706,27446,5194,2025-06-22,0,5.0,Easypaisa,Cancelled,Peshawar,278459.28,Invalid quantity
+1011707,13872,5384,2024-10-14,3,110.0,Cash,Completed,Karachi,459485.82,Invalid discount_pct
+1011745,19172,5103,2025-03-24,5,0.0,Card,Returned,Peshawar,-999.0,Invalid total_amount
+1011876,18140,5279,2024-02-17,3,15.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+1011905,11485,5360,2025-10-05,4,110.0,Easypaisa,Completed,Peshawar,323203.36,Invalid discount_pct
+1011981,22635,5054,2025-12-20,3,10.0,JazzCash,Completed,Karachi,-999.0,Invalid total_amount
+1012036,16475,5201,2024-08-27,5,10.0,Card,Cancelled,Peshawar,-999.0,Invalid total_amount
+1012072,11044,5047,2025-01-29,0,10.0,Bank Transfer,Completed,Rawalpindi,630898.2,Invalid quantity
+1012101,21062,5166,2025-11-22,3,10.0,Bank Transfer,Shipped,Lahore,-999.0,Invalid total_amount
+1012107,26290,5304,2024-08-19,7,10.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+1012194,21094,5072,2025-06-22,0,0.0,Easypaisa,Completed,Faisalabad,333491.85,Invalid quantity
+1012284,13585,5111,2024-11-06,0,0.0,JazzCash,Completed,Lahore,356469.54,Invalid quantity
+1012350,22248,5043,2025-11-29,1,15.0,Unknown,Cancelled,Islamabad,-999.0,Invalid total_amount
+1012472,16854,5210,2025-12-07,0,0.0,JazzCash,Completed,Karachi,17155.94,Invalid quantity
+1012491,24572,5029,2024-11-30,0,0.0,Unknown,Pending,Rawalpindi,205428.92,Invalid quantity
+1012543,10251,5320,2024-01-27,3,15.0,Unknown,Shipped,Faisalabad,-999.0,Invalid total_amount
+1012684,13972,5106,2024-11-15,6,10.0,Card,Returned,Islamabad,-999.0,Invalid total_amount
+1012715,24893,5333,2024-10-29,2,0.0,Card,Cancelled,Karachi,-999.0,Invalid total_amount
+1012727,26392,5066,2024-04-27,0,0.0,Bank Transfer,Shipped,Faisalabad,395030.1,Invalid quantity
+1012737,33919,5097,2024-10-07,1,20.0,Card,Completed,Peshawar,-999.0,Invalid total_amount
+1012761,29034,5012,2024-05-26,3,110.0,Easypaisa,Shipped,Lahore,24472.2,Invalid discount_pct
+1012790,32089,5243,2025-02-19,5,15.0,Bank Transfer,Completed,Islamabad,-999.0,Invalid total_amount
+1012872,12010,5371,2024-12-26,6,10.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+1012879,28421,5048,2025-03-08,5,0.0,Card,Cancelled,Islamabad,-999.0,Invalid total_amount
+1012911,25510,5242,2024-06-10,0,20.0,JazzCash,Completed,Karachi,364186.52,Invalid quantity
+1012939,21899,5133,2025-05-11,3,110.0,Card,Completed,Islamabad,278834.46,Invalid discount_pct
+1012991,18399,5132,2025-03-14,3,25.0,Bank Transfer,Completed,Peshawar,-999.0,Invalid total_amount
+1013084,18343,5313,2024-06-03,5,10.0,Easypaisa,Shipped,Faisalabad,-999.0,Invalid total_amount
+1013099,20590,5196,2024-02-17,0,20.0,Easypaisa,Shipped,Rawalpindi,34083.55,Invalid quantity
+1013115,27238,5096,2025-09-10,3,5.0,Bank Transfer,Pending,Lahore,-999.0,Invalid total_amount
+1013132,10871,5197,2024-08-04,0,10.0,Bank Transfer,Completed,Lahore,448278.87,Invalid quantity
+1013288,18080,5201,2025-05-06,0,0.0,Card,Completed,Peshawar,79920.12,Invalid quantity
+1013423,27339,5361,2024-09-25,7,20.0,Easypaisa,Shipped,Islamabad,-999.0,Invalid total_amount
+1013461,25954,5008,2025-10-21,0,0.0,Card,Cancelled,Karachi,202835.48,Invalid quantity
+1013504,27575,5151,2024-06-26,7,110.0,Bank Transfer,Completed,Rawalpindi,864769.79,Invalid discount_pct
+1013509,27355,5015,2024-08-02,0,15.0,JazzCash,Returned,Karachi,25890.0,Invalid quantity
+1013633,13019,5332,2024-08-06,0,20.0,Easypaisa,Completed,Peshawar,335051.26,Invalid quantity
+1013791,15514,5227,2024-05-20,6,110.0,Cash,Completed,Peshawar,335986.96,Invalid discount_pct
+1013848,26569,5392,2024-05-30,0,0.0,Unknown,Cancelled,Karachi,247989.45,Invalid quantity
+1013943,33229,5218,2024-05-23,0,20.0,Easypaisa,Completed,Islamabad,25295.47,Invalid quantity
+1014112,19361,5128,2024-01-28,0,5.0,Card,Completed,Lahore,80984.94,Invalid quantity
+1014151,12523,5385,2025-01-15,0,20.0,Card,Completed,Peshawar,145903.74,Invalid quantity
+1014232,13433,5158,2024-02-03,0,0.0,Bank Transfer,Returned,Karachi,67777.75,Invalid quantity
+1014352,14577,5129,2024-01-22,0,0.0,Bank Transfer,Completed,Lahore,204723.38,Invalid quantity
+1014408,31932,5184,2024-04-27,0,10.0,Easypaisa,Completed,Lahore,73667.58,Invalid quantity
+1014432,32603,5281,2024-11-21,1,110.0,JazzCash,Cancelled,Karachi,93302.8,Invalid discount_pct
+1014492,23602,5106,2024-11-25,5,5.0,Cash,Completed,Faisalabad,-999.0,Invalid total_amount
+1014512,21462,5064,2025-04-25,0,5.0,Card,Completed,Faisalabad,158298.76,Invalid quantity
+1014533,20480,5279,2025-02-05,0,0.0,JazzCash,Completed,Multan,395610.48,Invalid quantity
+1014631,33308,5211,2024-01-14,1,0.0,Card,Completed,Rawalpindi,-999.0,Invalid total_amount
+1014635,30499,5338,2025-07-29,0,5.0,Card,Completed,Lahore,85743.41,Invalid quantity
+1014683,22331,5196,2024-07-30,5,5.0,Cash,Cancelled,Karachi,-999.0,Invalid total_amount
+1014688,27141,5131,2024-02-01,4,15.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+1014706,33315,5090,2024-08-22,0,20.0,Easypaisa,Completed,Karachi,11722.62,Invalid quantity
+1014773,23704,5017,2025-01-02,0,0.0,Unknown,Returned,Lahore,47234.32,Invalid quantity
+1014820,29196,5083,2024-11-18,3,110.0,Card,Completed,Lahore,472583.46,Invalid discount_pct
+1014999,31031,5140,2024-08-15,2,20.0,Bank Transfer,Shipped,Rawalpindi,-999.0,Invalid total_amount
+1015038,15136,5260,2024-08-06,1,110.0,Cash,Completed,Lahore,25961.0,Invalid discount_pct
+1015299,29152,5026,2025-02-15,1,0.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+1015304,24626,5135,2025-11-01,6,110.0,JazzCash,Cancelled,Karachi,36729.42,Invalid discount_pct
+1015356,29098,5363,2025-10-15,5,0.0,Bank Transfer,Shipped,Faisalabad,-999.0,Invalid total_amount
+1015509,25784,5101,2024-08-06,3,0.0,Card,Shipped,Peshawar,-999.0,Invalid total_amount
+1015656,26687,5400,2025-01-27,5,5.0,Cash,Completed,Lahore,-999.0,Invalid total_amount
+1015681,12369,5166,2025-11-14,1,110.0,Cash,Returned,Lahore,71924.38,Invalid discount_pct
+1015746,16366,5090,2024-04-16,6,110.0,Cash,Shipped,Islamabad,35167.87,Invalid discount_pct
+1015747,18304,5139,2024-12-23,0,20.0,Unknown,Shipped,Karachi,111946.9,Invalid quantity
+1015797,34831,5020,2024-07-04,3,110.0,Easypaisa,Shipped,Karachi,360677.07,Invalid discount_pct
+1015829,31847,5223,2025-10-13,0,0.0,Bank Transfer,Cancelled,Lahore,387027.51,Invalid quantity
+1015872,29019,5130,2025-11-22,0,20.0,Card,Pending,Lahore,34047.76,Invalid quantity
+1015895,22713,5376,2025-03-14,0,10.0,JazzCash,Pending,Karachi,176913.51,Invalid quantity
+1016084,21603,5025,2025-12-12,0,10.0,Unknown,Shipped,Peshawar,495207.4,Invalid quantity
+1016115,14746,5329,2025-08-22,6,110.0,Card,Shipped,Islamabad,640631.72,Invalid discount_pct
+1016119,12187,5143,2025-01-04,0,5.0,Easypaisa,Cancelled,Rawalpindi,384396.86,Invalid quantity
+1016267,10110,5217,2024-12-09,6,5.0,Cash,Cancelled,Peshawar,-999.0,Invalid total_amount
+1016276,23593,5244,2024-01-11,0,10.0,Unknown,Cancelled,Karachi,246369.31,Invalid quantity
+1016307,33878,5121,2025-09-19,0,5.0,Easypaisa,Completed,Karachi,468576.71,Invalid quantity
+1016344,31049,5251,2025-09-20,0,15.0,JazzCash,Cancelled,Faisalabad,370297.66,Invalid quantity
+1016350,16821,5259,2025-12-18,7,110.0,Card,Returned,Faisalabad,585214.84,Invalid discount_pct
+1016397,24629,5301,2024-02-10,0,0.0,Card,Completed,Karachi,312976.32,Invalid quantity
+1016478,21294,5337,2025-03-14,1,110.0,Card,Shipped,Lahore,85338.88,Invalid discount_pct
+1016507,31673,5159,2024-01-30,2,110.0,Card,Completed,Islamabad,330126.86,Invalid discount_pct
+1016527,19031,5152,2024-01-30,5,110.0,Unknown,Completed,Islamabad,497329.25,Invalid discount_pct
+1016550,31386,5237,2024-04-28,2,5.0,Card,Completed,Multan,-999.0,Invalid total_amount
+1016676,10797,5182,2024-10-17,0,20.0,Cash,Completed,Peshawar,535181.36,Invalid quantity
+1016689,19923,5383,2025-10-29,3,0.0,Card,Cancelled,Peshawar,-999.0,Invalid total_amount
+1016707,30800,5279,2024-06-11,4,110.0,Bank Transfer,Shipped,Karachi,263740.32,Invalid discount_pct
+1016741,22175,5340,2024-01-04,3,20.0,JazzCash,Pending,Lahore,-999.0,Invalid total_amount
+1016803,27266,5339,2024-12-04,0,0.0,Easypaisa,Cancelled,Multan,207970.0,Invalid quantity
+1017064,27456,5299,2025-10-16,6,15.0,Card,Shipped,Peshawar,-999.0,Invalid total_amount
+1017175,24529,5051,2024-03-28,0,0.0,Bank Transfer,Pending,Multan,142903.31,Invalid quantity
+1017276,17878,5008,2025-05-02,3,0.0,Easypaisa,Cancelled,Rawalpindi,-999.0,Invalid total_amount
+1017291,21591,5324,2025-05-23,5,0.0,Cash,Completed,Rawalpindi,-999.0,Invalid total_amount
+1017395,26470,5026,2024-05-02,0,0.0,JazzCash,Completed,Lahore,1008109.62,Invalid quantity
+1017409,11333,5205,2024-08-05,0,0.0,Card,Pending,Lahore,206302.6,Invalid quantity
+1017434,19446,5061,2024-02-22,1,15.0,Bank Transfer,Pending,Lahore,-999.0,Invalid total_amount
+1017514,14867,5077,2024-03-20,0,0.0,Card,Pending,Peshawar,110698.18,Invalid quantity
+1017520,32534,5263,2025-02-18,5,15.0,Card,Completed,Faisalabad,-999.0,Invalid total_amount
+1017689,28616,5217,2025-04-28,0,0.0,Easypaisa,Cancelled,Lahore,170989.47,Invalid quantity
+1017873,18210,5116,2025-09-01,0,0.0,Card,Completed,Karachi,217646.97,Invalid quantity
+1017895,13226,5219,2025-05-09,6,5.0,Card,Returned,Islamabad,-999.0,Invalid total_amount
+1017928,27011,5293,2024-05-23,4,5.0,JazzCash,Cancelled,Peshawar,-999.0,Invalid total_amount
+1018057,34858,5188,2024-08-15,6,110.0,Bank Transfer,Cancelled,Islamabad,74887.07,Invalid discount_pct
+1018207,31650,5156,2025-08-31,6,0.0,Card,Completed,Islamabad,-999.0,Invalid total_amount
+1018289,33481,5036,2024-02-06,2,5.0,Bank Transfer,Returned,Multan,-999.0,Invalid total_amount
+1018461,21585,5029,2025-06-02,3,110.0,Card,Completed,Karachi,308143.38,Invalid discount_pct
+1018594,32113,5139,2024-08-11,0,0.0,Card,Returned,Rawalpindi,839601.72,Invalid quantity
+1018596,32954,5303,2024-01-11,4,5.0,Unknown,Returned,Karachi,-999.0,Invalid total_amount
+1018640,12564,5011,2024-05-25,2,0.0,Easypaisa,Completed,Lahore,-999.0,Invalid total_amount
+1018708,21923,5230,2024-05-24,3,0.0,Unknown,Returned,Faisalabad,-999.0,Invalid total_amount
+1018764,28162,5200,2024-03-02,0,5.0,JazzCash,Pending,Lahore,113093.51,Invalid quantity
+1018774,19485,5315,2024-04-15,3,0.0,Bank Transfer,Completed,Lahore,-999.0,Invalid total_amount
+1018846,26413,5375,2024-08-03,6,110.0,Card,Shipped,Karachi,739627.27,Invalid discount_pct
+1018888,33888,5343,2025-01-22,0,15.0,Cash,Shipped,Karachi,52493.92,Invalid quantity
+1018891,30639,5163,2024-04-30,7,110.0,Easypaisa,Completed,Multan,306616.31,Invalid discount_pct
+1018894,34713,5119,2025-05-04,6,0.0,Cash,Completed,Karachi,-999.0,Invalid total_amount
+1019127,23727,5297,2025-08-06,3,110.0,Easypaisa,Returned,Peshawar,10301.21,Invalid discount_pct
+1019135,30976,5041,2024-07-08,0,25.0,Cash,Pending,Rawalpindi,725379.95,Invalid quantity
+1019200,28632,5252,2024-06-24,3,110.0,Bank Transfer,Completed,Karachi,296007.57,Invalid discount_pct
+1019222,34518,5269,2025-11-28,2,15.0,Card,Pending,Rawalpindi,-999.0,Invalid total_amount
+1019243,27387,5269,2025-06-15,1,110.0,Cash,Completed,Peshawar,20258.5,Invalid discount_pct
+1019255,34438,5023,2024-04-20,0,15.0,Unknown,Shipped,Karachi,75280.97,Invalid quantity
+1019427,32499,5120,2024-04-16,0,0.0,Card,Returned,Karachi,346906.15,Invalid quantity
+1019431,18651,5196,2024-10-01,2,0.0,Card,Completed,Faisalabad,-999.0,Invalid total_amount
+1019579,25299,5003,2025-12-07,5,0.0,Cash,Shipped,Lahore,-999.0,Invalid total_amount
+1019625,32896,5302,2024-08-01,6,5.0,Card,Completed,Multan,-999.0,Invalid total_amount
+1019747,31705,5328,2025-05-22,6,15.0,Card,Shipped,Rawalpindi,-999.0,Invalid total_amount
+1019880,21276,5056,2024-07-15,0,0.0,Bank Transfer,Completed,Lahore,130617.5,Invalid quantity
+1019963,18648,5156,2024-04-06,4,20.0,Cash,Completed,Islamabad,-999.0,Invalid total_amount
