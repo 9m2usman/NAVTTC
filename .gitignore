@@ -22,3 +22,5 @@ ENV/
 .vscode/
 .idea/
 
+# Large datasets exceeding GitHub HTTP upload timeout limits
+WEEK_6/CLASS_5/models_real_life_problem/creditcard.csv.gz
